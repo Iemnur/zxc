@@ -1266,7 +1266,7 @@ def handler_add_text_asm(ctx):
 
     prev_inst = ctx.assembler.statements[-1]  # type: Instruction
     v = prev_inst.operands[0].value  # type: Variable
-        if prev_inst.opcode != Opcode.PUSH or v.var_type.value != VariableType.STR:
+    if prev_inst.opcode != Opcode.PUSH or v.var_type.value != VariableType.STR:
         print 'Add dummy push string. Line {}!'.format(ctx.line_idx - 1)
         push_op = Opcode.PUSH
         push_line = U'{} {} ""'.format(Opcode.get_name(push_op),
