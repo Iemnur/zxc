@@ -73,7 +73,7 @@ jobs:
         path: |
           ./${{env.DIST_PATH}}/**/*.*
     
-    -name: Upload build
+    - name: Upload build
       uses: actions/upload-artifact@v2
       with:
         name: build
