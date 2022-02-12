@@ -1266,8 +1266,28 @@ def handler_add_text_asm(ctx):
 
     prev_inst = ctx.assembler.statements[-1]  # type: Instruction
     v = prev_inst.operands[0].value  # type: Variable
-    if prev_inst.opcode != Opcode.PUSH and v.var_type.value != VariableType.STR:
-        raise ValueError('Need push string instruction first. Line {}!'.format(ctx.line_idx - 1))
+        if prev_inst.opcode != Opcode.PUSH or v.var_type.value != VariableType.STR:
+        print 'Add dummy push string. Line {}!'.format(ctx.line_idx - 1)
+        push_op = Opcode.PUSH
+        push_line = U'{} {} ""'.format(Opcode.get_name(push_op),
+                                       VariableType.get_type_name(VariableType.STR))
+        push_string_inst = Instruction(push_op)
+        push_string_inst.descriptor = SSOpTable.get_inst_desc(push_op)
+        push_string_inst.text = push_line
+
+        ctx.instruction = push_string_inst
+        ctx.descriptor = push_string_inst.descriptor
+
+        current_line = ctx.line
+        ctx.line = push_line
+        push_string_inst = handler_push_asm(ctx)
+        ctx.assembler.statements.append(push_string_inst)
+
+        ctx.line = current_line
+        ctx.instruction = inst
+        ctx.descriptor = inst.descriptor
+
+        v = push_string_inst.operands[0].value
 
     string_idx = v.value
     line_code = ctx.assembler.current_line_code
