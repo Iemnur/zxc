@@ -43,8 +43,7 @@ def get_sheet_data(sheet_name, base_url, kk):
     return False
 
 
-def proc_data(base_url, kk, folder_org_txt):
-    folder_data_out = 'data/sheet'
+def proc_data(base_url, kk, folder_org_txt, folder_data_out):
     make_dirs(folder_data_out)
 
     if base_url and kk:
@@ -84,14 +83,16 @@ def main():
     base_url = None
     kk = None
     folder_org_txt = './'
+    folder_data_out = 'dist/sheet'
     # folder_org_txt = 'data/rwp_jp_dis/resources'
 
-    if len(sys.argv) > 3:
+    if len(sys.argv) > 4:
         base_url = sys.argv[1]
         kk = sys.argv[2]
         folder_org_txt = sys.argv[3]
+        folder_data_out = sys.argv[4]
 
-    proc_data(base_url, kk, folder_org_txt)
+    proc_data(base_url, kk, folder_org_txt, folder_data_out)
     print 'Done!'
     pass
 
