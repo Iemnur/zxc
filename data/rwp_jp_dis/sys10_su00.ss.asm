@@ -6,15 +6,15 @@ include strings "resources/sys10_su00.strings.txt"
 
 #Z00:
 LABEL_0:
-0x00000005   LINE 27
-0x0000000A   OPEN
-0x0000000B   PUSH Int 92
-0x00000014   PUSH Int 2
-0x0000001D   PUSH Str 0 ; dummy
-0x00000026   PUSH Int 76
-0x0000002F   PUSH Str 1 ; R9n1QJLP
-0x00000038   CALL func_system.disc_check 0 (Str, Int, Str) ():Void
-0x00000055   POP Void
+0x00000005   ;LINE 27
+0x0000000A   ;OPEN
+0x0000000B   ;PUSH Int 92
+0x00000014   ;PUSH Int 2
+0x0000001D   ;PUSH Str 0 ; dummy
+0x00000026   ;PUSH Int 76
+0x0000002F   ;PUSH Str 1 ; R9n1QJLP
+0x00000038   ;CALL func_system.disc_check 0 (Str, Int, Str) ():Void
+0x00000055   ;POP Void
 0x0000005A   LINE 30
 0x0000005F   OPEN
 0x00000060   PUSH Int 31
