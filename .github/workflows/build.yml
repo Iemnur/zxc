@@ -72,7 +72,8 @@ jobs:
         name: dist
         path: |
           ./${{env.DIST_PATH}}/**/*.*
-        
+      
+      with:
         name: build
         path: |
           ./${{env.BUILD_PATH}}/**/*.*
