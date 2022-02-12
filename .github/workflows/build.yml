@@ -48,7 +48,7 @@ jobs:
     - name: Proc data from sheet
       run: |
         python sheets.py "$BASE_API_URL" "$KK" "$ASM_BUILD_PATH/resources" "$SHEET_PROC_BUILD_PATH"
-        cp -v "$SHEET_PROC_BUILD_PATH/txt" "$ASM_BUILD_PATH/resources"
+        cp -rv "$SHEET_PROC_BUILD_PATH/txt/*.txt" "$ASM_BUILD_PATH/resources"
 
     - name: Assembler
       run: |
