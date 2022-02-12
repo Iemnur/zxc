@@ -36,7 +36,7 @@ jobs:
     - name: Test Assembler
       run: |
         mkdir -p "$SS_BUILD_PATH"
-        python main.py -multi "$SS_DISASSEMBLER_PATH" "$SS_BUILD_PATH"
+        python main.py -multi -asm "$SS_DISASSEMBLER_PATH" "$SS_BUILD_PATH"
     
     - name: Upload build
       uses: actions/upload-artifact@v2
