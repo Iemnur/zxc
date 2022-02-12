@@ -1,0 +1,86 @@
+// <0000> ef_ch_sks_lt00
+<0000> ef_ch_sks_lt00
+
+// <0001> $g_fa_update_particle
+<0001> $g_fa_update_particle
+
+// <0002> ef_ch_sks_lt01
+<0002> ef_ch_sks_lt01
+
+// <0003> $g_fa_update_particle
+<0003> $g_fa_update_particle
+
+// <0004> ef_ch_sks_lt02
+<0004> ef_ch_sks_lt02
+
+// <0005> $g_fa_update_particle
+<0005> $g_fa_update_particle
+
+// <0006> ef_ch_sks_lt03
+<0006> ef_ch_sks_lt03
+
+// <0007> $g_fa_update_particle
+<0007> $g_fa_update_particle
+
+// <0008> ef_ch_sks_lt02
+<0008> ef_ch_sks_lt02
+
+// <0009> $g_fa_update_particle
+<0009> $g_fa_update_particle
+
+// <0010> dummy
+<0010> dummy
+
+// <0011> fgch10a
+<0011> fgch10a
+
+// <0012> fgch10b
+<0012> fgch10b
+
+// <0013> ef_ch_sks_mask00
+<0013> ef_ch_sks_mask00
+
+// <0014> siro
+<0014> siro
+
+// <0015> sys00_sys00
+<0015> sys00_sys00
+
+// <0016> power1
+<0016> power1
+
+// <0017> sys00_sys00
+<0017> sys00_sys00
+
+// <0018> power2
+<0018> power2
+
+// <0019> sys00_sys00
+<0019> sys00_sys00
+
+// <0020> power2
+<0020> power2
+
+// <0021> sys00_sys00
+<0021> sys00_sys00
+
+// <0022> syuwawa
+<0022> syuwawa
+
+// <0023> ef_ch_sks_mh00
+<0023> ef_ch_sks_mh00
+
+// <0024> sys00_sys00
+<0024> sys00_sys00
+
+// <0025> sys00_sys00
+<0025> sys00_sys00
+
+// <0026> sys00_sys00
+<0026> sys00_sys00
+
+// <0027> sys00_sys00
+<0027> sys00_sys00
+
+// <0028> sys00_sys00
+<0028> sys00_sys00

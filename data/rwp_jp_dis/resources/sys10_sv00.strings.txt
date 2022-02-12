@@ -1,0 +1,428 @@
+// <0000> 
+<0000> 
+
+// <0001> $FaAnmXcd
+<0001> $FaAnmXcd
+
+// <0002> $FaAnmXcd
+<0002> $FaAnmXcd
+
+// <0003> $FaAnmXcd
+<0003> $FaAnmXcd
+
+// <0004> $FaAnmXcd
+<0004> $FaAnmXcd
+
+// <0005> $FaAnmXcd
+<0005> $FaAnmXcd
+
+// <0006> $FaAnmXcd
+<0006> $FaAnmXcd
+
+// <0007> $FaAnmXcd
+<0007> $FaAnmXcd
+
+// <0008> $FaAnmXcd
+<0008> $FaAnmXcd
+
+// <0009> $FaAnmXcd
+<0009> $FaAnmXcd
+
+// <0010> $FaAnmXcd
+<0010> $FaAnmXcd
+
+// <0011> $FaAnmXcd
+<0011> $FaAnmXcd
+
+// <0012> $FaAnmXcd
+<0012> $FaAnmXcd
+
+// <0013> $FaAnmXcd
+<0013> $FaAnmXcd
+
+// <0014> $FaAnmXcd
+<0014> $FaAnmXcd
+
+// <0015> $FaAnmXcd
+<0015> $FaAnmXcd
+
+// <0016> $FaAnmXcd
+<0016> $FaAnmXcd
+
+// <0017> $FaAnmXcd
+<0017> $FaAnmXcd
+
+// <0018> $FaAnmXcd
+<0018> $FaAnmXcd
+
+// <0019> $FaAnmXcd
+<0019> $FaAnmXcd
+
+// <0020> $FaAnmXcd
+<0020> $FaAnmXcd
+
+// <0021> $FaAnmXcd
+<0021> $FaAnmXcd
+
+// <0022> $FaAnmXcd
+<0022> $FaAnmXcd
+
+// <0023> $FaAnmXcd
+<0023> $FaAnmXcd
+
+// <0024> $FaAnmXcd
+<0024> $FaAnmXcd
+
+// <0025> $FaAnmXcd
+<0025> $FaAnmXcd
+
+// <0026> $FaAnmXcd
+<0026> $FaAnmXcd
+
+// <0027> $FaAnmXcd
+<0027> $FaAnmXcd
+
+// <0028> $FaAnmXcd
+<0028> $FaAnmXcd
+
+// <0029> $FaAnmXcd
+<0029> $FaAnmXcd
+
+// <0030> $FaAnmXcd
+<0030> $FaAnmXcd
+
+// <0031> $FaAnmXcd
+<0031> $FaAnmXcd
+
+// <0032> $FaAnmXcd
+<0032> $FaAnmXcd
+
+// <0033> $FaAnmXcd
+<0033> $FaAnmXcd
+
+// <0034> $FaAnmXcd
+<0034> $FaAnmXcd
+
+// <0035> $FaAnmXcd
+<0035> $FaAnmXcd
+
+// <0036> $FaAnmXcd
+<0036> $FaAnmXcd
+
+// <0037> $FaAnmXcd
+<0037> $FaAnmXcd
+
+// <0038> $FaAnmXcd
+<0038> $FaAnmXcd
+
+// <0039> $FaAnmXcd
+<0039> $FaAnmXcd
+
+// <0040> $FaAnmXcd
+<0040> $FaAnmXcd
+
+// <0041> $FaAnmXcd
+<0041> $FaAnmXcd
+
+// <0042> $FaAnmXcd
+<0042> $FaAnmXcd
+
+// <0043> $FaAnmXcd
+<0043> $FaAnmXcd
+
+// <0044> $FaAnmXcd
+<0044> $FaAnmXcd
+
+// <0045> $FaAnmXcd
+<0045> $FaAnmXcd
+
+// <0046> $FaAnmXcd
+<0046> $FaAnmXcd
+
+// <0047> $FaAnmXcd
+<0047> $FaAnmXcd
+
+// <0048> mn_sva_pg
+<0048> mn_sva_pg
+
+// <0049> mn_svb_pg
+<0049> mn_svb_pg
+
+// <0050> 
+<0050> 
+
+// <0051> 
+<0051> 
+
+// <0052> 
+<0052> 
+
+// <0053> 
+<0053> 
+
+// <0054> 
+<0054> 
+
+// <0055> 
+<0055> 
+
+// <0056> ＜コメントを入力します＞
+<0056> ＜コメントを入力します＞
+
+// <0057> /
+<0057> /
+
+// <0058> /
+<0058> /
+
+// <0059>  (
+<0059>  (
+
+// <0060> :
+<0060> :
+
+// <0061> )
+<0061> )
+
+// <0062> 
+<0062> 
+
+// <0063> 
+<0063> 
+
+// <0064> 
+<0064> 
+
+// <0065> 
+<0065> 
+
+// <0066> 
+<0066> 
+
+// <0067> $FaAnmXcd
+<0067> $FaAnmXcd
+
+// <0068> $FaAnmXcd
+<0068> $FaAnmXcd
+
+// <0069> 
+<0069> 
+
+// <0070> dummy
+<0070> dummy
+
+// <0071> sys10_sm00
+<0071> sys10_sm00
+
+// <0072> sys10_sm00
+<0072> sys10_sm00
+
+// <0073> sys10_sm00
+<0073> sys10_sm00
+
+// <0074> sys10_sm00
+<0074> sys10_sm00
+
+// <0075> sys10_sm00
+<0075> sys10_sm00
+
+// <0076> sys10_sm00
+<0076> sys10_sm00
+
+// <0077> sys10_sm00
+<0077> sys10_sm00
+
+// <0078> mn_sva_bg00
+<0078> mn_sva_bg00
+
+// <0079> mn_sva_bg01
+<0079> mn_sva_bg01
+
+// <0080> mn_svb_bg00
+<0080> mn_svb_bg00
+
+// <0081> mn_svb_bg01
+<0081> mn_svb_bg01
+
+// <0082> mn_sva_sb_body00
+<0082> mn_sva_sb_body00
+
+// <0083> mn_svb_sb_body00
+<0083> mn_svb_sb_body00
+
+// <0084> mn_sva_sb_head00
+<0084> mn_sva_sb_head00
+
+// <0085> mn_svb_sb_head00
+<0085> mn_svb_sb_head00
+
+// <0086> mn_sva_sb_no00
+<0086> mn_sva_sb_no00
+
+// <0087> mn_sva_sb_no00
+<0087> mn_sva_sb_no00
+
+// <0088> mn_sva_sb_no00
+<0088> mn_sva_sb_no00
+
+// <0089> mn_svb_sb_no00
+<0089> mn_svb_sb_no00
+
+// <0090> mn_svb_sb_no00
+<0090> mn_svb_sb_no00
+
+// <0091> mn_svb_sb_no00
+<0091> mn_svb_sb_no00
+
+// <0092> mn_sva_sb_copy00
+<0092> mn_sva_sb_copy00
+
+// <0093> mn_svb_sb_copy00
+<0093> mn_svb_sb_copy00
+
+// <0094> mn_sva_sb_comeb00
+<0094> mn_sva_sb_comeb00
+
+// <0095> mn_svb_sb_comeb00
+<0095> mn_svb_sb_comeb00
+
+// <0096> mn_sva_sb_lock00
+<0096> mn_sva_sb_lock00
+
+// <0097> mn_svb_sb_lock00
+<0097> mn_svb_sb_lock00
+
+// <0098> mn_svc_sb_new00
+<0098> mn_svc_sb_new00
+
+// <0099> mn_svc_sb_xcd00
+<0099> mn_svc_sb_xcd00
+
+// <0100> mn_sva_info00
+<0100> mn_sva_info00
+
+// <0101> mn_sva_info01
+<0101> mn_sva_info01
+
+// <0102> mn_sva_info01
+<0102> mn_sva_info01
+
+// <0103> mn_svb_info00
+<0103> mn_svb_info00
+
+// <0104> mn_svb_info01
+<0104> mn_svb_info01
+
+// <0105> mn_svb_info01
+<0105> mn_svb_info01
+
+// <0106> mn_svc_dust00
+<0106> mn_svc_dust00
+
+// <0107> mn_svc_hatena00
+<0107> mn_svc_hatena00
+
+// <0108> mn_sva_ghost00
+<0108> mn_sva_ghost00
+
+// <0109> mn_svb_ghost00
+<0109> mn_svb_ghost00
+
+// <0110> mn_sva_save00
+<0110> mn_sva_save00
+
+// <0111> mn_svc_xcd00
+<0111> mn_svc_xcd00
+
+// <0112> mn_sva_warning00
+<0112> mn_sva_warning00
+
+// <0113> mn_svb_warning00
+<0113> mn_svb_warning00
+
+// <0114> mn_sva_cfm_bg00
+<0114> mn_sva_cfm_bg00
+
+// <0115> mn_sva_cfm_label00
+<0115> mn_sva_cfm_label00
+
+// <0116> mn_sva_cfm_pbtn00
+<0116> mn_sva_cfm_pbtn00
+
+// <0117> mn_sva_cfm_pbtn01
+<0117> mn_sva_cfm_pbtn01
+
+// <0118> mn_sva_cfm_cbox00
+<0118> mn_sva_cfm_cbox00
+
+// <0119> mn_svb_cfm_bg00
+<0119> mn_svb_cfm_bg00
+
+// <0120> mn_svb_cfm_label00
+<0120> mn_svb_cfm_label00
+
+// <0121> mn_svb_cfm_pbtn00
+<0121> mn_svb_cfm_pbtn00
+
+// <0122> mn_svb_cfm_pbtn01
+<0122> mn_svb_cfm_pbtn01
+
+// <0123> mn_svb_cfm_cbox00
+<0123> mn_svb_cfm_cbox00
+
+// <0124> sys10_sm00
+<0124> sys10_sm00
+
+// <0125> sys10_sm00
+<0125> sys10_sm00
+
+// <0126> sys10_sm00
+<0126> sys10_sm00
+
+// <0127> sys10_sm00
+<0127> sys10_sm00
+
+// <0128> sys10_sm00
+<0128> sys10_sm00
+
+// <0129> sys10_sm00
+<0129> sys10_sm00
+
+// <0130> sys10_sm00
+<0130> sys10_sm00
+
+// <0131> sys10_tt01
+<0131> sys10_tt01
+
+// <0132> sys10_sm00
+<0132> sys10_sm00
+
+// <0133> sys10_sm00
+<0133> sys10_sm00
+
+// <0134> sys10_sm00
+<0134> sys10_sm00
+
+// <0135> sys10_sm00
+<0135> sys10_sm00
+
+// <0136> sys10_sm00
+<0136> sys10_sm00
+
+// <0137> mn_sva_help00
+<0137> mn_sva_help00
+
+// <0138> mn_sva_help01
+<0138> mn_sva_help01
+
+// <0139> mn_sva_help02
+<0139> mn_sva_help02
+
+// <0140> mn_svb_help00
+<0140> mn_svb_help00
+
+// <0141> mn_svb_help01
+<0141> mn_svb_help01
+
+// <0142> mn_svb_help02
+<0142> mn_svb_help02

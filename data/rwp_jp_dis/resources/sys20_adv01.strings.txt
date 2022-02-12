@@ -1,0 +1,620 @@
+// <0000> 
+<0000> 
+
+// <0001> snull
+<0001> snull
+
+// <0002> @_WIPE : 対象キャラがいません。
+<0002> @_WIPE : 対象キャラがいません。
+
+// <0003> 00
+<0003> 00
+
+// <0004> 00
+<0004> 00
+
+// <0005> 
+<0005> 
+
+// <0006> 
+<0006> 
+
+// <0007> 
+<0007> 
+
+// <0008> 
+<0008> 
+
+// <0009> ad_mk_a00
+<0009> ad_mk_a00
+
+// <0010> ad_mk_a00
+<0010> ad_mk_a00
+
+// <0011> セル／コマンド : 不正なセルです。
+<0011> セル／コマンド : 不正なセルです。
+
+// <0012> セル／コマンド : 不正なセルです。
+<0012> セル／コマンド : 不正なセルです。
+
+// <0013> $FA_EF_ACT
+<0013> $FA_EF_ACT
+
+// <0014> $FA_EF_ACT
+<0014> $FA_EF_ACT
+
+// <0015> $FA_EF_ACT
+<0015> $FA_EF_ACT
+
+// <0016> $FA_EF_ACT
+<0016> $FA_EF_ACT
+
+// <0017> $FA_EF_ACT
+<0017> $FA_EF_ACT
+
+// <0018> $FA_EF_ACT
+<0018> $FA_EF_ACT
+
+// <0019> $FA_EF_ACT
+<0019> $FA_EF_ACT
+
+// <0020> $FA_EF_ACT
+<0020> $FA_EF_ACT
+
+// <0021> $FA_EF_ACT
+<0021> $FA_EF_ACT
+
+// <0022> $FA_EF_ACT
+<0022> $FA_EF_ACT
+
+// <0023> $FA_EF_ACT
+<0023> $FA_EF_ACT
+
+// <0024> $FA_EF_ACT
+<0024> $FA_EF_ACT
+
+// <0025> $FA_EF_ACT
+<0025> $FA_EF_ACT
+
+// <0026> $FA_EF_ACT
+<0026> $FA_EF_ACT
+
+// <0027> $FA_EF_ACT
+<0027> $FA_EF_ACT
+
+// <0028> $FA_EF_ACT
+<0028> $FA_EF_ACT
+
+// <0029> $FA_EF_ACT
+<0029> $FA_EF_ACT
+
+// <0030> $FA_EF_ACT
+<0030> $FA_EF_ACT
+
+// <0031> $FA_EF_ACT
+<0031> $FA_EF_ACT
+
+// <0032> $FA_EF_ACT
+<0032> $FA_EF_ACT
+
+// <0033> $FA_EF_ACT
+<0033> $FA_EF_ACT
+
+// <0034> $FA_EF_ACT
+<0034> $FA_EF_ACT
+
+// <0035> $FA_EF_ACT
+<0035> $FA_EF_ACT
+
+// <0036> $FA_EF_ACT
+<0036> $FA_EF_ACT
+
+// <0037> $FA_EF_ACT
+<0037> $FA_EF_ACT
+
+// <0038> $FA_EF_ACT
+<0038> $FA_EF_ACT
+
+// <0039> $FA_EF_ACT
+<0039> $FA_EF_ACT
+
+// <0040> $FA_EF_ACT
+<0040> $FA_EF_ACT
+
+// <0041> $FA_EF_ACT
+<0041> $FA_EF_ACT
+
+// <0042> $FA_EF_ACT
+<0042> $FA_EF_ACT
+
+// <0043> $FA_EF_ACT
+<0043> $FA_EF_ACT
+
+// <0044> $FA_EF_ACT
+<0044> $FA_EF_ACT
+
+// <0045> $FA_EF_ACT
+<0045> $FA_EF_ACT
+
+// <0046> $FA_EF_ACT
+<0046> $FA_EF_ACT
+
+// <0047> $FA_EF_ACT
+<0047> $FA_EF_ACT
+
+// <0048> $FA_EF_ACT
+<0048> $FA_EF_ACT
+
+// <0049> $FA_EF_ACT
+<0049> $FA_EF_ACT
+
+// <0050> $FA_EF_ACT
+<0050> $FA_EF_ACT
+
+// <0051> $FA_EF_ACT
+<0051> $FA_EF_ACT
+
+// <0052> $FA_EF_ACT
+<0052> $FA_EF_ACT
+
+// <0053> $FA_EF_ACT
+<0053> $FA_EF_ACT
+
+// <0054> $FA_EF_ACT
+<0054> $FA_EF_ACT
+
+// <0055> $FA_EF_ACT
+<0055> $FA_EF_ACT
+
+// <0056> $FA_EF_ACT
+<0056> $FA_EF_ACT
+
+// <0057> $FA_EF_ACT
+<0057> $FA_EF_ACT
+
+// <0058> $FA_EF_ACT
+<0058> $FA_EF_ACT
+
+// <0059> $FA_EF_ACT
+<0059> $FA_EF_ACT
+
+// <0060> $FA_EF_ACT
+<0060> $FA_EF_ACT
+
+// <0061> $FA_EF_ACT
+<0061> $FA_EF_ACT
+
+// <0062> $FA_EF_ACT
+<0062> $FA_EF_ACT
+
+// <0063> $FA_EF_ACT
+<0063> $FA_EF_ACT
+
+// <0064> $FA_EF_ACT
+<0064> $FA_EF_ACT
+
+// <0065> $FA_EF_ACT
+<0065> $FA_EF_ACT
+
+// <0066> $FA_EF_ACT
+<0066> $FA_EF_ACT
+
+// <0067> $FA_EF_ACT
+<0067> $FA_EF_ACT
+
+// <0068> $FA_EF_ACT
+<0068> $FA_EF_ACT
+
+// <0069> $FA_EF_ACT
+<0069> $FA_EF_ACT
+
+// <0070> $FA_EF_ACT
+<0070> $FA_EF_ACT
+
+// <0071> $FA_EF_ACT
+<0071> $FA_EF_ACT
+
+// <0072> $FA_EF_ACT
+<0072> $FA_EF_ACT
+
+// <0073> $FA_EF_ACT
+<0073> $FA_EF_ACT
+
+// <0074> $FA_EF_ACT
+<0074> $FA_EF_ACT
+
+// <0075> $FA_EF_ACT
+<0075> $FA_EF_ACT
+
+// <0076> $FA_EF_ACT
+<0076> $FA_EF_ACT
+
+// <0077> $FA_EF_ACT
+<0077> $FA_EF_ACT
+
+// <0078> $FA_EF_ACT
+<0078> $FA_EF_ACT
+
+// <0079> $FA_EF_ACT
+<0079> $FA_EF_ACT
+
+// <0080> $FA_EF_ACT
+<0080> $FA_EF_ACT
+
+// <0081> $FA_EF_ACT
+<0081> $FA_EF_ACT
+
+// <0082> $FA_EF_ACT
+<0082> $FA_EF_ACT
+
+// <0083> $FA_EF_ACT
+<0083> $FA_EF_ACT
+
+// <0084> $FA_EF_ACT
+<0084> $FA_EF_ACT
+
+// <0085> $FA_EF_ACT
+<0085> $FA_EF_ACT
+
+// <0086> $FA_EF_ACT
+<0086> $FA_EF_ACT
+
+// <0087> $FA_EF_ACT
+<0087> $FA_EF_ACT
+
+// <0088> $FA_EF_ACT
+<0088> $FA_EF_ACT
+
+// <0089> $FA_EF_PCM_PLAY
+<0089> $FA_EF_PCM_PLAY
+
+// <0090> dummy
+<0090> dummy
+
+// <0091> sys20_adv01
+<0091> sys20_adv01
+
+// <0092> sys20_adv00
+<0092> sys20_adv00
+
+// <0093> sys20_adv01
+<0093> sys20_adv01
+
+// <0094> sys20_adv00
+<0094> sys20_adv00
+
+// <0095> sys20_adv01
+<0095> sys20_adv01
+
+// <0096> sys20_adv01
+<0096> sys20_adv01
+
+// <0097> sys20_adv01
+<0097> sys20_adv01
+
+// <0098> sys20_adv00
+<0098> sys20_adv00
+
+// <0099> sys20_adv01
+<0099> sys20_adv01
+
+// <0100> sys20_adv00
+<0100> sys20_adv00
+
+// <0101> ad_ft_rems00
+<0101> ad_ft_rems00
+
+// <0102> sys10_fa00
+<0102> sys10_fa00
+
+// <0103> sys20_adv01
+<0103> sys20_adv01
+
+// <0104> sys00_sys00
+<0104> sys00_sys00
+
+// <0105> sys20_adv01
+<0105> sys20_adv01
+
+// <0106> sys20_adv01
+<0106> sys20_adv01
+
+// <0107> sys20_adv01
+<0107> sys20_adv01
+
+// <0108> ef_ys_ibt_aura00
+<0108> ef_ys_ibt_aura00
+
+// <0109> sys20_adv01
+<0109> sys20_adv01
+
+// <0110> sys20_adv01
+<0110> sys20_adv01
+
+// <0111> sys20_adv01
+<0111> sys20_adv01
+
+// <0112> sys20_adv01
+<0112> sys20_adv01
+
+// <0113> sys20_adv01
+<0113> sys20_adv01
+
+// <0114> sys20_adv01
+<0114> sys20_adv01
+
+// <0115> sys20_adv01
+<0115> sys20_adv01
+
+// <0116> sys20_adv01
+<0116> sys20_adv01
+
+// <0117> sys20_adv01
+<0117> sys20_adv01
+
+// <0118> sys20_adv01
+<0118> sys20_adv01
+
+// <0119> sys20_adv01
+<0119> sys20_adv01
+
+// <0120> sys20_adv01
+<0120> sys20_adv01
+
+// <0121> sys20_adv01
+<0121> sys20_adv01
+
+// <0122> sys20_adv01
+<0122> sys20_adv01
+
+// <0123> sys20_adv01
+<0123> sys20_adv01
+
+// <0124> sys20_adv01
+<0124> sys20_adv01
+
+// <0125> sys20_adv01
+<0125> sys20_adv01
+
+// <0126> sys20_adv01
+<0126> sys20_adv01
+
+// <0127> sys20_adv01
+<0127> sys20_adv01
+
+// <0128> sys20_adv01
+<0128> sys20_adv01
+
+// <0129> sys20_adv01
+<0129> sys20_adv01
+
+// <0130> sys20_adv01
+<0130> sys20_adv01
+
+// <0131> sys20_adv01
+<0131> sys20_adv01
+
+// <0132> sys20_adv01
+<0132> sys20_adv01
+
+// <0133> sys20_adv01
+<0133> sys20_adv01
+
+// <0134> sys20_adv01
+<0134> sys20_adv01
+
+// <0135> sys20_adv01
+<0135> sys20_adv01
+
+// <0136> sys20_adv01
+<0136> sys20_adv01
+
+// <0137> sys20_adv01
+<0137> sys20_adv01
+
+// <0138> sys20_adv01
+<0138> sys20_adv01
+
+// <0139> sys20_adv01
+<0139> sys20_adv01
+
+// <0140> sys20_adv01
+<0140> sys20_adv01
+
+// <0141> sys20_adv01
+<0141> sys20_adv01
+
+// <0142> sys20_adv01
+<0142> sys20_adv01
+
+// <0143> sys20_adv01
+<0143> sys20_adv01
+
+// <0144> sys20_adv01
+<0144> sys20_adv01
+
+// <0145> sys20_adv01
+<0145> sys20_adv01
+
+// <0146> sys20_adv01
+<0146> sys20_adv01
+
+// <0147> sys20_adv01
+<0147> sys20_adv01
+
+// <0148> sys20_adv01
+<0148> sys20_adv01
+
+// <0149> sys20_adv01
+<0149> sys20_adv01
+
+// <0150> sys20_adv01
+<0150> sys20_adv01
+
+// <0151> sys20_adv01
+<0151> sys20_adv01
+
+// <0152> sys20_adv01
+<0152> sys20_adv01
+
+// <0153> sys20_adv01
+<0153> sys20_adv01
+
+// <0154> sys20_adv01
+<0154> sys20_adv01
+
+// <0155> sys20_adv01
+<0155> sys20_adv01
+
+// <0156> sys20_adv01
+<0156> sys20_adv01
+
+// <0157> sys20_adv01
+<0157> sys20_adv01
+
+// <0158> sys20_adv01
+<0158> sys20_adv01
+
+// <0159> sys20_adv01
+<0159> sys20_adv01
+
+// <0160> sys20_adv01
+<0160> sys20_adv01
+
+// <0161> sys20_adv01
+<0161> sys20_adv01
+
+// <0162> sys20_adv01
+<0162> sys20_adv01
+
+// <0163> sys20_adv01
+<0163> sys20_adv01
+
+// <0164> sys20_adv01
+<0164> sys20_adv01
+
+// <0165> sys20_adv01
+<0165> sys20_adv01
+
+// <0166> sys20_adv01
+<0166> sys20_adv01
+
+// <0167> sys20_adv01
+<0167> sys20_adv01
+
+// <0168> sys20_adv01
+<0168> sys20_adv01
+
+// <0169> sys20_adv01
+<0169> sys20_adv01
+
+// <0170> sys20_adv01
+<0170> sys20_adv01
+
+// <0171> sys20_adv01
+<0171> sys20_adv01
+
+// <0172> sys20_adv01
+<0172> sys20_adv01
+
+// <0173> sys20_adv01
+<0173> sys20_adv01
+
+// <0174> sys20_adv01
+<0174> sys20_adv01
+
+// <0175> sys20_adv01
+<0175> sys20_adv01
+
+// <0176> sys20_adv01
+<0176> sys20_adv01
+
+// <0177> sys20_adv01
+<0177> sys20_adv01
+
+// <0178> sys20_adv01
+<0178> sys20_adv01
+
+// <0179> sys20_adv01
+<0179> sys20_adv01
+
+// <0180> sys20_adv01
+<0180> sys20_adv01
+
+// <0181> sys20_adv01
+<0181> sys20_adv01
+
+// <0182> sys20_adv01
+<0182> sys20_adv01
+
+// <0183> sys20_adv01
+<0183> sys20_adv01
+
+// <0184> sys20_adv01
+<0184> sys20_adv01
+
+// <0185> sys20_adv01
+<0185> sys20_adv01
+
+// <0186> cgm_sz10
+<0186> cgm_sz10
+
+// <0187> sys20_adv01
+<0187> sys20_adv01
+
+// <0188> sys20_adv01
+<0188> sys20_adv01
+
+// <0189> ef_ys_dai_line00
+<0189> ef_ys_dai_line00
+
+// <0190> sys20_adv01
+<0190> sys20_adv01
+
+// <0191> sys20_adv01
+<0191> sys20_adv01
+
+// <0192> sys20_adv01
+<0192> sys20_adv01
+
+// <0193> sys20_adv01
+<0193> sys20_adv01
+
+// <0194> ef_cm_cm_line00
+<0194> ef_cm_cm_line00
+
+// <0195> sys20_adv01
+<0195> sys20_adv01
+
+// <0196> sys20_adv01
+<0196> sys20_adv01
+
+// <0197> ef_pn_spunch_star00
+<0197> ef_pn_spunch_star00
+
+// <0198> sys20_adv01
+<0198> sys20_adv01
+
+// <0199> sys20_adv01
+<0199> sys20_adv01
+
+// <0200> sys20_adv01
+<0200> sys20_adv01
+
+// <0201> sys20_adv01
+<0201> sys20_adv01
+
+// <0202> sys20_adv01
+<0202> sys20_adv01
+
+// <0203> sys00_sys00
+<0203> sys00_sys00
+
+// <0204> sys00_sys00
+<0204> sys00_sys00
+
+// <0205> sys00_sys00
+<0205> sys00_sys00
+
+// <0206> sys00_sys00
+<0206> sys00_sys00

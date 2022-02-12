@@ -1,0 +1,56 @@
+// <0000> dummy
+<0000> dummy
+
+// <0001> sys10_cf01
+<0001> sys10_cf01
+
+// <0002> sys10_cf02
+<0002> sys10_cf02
+
+// <0003> sys10_cf03
+<0003> sys10_cf03
+
+// <0004> mn_cfa_tab_pbtn00
+<0004> mn_cfa_tab_pbtn00
+
+// <0005> mn_cfa_tab_pbtn01
+<0005> mn_cfa_tab_pbtn01
+
+// <0006> mn_cfa_tab_pbtn02
+<0006> mn_cfa_tab_pbtn02
+
+// <0007> mn_cfe_cfm_bg00
+<0007> mn_cfe_cfm_bg00
+
+// <0008> mn_cfe_cfm_label00
+<0008> mn_cfe_cfm_label00
+
+// <0009> mn_cfe_cfm_pbtn00
+<0009> mn_cfe_cfm_pbtn00
+
+// <0010> mn_cfe_cfm_pbtn01
+<0010> mn_cfe_cfm_pbtn01
+
+// <0011> mn_cfe_cfm_cbox00
+<0011> mn_cfe_cfm_cbox00
+
+// <0012> sys10_cf00
+<0012> sys10_cf00
+
+// <0013> sys10_cf01
+<0013> sys10_cf01
+
+// <0014> sys10_cf02
+<0014> sys10_cf02
+
+// <0015> sys10_cf03
+<0015> sys10_cf03
+
+// <0016> sys10_cf01
+<0016> sys10_cf01
+
+// <0017> sys10_cf02
+<0017> sys10_cf02
+
+// <0018> sys10_cf03
+<0018> sys10_cf03

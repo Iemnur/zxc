@@ -1,0 +1,47 @@
+// <0000> 小鳥ED
+<0000> 小鳥ED
+
+// <0001> _ik_ed_kt_bg
+<0001> _ik_ed_kt_bg
+
+// <0002> _ik_ed_slk
+<0002> _ik_ed_slk
+
+// <0003> siro
+<0003> siro
+
+// <0004> siro
+<0004> siro
+
+// <0005> kuro
+<0005> kuro
+
+// <0006> _ik_ed_kt_bg
+<0006> _ik_ed_kt_bg
+
+// <0007> $fa_bg_change
+<0007> $fa_bg_change
+
+// <0008> _ik_ed_kt_bg
+<0008> _ik_ed_kt_bg
+
+// <0009> $fa_bg_change
+<0009> $fa_bg_change
+
+// <0010> _ik_ed_slk
+<0010> _ik_ed_slk
+
+// <0011> dummy
+<0011> dummy
+
+// <0012> ed_common
+<0012> ed_common
+
+// <0013> bgm048
+<0013> bgm048
+
+// <0014> ed_common
+<0014> ed_common
+
+// <0015> ed_common
+<0015> ed_common

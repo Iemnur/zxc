@@ -1,0 +1,32 @@
+// <0000> $FaDoQSaved
+<0000> $FaDoQSaved
+
+// <0001> dummy
+<0001> dummy
+
+// <0002> mn_mw_cfm_bg00
+<0002> mn_mw_cfm_bg00
+
+// <0003> mn_mw_cfm_label00
+<0003> mn_mw_cfm_label00
+
+// <0004> mn_mw_cfm_pbtn00
+<0004> mn_mw_cfm_pbtn00
+
+// <0005> mn_mw_cfm_pbtn01
+<0005> mn_mw_cfm_pbtn01
+
+// <0006> mn_mw_cfm_cbox00
+<0006> mn_mw_cfm_cbox00
+
+// <0007> mn_mw_saved00
+<0007> mn_mw_saved00
+
+// <0008> mn_mw_saved00
+<0008> mn_mw_saved00
+
+// <0009> kuro
+<0009> kuro
+
+// <0010> sys00_sys00
+<0010> sys00_sys00

@@ -1,0 +1,53 @@
+// <0000> dummy
+<0000> dummy
+
+// <0001> ef_sz_ms_bg00
+<0001> ef_sz_ms_bg00
+
+// <0002> ef_sz_ms_bg00
+<0002> ef_sz_ms_bg00
+
+// <0003> ef_sz_ms_bg00
+<0003> ef_sz_ms_bg00
+
+// <0004> ef_sz_ms_iso00
+<0004> ef_sz_ms_iso00
+
+// <0005> ef_sz_ms_tag00
+<0005> ef_sz_ms_tag00
+
+// <0006> ef_sz_ms_sanm00
+<0006> ef_sz_ms_sanm00
+
+// <0007> ef_sz_ms_sanh00
+<0007> ef_sz_ms_sanh00
+
+// <0008> ef_sz_ms_nom00
+<0008> ef_sz_ms_nom00
+
+// <0009> ef_sz_ms_gln00
+<0009> ef_sz_ms_gln00
+
+// <0010> ef_sz_ms_bg00
+<0010> ef_sz_ms_bg00
+
+// <0011> ef_sz_ms_bg00
+<0011> ef_sz_ms_bg00
+
+// <0012> ef_sz_ms_bg00
+<0012> ef_sz_ms_bg00
+
+// <0013> ef_sz_ms_kiri00
+<0013> ef_sz_ms_kiri00
+
+// <0014> ef_sz_ms_bg01
+<0014> ef_sz_ms_bg01
+
+// <0015> ef_sz_ms_kiri01
+<0015> ef_sz_ms_kiri01
+
+// <0016> ef_sz_ms_bg01
+<0016> ef_sz_ms_bg01
+
+// <0017> ef_sz_ms_bg01
+<0017> ef_sz_ms_bg01

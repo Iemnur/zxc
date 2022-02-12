@@ -1,0 +1,389 @@
+// <0000> 
+<0000> 
+
+// <0001> 
+<0001> 
+
+// <0002> 
+<0002> 
+
+// <0003> 
+<0003> 
+
+// <0004> 
+<0004> 
+
+// <0005> 
+<0005> 
+
+// <0006> 
+<0006> 
+
+// <0007> $FaMap
+<0007> $FaMap
+
+// <0008> $FaMark
+<0008> $FaMark
+
+// <0009> $FaScan
+<0009> $FaScan
+
+// <0010> $FaSu
+<0010> $FaSu
+
+// <0011> 
+<0011> 
+
+// <0012> 
+<0012> 
+
+// <0013> 
+<0013> 
+
+// <0014> mp_map_l_
+<0014> mp_map_l_
+
+// <0015> 
+<0015> 
+
+// <0016> 
+<0016> 
+
+// <0017> 
+<0017> 
+
+// <0018> mp_map_s_
+<0018> mp_map_s_
+
+// <0019> map=
+<0019> map=
+
+// <0020> ,
+<0020> ,
+
+// <0021> (
+<0021> (
+
+// <0022> ,
+<0022> ,
+
+// <0023> )
+<0023> )
+
+// <0024>  cur=
+<0024>  cur=
+
+// <0025> ,
+<0025> ,
+
+// <0026> 
+<0026> 
+
+// <0027> 
+<0027> 
+
+// <0028> 
+<0028> 
+
+// <0029> 
+<0029> 
+
+// <0030> dummy
+<0030> dummy
+
+// <0031> mp_body00
+<0031> mp_body00
+
+// <0032> mp_si_bg00
+<0032> mp_si_bg00
+
+// <0033> mp_si_bat00
+<0033> mp_si_bat00
+
+// <0034> mp_si_ant00
+<0034> mp_si_ant00
+
+// <0035> mp_si_comp00
+<0035> mp_si_comp00
+
+// <0036> sys40_mp20
+<0036> sys40_mp20
+
+// <0037> sys40_mp20
+<0037> sys40_mp20
+
+// <0038> mp_mark00
+<0038> mp_mark00
+
+// <0039> mp_note_bg00
+<0039> mp_note_bg00
+
+// <0040> mp_scan00
+<0040> mp_scan00
+
+// <0041> mp_arw_area00
+<0041> mp_arw_area00
+
+// <0042> mp_arw_left00
+<0042> mp_arw_left00
+
+// <0043> mp_arw_top00
+<0043> mp_arw_top00
+
+// <0044> mp_arw_right00
+<0044> mp_arw_right00
+
+// <0045> mp_arw_bottom00
+<0045> mp_arw_bottom00
+
+// <0046> mp_cmps_bg00
+<0046> mp_cmps_bg00
+
+// <0047> mp_cmps_dir00
+<0047> mp_cmps_dir00
+
+// <0048> mp_env_bg00
+<0048> mp_env_bg00
+
+// <0049> mp_env_label00
+<0049> mp_env_label00
+
+// <0050> mp_env_label00
+<0050> mp_env_label00
+
+// <0051> mp_env_label00
+<0051> mp_env_label00
+
+// <0052> mp_env_label00
+<0052> mp_env_label00
+
+// <0053> mp_env_label00
+<0053> mp_env_label00
+
+// <0054> mp_env_label00
+<0054> mp_env_label00
+
+// <0055> mp_env_cbox00
+<0055> mp_env_cbox00
+
+// <0056> mp_env_cbox01
+<0056> mp_env_cbox01
+
+// <0057> mp_env_cbox02
+<0057> mp_env_cbox02
+
+// <0058> mp_env_cbox03
+<0058> mp_env_cbox03
+
+// <0059> mp_env_cbox04
+<0059> mp_env_cbox04
+
+// <0060> mp_cmd_pbtn00
+<0060> mp_cmd_pbtn00
+
+// <0061> mp_cmd_pbtn01
+<0061> mp_cmd_pbtn01
+
+// <0062> mp_hint00
+<0062> mp_hint00
+
+// <0063> mp_help00
+<0063> mp_help00
+
+// <0064> sys40_mp20
+<0064> sys40_mp20
+
+// <0065> sys40_mp20
+<0065> sys40_mp20
+
+// <0066> mp_su_bg00
+<0066> mp_su_bg00
+
+// <0067> mp_su_logo00
+<0067> mp_su_logo00
+
+// <0068> mp_su_bar00
+<0068> mp_su_bar00
+
+// <0069> mp_su_bar01
+<0069> mp_su_bar01
+
+// <0070> mp_su_bar01
+<0070> mp_su_bar01
+
+// <0071> mp_su_bar02
+<0071> mp_su_bar02
+
+// <0072> mp_su_bar03
+<0072> mp_su_bar03
+
+// <0073> mp_su_now00
+<0073> mp_su_now00
+
+// <0074> mp_su_now00
+<0074> mp_su_now00
+
+// <0075> mp_su_now00
+<0075> mp_su_now00
+
+// <0076> mp_su_now00
+<0076> mp_su_now00
+
+// <0077> mp_su_now00
+<0077> mp_su_now00
+
+// <0078> mp_su_now00
+<0078> mp_su_now00
+
+// <0079> mp_su_now00
+<0079> mp_su_now00
+
+// <0080> mp_su_now00
+<0080> mp_su_now00
+
+// <0081> mp_su_now00
+<0081> mp_su_now00
+
+// <0082> mp_su_now00
+<0082> mp_su_now00
+
+// <0083> mp_su_now00
+<0083> mp_su_now00
+
+// <0084> mp_su_now00
+<0084> mp_su_now00
+
+// <0085> mp_su_now00
+<0085> mp_su_now00
+
+// <0086> mp_su_foot00
+<0086> mp_su_foot00
+
+// <0087> mp_setu00
+<0087> mp_setu00
+
+// <0088> mp_setu01
+<0088> mp_setu01
+
+// <0089> mp_setu00
+<0089> mp_setu00
+
+// <0090> mp_setu01
+<0090> mp_setu01
+
+// <0091> sys40_mp20
+<0091> sys40_mp20
+
+// <0092> sys40_mp20
+<0092> sys40_mp20
+
+// <0093> sys40_mp20
+<0093> sys40_mp20
+
+// <0094> sys40_mp20
+<0094> sys40_mp20
+
+// <0095> sys40_mp20
+<0095> sys40_mp20
+
+// <0096> sys40_mp40
+<0096> sys40_mp40
+
+// <0097> sys40_mp40
+<0097> sys40_mp40
+
+// <0098> sys40_mp30
+<0098> sys40_mp30
+
+// <0099> sys40_mp20
+<0099> sys40_mp20
+
+// <0100> sys40_mp20
+<0100> sys40_mp20
+
+// <0101> sys40_mp30
+<0101> sys40_mp30
+
+// <0102> sys40_mp20
+<0102> sys40_mp20
+
+// <0103> sys40_mp20
+<0103> sys40_mp20
+
+// <0104> sys40_mp30
+<0104> sys40_mp30
+
+// <0105> sys40_mp20
+<0105> sys40_mp20
+
+// <0106> sys40_mp20
+<0106> sys40_mp20
+
+// <0107> sys40_mp30
+<0107> sys40_mp30
+
+// <0108> sys40_mp20
+<0108> sys40_mp20
+
+// <0109> sys40_mp20
+<0109> sys40_mp20
+
+// <0110> sys40_mp30
+<0110> sys40_mp30
+
+// <0111> sys40_mp30
+<0111> sys40_mp30
+
+// <0112> sys40_mp30
+<0112> sys40_mp30
+
+// <0113> sys40_mp30
+<0113> sys40_mp30
+
+// <0114> sys40_mp20
+<0114> sys40_mp20
+
+// <0115> sys40_mp30
+<0115> sys40_mp30
+
+// <0116> sys40_mp30
+<0116> sys40_mp30
+
+// <0117> sys40_mp30
+<0117> sys40_mp30
+
+// <0118> sys40_mp20
+<0118> sys40_mp20
+
+// <0119> sys40_mp30
+<0119> sys40_mp30
+
+// <0120> sys40_mp40
+<0120> sys40_mp40
+
+// <0121> sys40_mp40
+<0121> sys40_mp40
+
+// <0122> sys40_mp30
+<0122> sys40_mp30
+
+// <0123> sys40_mp30
+<0123> sys40_mp30
+
+// <0124> sys40_mp30
+<0124> sys40_mp30
+
+// <0125> sys40_mp30
+<0125> sys40_mp30
+
+// <0126> sys40_mp30
+<0126> sys40_mp30
+
+// <0127> sys40_mp20
+<0127> sys40_mp20
+
+// <0128> sys40_mp20
+<0128> sys40_mp20
+
+// <0129> sys40_mp20
+<0129> sys40_mp20

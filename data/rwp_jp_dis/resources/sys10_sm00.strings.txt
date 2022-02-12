@@ -1,0 +1,104 @@
+// <0000> dummy
+<0000> dummy
+
+// <0001> sys40_mp20
+<0001> sys40_mp20
+
+// <0002> sys40_mp20
+<0002> sys40_mp20
+
+// <0003> sys10_mw01
+<0003> sys10_mw01
+
+// <0004> sys40_mp20
+<0004> sys40_mp20
+
+// <0005> sys10_mm00
+<0005> sys10_mm00
+
+// <0006> sys10_sv00
+<0006> sys10_sv00
+
+// <0007> sys10_sv00
+<0007> sys10_sv00
+
+// <0008> sys10_cf00
+<0008> sys10_cf00
+
+// <0009> mn_sm_menu_cbox00
+<0009> mn_sm_menu_cbox00
+
+// <0010> mn_sm_menu_cbox01
+<0010> mn_sm_menu_cbox01
+
+// <0011> mn_sm_menu_cbox02
+<0011> mn_sm_menu_cbox02
+
+// <0012> mn_sm_menu_cbox03
+<0012> mn_sm_menu_cbox03
+
+// <0013> mn_sm_menu_cbox04
+<0013> mn_sm_menu_cbox04
+
+// <0014> mn_sm_menu_cbox05
+<0014> mn_sm_menu_cbox05
+
+// <0015> mn_sm_menu_cbox06
+<0015> mn_sm_menu_cbox06
+
+// <0016> sys10_sm00
+<0016> sys10_sm00
+
+// <0017> sys10_mm00
+<0017> sys10_mm00
+
+// <0018> sys10_sv00
+<0018> sys10_sv00
+
+// <0019> sys10_sv00
+<0019> sys10_sv00
+
+// <0020> sys10_cf00
+<0020> sys10_cf00
+
+// <0021> sys10_mm00
+<0021> sys10_mm00
+
+// <0022> sys10_sv00
+<0022> sys10_sv00
+
+// <0023> sys10_sv00
+<0023> sys10_sv00
+
+// <0024> sys10_cf00
+<0024> sys10_cf00
+
+// <0025> sys10_mm00
+<0025> sys10_mm00
+
+// <0026> sys10_sv00
+<0026> sys10_sv00
+
+// <0027> sys10_sv00
+<0027> sys10_sv00
+
+// <0028> sys10_cf00
+<0028> sys10_cf00
+
+// <0029> sys10_mm00
+<0029> sys10_mm00
+
+// <0030> sys10_sv00
+<0030> sys10_sv00
+
+// <0031> sys10_sv00
+<0031> sys10_sv00
+
+// <0032> sys10_cf00
+<0032> sys10_cf00
+
+// <0033> kuro
+<0033> kuro
+
+// <0034> sys00_sys00
+<0034> sys00_sys00

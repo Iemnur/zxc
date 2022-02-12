@@ -1,0 +1,65 @@
+// <0000> ルチアED
+<0000> ルチアED
+
+// <0001> _ik_ed_lc_bg
+<0001> _ik_ed_lc_bg
+
+// <0002> _ik_ed_sll
+<0002> _ik_ed_sll
+
+// <0003> siro
+<0003> siro
+
+// <0004> kuro
+<0004> kuro
+
+// <0005> _ik_ed_lc_bg
+<0005> _ik_ed_lc_bg
+
+// <0006> $fa_bg_change
+<0006> $fa_bg_change
+
+// <0007> _ik_ed_lc_bg
+<0007> _ik_ed_lc_bg
+
+// <0008> $fa_bg_change
+<0008> $fa_bg_change
+
+// <0009> _ik_ed_lc_bg
+<0009> _ik_ed_lc_bg
+
+// <0010> _ik_ed_lc_lf
+<0010> _ik_ed_lc_lf
+
+// <0011> $fa_disp_bg_lens_flare
+<0011> $fa_disp_bg_lens_flare
+
+// <0012> $fa_disp_bg_lens_flare
+<0012> $fa_disp_bg_lens_flare
+
+// <0013> $fa_disp_bg_lens_flare
+<0013> $fa_disp_bg_lens_flare
+
+// <0014> _ik_ed_sz_ts
+<0014> _ik_ed_sz_ts
+
+// <0015> $g_fa_update_particle_advance_time
+<0015> $g_fa_update_particle_advance_time
+
+// <0016> _ik_ed_sll
+<0016> _ik_ed_sll
+
+// <0017> dummy
+<0017> dummy
+
+// <0018> ed_common
+<0018> ed_common
+
+// <0019> bgm048
+<0019> bgm048
+
+// <0020> ed_common
+<0020> ed_common
+
+// <0021> ed_common
+<0021> ed_common
