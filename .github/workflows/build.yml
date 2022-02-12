@@ -15,11 +15,15 @@ jobs:
       BASE_API_URL: ${{ secrets.BASE_API_URL }}
       KK: ${{ secrets.KK }}
       DIST_PATH: dist
-      SS_BUILD_PATH: dist/ss_build
-      SS_DISASSEMBLER_PATH: data/rwp_jp_dis
+      BUILD_PATH: build
+      
+      SS_BUILD_PATH: build/ss_build
+      ASM_BUILD_PATH: build/sce_asm
+      SHEET_PROC_BUILD_PATH:  build/sheet
+
+      ASM_PATH: data/rwp_jp_dis
       PCK_GLOBAL_INI_PATH: data/rwp_jp_asm/pck.global.ini
       PCK_OUTPUT_NAME: SceneEN.pck
-      SHEET_PROC_FOLDER:  dist/sheet
 
     steps:
     - uses: actions/checkout@v2
@@ -32,21 +36,35 @@ jobs:
         python -m pip install --upgrade pip
         pip install flake8 pytest
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+    
+    - name: Create build and dist folder
+      run: |
+        mkdir -p "$SS_BUILD_PATH" "$ASM_BUILD_PATH" "$SHEET_PROC_BUILD_PATH" "$DIST_PATH"
+    
+    - name: Copy asm data to build folder
+      run: |
+        cp -vr "$ASM_PATH" "$ASM_BUILD_PATH"
+
     - name: Proc data from sheet
       run: |
-        python sheets.py "$BASE_API_URL" "$KK" "$SS_DISASSEMBLER_PATH/resources" "$SHEET_PROC_FOLDER"
+        python sheets.py "$BASE_API_URL" "$KK" "$ASM_BUILD_PATH/resources" "$SHEET_PROC_BUILD_PATH"
+        cp -v "$SHEET_PROC_BUILD_PATH/text" "$ASM_BUILD_PATH/resources"
 
     - name: Assembler
       run: |
-        mkdir -p "$SS_BUILD_PATH"
-        python main.py -multi -asm "$SS_DISASSEMBLER_PATH" "$SS_BUILD_PATH"
+        python main.py -multi -asm "$ASM_BUILD_PATH" "$SS_BUILD_PATH"
 
     - name: Rebuild PCK
       run: |
         cp -v "$PCK_GLOBAL_INI_PATH" "$SS_BUILD_PATH"
         python main.py -pack "$SS_BUILD_PATH" "$DIST_PATH/$PCK_OUTPUT_NAME"
-        echo "===Result data==="
-        ls "$DIST_PATH"
+    
+    - name: Print data result
+      run: |
+        echo "===Build data==="
+        ls -R "$BUILD_PATH"
+        echo "===Dist data==="
+        ls -R "$DIST_PATH"
     
     - name: Upload build
       uses: actions/upload-artifact@v2
@@ -54,3 +72,7 @@ jobs:
         name: dist
         path: |
           ./${{env.DIST_PATH}}/**/*.*
+        
+        name: build
+        path: |
+          ./${{env.BUILD_PATH}}/**/*.*
