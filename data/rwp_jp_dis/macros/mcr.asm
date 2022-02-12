@@ -6,12 +6,12 @@ macro Text{text} str_in:
 	TEXT [id]
 end macro
 
-macro PauseText{p}:
+macro Page{p}:
 	TEXT [id]
-	OPEN
-	PUSH Int 14
-	CALL Pause 0 () ():Void
-	POP Void
+	;OPEN
+	;PUSH Int 14
+	;CALL Pause 0 () ():Void
+	;POP Void
 	OPEN
 	PUSH Int 84
 	CALL refresh 0 () ():Void

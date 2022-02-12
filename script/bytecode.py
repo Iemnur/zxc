@@ -1270,7 +1270,7 @@ def handler_add_text_asm(ctx):
         print 'Add dummy push string. Line {}!'.format(ctx.line_idx - 1)
         push_op = Opcode.PUSH
         push_line = U'{} {} ""'.format(Opcode.get_name(push_op),
-                                       VariableType.get_type_name(VariableType.STR))
+                                        VariableType.get_type_name(VariableType.STR))
         push_string_inst = Instruction(push_op)
         push_string_inst.descriptor = SSOpTable.get_inst_desc(push_op)
         push_string_inst.text = push_line
