@@ -67,12 +67,13 @@ jobs:
         ls -R "$DIST_PATH"
     
     - name: Upload build
-      uses: actions/upload-artifact@v2
+    - uses: actions/upload-artifact@v2
       with:
         name: dist
         path: |
           ./${{env.DIST_PATH}}/**/*.*
-      
+    
+    - uses: actions/upload-artifact@v2
       with:
         name: build
         path: |
