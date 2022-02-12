@@ -1,5 +1,6 @@
 include ini "resources/seen01001.ini"
 include strings "resources/seen01001.strings.txt"
+include macro "macros/mcr.asm"
 
 ; Start:
 0x00000000   LINE 2
