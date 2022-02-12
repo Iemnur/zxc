@@ -14,6 +14,9 @@ jobs:
     env:
       BASE_API_URL: ${{ secrets.BASE_API_URL }}
       KK: ${{ secrets.KK }}
+      DIST_PATH: dist
+      SS_BUILD_PATH: dist/ss_build/
+      SS_DISASSEMBLER_PATH: data/rwp_jp_dis
 
     steps:
     - uses: actions/checkout@v2
@@ -26,6 +29,18 @@ jobs:
         python -m pip install --upgrade pip
         pip install flake8 pytest
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
-    - name: Proc data from sheet
+    # - name: Proc data from sheet
+    #   run: |
+    #     python sheets.py "$BASE_API_URL" "$KK" "data/rwp_jp_dis/resources"
+
+    - name: Test Assembler
       run: |
-        python sheets.py "$BASE_API_URL" "$KK" "data/rwp_jp_dis/resources"
+        mkdir -p "$SS_BUILD_PATH"
+        python main.py -multi "$SS_DISASSEMBLER_PATH" "$SS_BUILD_PATH"
+    
+    - name: Upload build
+      uses: actions/upload-artifact@v2
+      with:
+        name: Build_data
+        path: |
+          ./${{env.DIST_PATH}}/*.*
