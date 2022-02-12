@@ -43,4 +43,4 @@ jobs:
       with:
         name: Build_data
         path: |
-          ./${{env.DIST_PATH}}/*.*
+          ./${{env.DIST_PATH}}/**/*.*
