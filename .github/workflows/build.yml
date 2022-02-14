@@ -24,6 +24,7 @@ jobs:
       ASM_PATH: data/rwp_jp_dis
       PCK_GLOBAL_INI_PATH: data/rwp_jp_asm/pck.global.ini
       PCK_OUTPUT_NAME: SceneEN.pck
+      GAMEEXE_NAME: 'GameexeEN'
 
     steps:
     - uses: actions/checkout@v2
@@ -49,6 +50,10 @@ jobs:
       run: |
         python sheets.py "$BASE_API_URL" "$KK" "$ASM_BUILD_PATH/resources" "$SHEET_PROC_BUILD_PATH"
         cp -rv "$SHEET_PROC_BUILD_PATH/txt/." "$ASM_BUILD_PATH/resources"
+    
+    - name: Encode Gameexe.ini
+      run: |
+        python main.py -encgexe "$SHEET_PROC_BUILD_PATH/$GAMEEXE_NAME.ini" "$DIST_PATH/$GAMEEXE_NAME.dat"
 
     - name: Assembler
       run: |

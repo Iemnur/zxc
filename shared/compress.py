@@ -22,3 +22,16 @@ def decompress_from_buff(fs, out_size):
                     buff_out.append(value)
 
     return ''.join(buff_out)
+
+
+def lzss08_fake_compress(data):
+    # type: (str) -> str
+
+    buff_out = []
+    for i, c in enumerate(data):
+        if i % 8 == 0:
+            buff_out.append('\xFF')  # flags
+
+        buff_out.append(c)
+
+    return ''.join(buff_out)

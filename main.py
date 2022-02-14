@@ -4,7 +4,7 @@ import multiprocessing
 import glob
 
 from shared.common import *
-from pack import PCK
+from pack import PCK, GameExe
 from script import Disassembler, Assembler
 
 
@@ -49,6 +49,12 @@ def parse_arg():
 
     parser.add_argument('-pack', nargs=argparse.PARSER, type=str, metavar='ss_folder, out_path, global_ini',
                         help='Repack PCK.')
+
+    parser.add_argument('-decgexe', nargs=2, type=str, metavar=('dat_path', 'out_path'),
+                        help='Decode Gameexe.dat')
+
+    parser.add_argument('-encgexe', nargs=argparse.PARSER, type=str, metavar='ini_folder, out_path, compress_level',
+                        help='Encode Gameexe.dat')
 
     args_ret = parser.parse_args()
     if len(sys.argv) <= 1:
@@ -105,10 +111,29 @@ def repack_pck_proc(key16, ss_folder, out_path, global_ini_path=None):
     pass
 
 
+def decode_gexe_proc(key16, in_path, out_path):
+    gexe = GameExe()
+    gexe.decode_to_file(in_path, out_path, key16)
+    pass
+
+
+def encode_gexe_proc(key16, in_path, out_path, compress_level=0):
+    if isinstance(compress_level, (str, unicode)):
+        try:
+            compress_level = int(compress_level)
+        except:
+            raise ValueError('compress_level invalid!!')
+
+    gexe = GameExe()
+    gexe.encode_to_file(in_path, out_path, key16, compress_level)
+    pass
+
+
 def main():
     # sys.argv.extend(['-dis', 'data/pck/steam/SceneEN.pck', 'data/script_dis', 'data/cfg/func.def'])
     # sys.argv.extend(['-multi', '-asm', 'data/script_dis', 'data/assembler'])
     # sys.argv.extend(['-pack', 'data/assembler', 'data/pck/test_repack.pck'])
+    # sys.argv.extend(['-encgexe', 'data/assembler', 'data/pck/test_repack.pck'])
 
     args = parse_arg()
     key16 = None
@@ -133,6 +158,12 @@ def main():
     elif args.pack:
         argv = args.pack
         repack_pck_proc(key16, *argv)
+    elif args.decgexe:
+        argv = args.decgexe
+        decode_gexe_proc(key16, *argv)
+    elif args.encgexe:
+        argv = args.encgexe
+        encode_gexe_proc(key16, *argv)
 
     print 'Done!'
     pass

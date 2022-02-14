@@ -4,6 +4,7 @@ from shared.request import rq_get
 from shared.common import *
 from text.merger2 import unmerge_common_json_rows
 from text.inserter import insert_from_common_json
+from text.gameexetext import insert_value_ini
 
 
 
@@ -56,6 +57,20 @@ def proc_data(base_url, kk, folder_org_txt, folder_data_out):
             sheet_data = get_sheet_data(s_name, base_url, kk)
             if not sheet_data:
                 raise ValueError
+
+            if s_name.lower() == U'gameexe':
+                print 'Insert Gameexe'
+                if sheet_data[0][-1].lower().strip() == U'vn':
+                    # skip header
+                    sheet_data = sheet_data[1:]
+
+                lines_inserted = insert_value_ini(sheet_data)
+
+                ini_out_path = '{}/GameexeEN.ini'.format(folder_data_out)
+                print ini_out_path
+                open(ini_out_path, 'wb').write(U'\r\n'.join(lines_inserted).encode('utf8'))
+                continue
+
             # unmerge
             json_folder = '{}/json'.format(folder_data_out)
             print 'Unmerge data and save to folder: {}'.format(json_folder)
