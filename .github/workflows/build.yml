@@ -1,0 +1,86 @@
+# This workflow will install Python dependencies, run tests and lint with a single version of Python
+# For more information see: https://help.github.com/actions/language-and-framework-guides/using-python-with-github-actions
+
+name: Python application
+
+on:
+  push:
+    branches: [ ss ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+    env:
+      BASE_API_URL: ${{ secrets.BASE_API_URL }}
+      KK: ${{ secrets.KK }}
+      DIST_PATH: dist
+      BUILD_PATH: build
+      
+      SS_BUILD_PATH: build/ss_build
+      ASM_BUILD_PATH: build/sce_asm
+      SHEET_PROC_BUILD_PATH:  build/sheet
+
+      ASM_PATH: data/rwp_jp_dis
+      PCK_GLOBAL_INI_PATH: data/rwp_jp_asm/pck.global.ini
+      PCK_OUTPUT_NAME: SceneEN.pck
+      GAMEEXE_NAME: 'GameexeEN'
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Python 2.7
+      uses: actions/setup-python@v2
+      with:
+        python-version: "2.7"
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install flake8 pytest
+        if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+    
+    - name: Create build and dist folder
+      run: |
+        mkdir -p "$SS_BUILD_PATH" "$ASM_BUILD_PATH" "$SHEET_PROC_BUILD_PATH" "$DIST_PATH"
+    
+    - name: Copy asm data to build folder
+      run: |
+        cp -vr "$ASM_PATH/." "$ASM_BUILD_PATH"
+
+    - name: Proc data from sheet
+      run: |
+        python sheets.py "$BASE_API_URL" "$KK" "$ASM_BUILD_PATH/resources" "$SHEET_PROC_BUILD_PATH"
+        cp -rv "$SHEET_PROC_BUILD_PATH/txt/." "$ASM_BUILD_PATH/resources"
+    
+    - name: Encode Gameexe.ini
+      run: |
+        python main.py -encgexe "$SHEET_PROC_BUILD_PATH/$GAMEEXE_NAME.ini" "$DIST_PATH/$GAMEEXE_NAME.dat"
+
+    - name: Assembler
+      run: |
+        python main.py -multi -asm "$ASM_BUILD_PATH" "$SS_BUILD_PATH"
+
+    - name: Rebuild PCK
+      run: |
+        cp -v "$PCK_GLOBAL_INI_PATH" "$SS_BUILD_PATH"
+        python main.py -pack "$SS_BUILD_PATH" "$DIST_PATH/$PCK_OUTPUT_NAME"
+    
+    - name: Print data result
+      run: |
+        echo "===Build data==="
+        ls -R "$BUILD_PATH"
+        echo "===Dist data==="
+        ls -R "$DIST_PATH"
+    
+    - name: Upload dist
+      uses: actions/upload-artifact@v2
+      with:
+        name: dist
+        path: |
+          ./${{env.DIST_PATH}}/**/*.*
+    
+    - name: Upload build
+      uses: actions/upload-artifact@v2
+      with:
+        name: build
+        path: |
+          ./${{env.BUILD_PATH}}/**/*.*
