@@ -1,0 +1,59 @@
+// <0000> dummy
+<0000> dummy
+
+// <0001> sys40_mp20
+<0001> sys40_mp20
+
+// <0002> sys10_sm00
+<0002> sys10_sm00
+
+// <0003> sys10_sm00
+<0003> sys10_sm00
+
+// <0004> sys10_sm00
+<0004> sys10_sm00
+
+// <0005> siro
+<0005> siro
+
+// <0006> mn_qm_bg00
+<0006> mn_qm_bg00
+
+// <0007> mn_qm_bg01
+<0007> mn_qm_bg01
+
+// <0008> mn_qm_menu_pbtn00
+<0008> mn_qm_menu_pbtn00
+
+// <0009> mn_qm_menu_pbtn01
+<0009> mn_qm_menu_pbtn01
+
+// <0010> mn_qm_menu_pbtn02
+<0010> mn_qm_menu_pbtn02
+
+// <0011> mn_qm_menu_pbtn03
+<0011> mn_qm_menu_pbtn03
+
+// <0012> mn_qm_menu_cbox00
+<0012> mn_qm_menu_cbox00
+
+// <0013> mn_qm_menu_pbtn04
+<0013> mn_qm_menu_pbtn04
+
+// <0014> mn_qm_pin_cbox00
+<0014> mn_qm_pin_cbox00
+
+// <0015> mn_qm_pin_label00
+<0015> mn_qm_pin_label00
+
+// <0016> mn_qm_cfm_label00
+<0016> mn_qm_cfm_label00
+
+// <0017> mn_qm_cfm_pbtn00
+<0017> mn_qm_cfm_pbtn00
+
+// <0018> mn_qm_cfm_pbtn01
+<0018> mn_qm_cfm_pbtn01
+
+// <0019> mn_qm_cfm_cbox00
+<0019> mn_qm_cfm_cbox00

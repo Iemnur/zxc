@@ -1,0 +1,221 @@
+// <0000> mn_mmb_item_f
+<0000> mn_mmb_item_f
+
+// <0001> 0
+<0001> 0
+
+// <0002> mn_mmc_item_m
+<0002> mn_mmc_item_m
+
+// <0003> 0
+<0003> 0
+
+// <0004> mn_mmd_item_q
+<0004> mn_mmd_item_q
+
+// <0005> 0
+<0005> 0
+
+// <0006> mn_mmb_info_text_f
+<0006> mn_mmb_info_text_f
+
+// <0007> mn_mmc_info_text_m
+<0007> mn_mmc_info_text_m
+
+// <0008> mn_mmd_info_text_q
+<0008> mn_mmd_info_text_q
+
+// <0009> 
+<0009> 
+
+// <0010> 
+<0010> 
+
+// <0011> dummy
+<0011> dummy
+
+// <0012> sys10_sm00
+<0012> sys10_sm00
+
+// <0013> sys10_mm00
+<0013> sys10_mm00
+
+// <0014> sys10_sm00
+<0014> sys10_sm00
+
+// <0015> sys10_mm00
+<0015> sys10_mm00
+
+// <0016> sys10_sm00
+<0016> sys10_sm00
+
+// <0017> sys10_mm00
+<0017> sys10_mm00
+
+// <0018> sys10_sm00
+<0018> sys10_sm00
+
+// <0019> sys10_sm00
+<0019> sys10_sm00
+
+// <0020> sys10_mm00
+<0020> sys10_mm00
+
+// <0021> sys10_mm00
+<0021> sys10_mm00
+
+// <0022> sys10_sm00
+<0022> sys10_sm00
+
+// <0023> sys10_mm00
+<0023> sys10_mm00
+
+// <0024> sys10_sm00
+<0024> sys10_sm00
+
+// <0025> sys10_mm00
+<0025> sys10_mm00
+
+// <0026> mn_mme_bg00
+<0026> mn_mme_bg00
+
+// <0027> mn_mme_bg01
+<0027> mn_mme_bg01
+
+// <0028> mn_mme_bg02
+<0028> mn_mme_bg02
+
+// <0029> mn_mmb_body00
+<0029> mn_mmb_body00
+
+// <0030> mn_mme_id_num00
+<0030> mn_mme_id_num00
+
+// <0031> mn_mme_new00
+<0031> mn_mme_new00
+
+// <0032> mn_mme_new00
+<0032> mn_mme_new00
+
+// <0033> mn_mmc_body00
+<0033> mn_mmc_body00
+
+// <0034> mn_mme_id_num00
+<0034> mn_mme_id_num00
+
+// <0035> mn_mme_new00
+<0035> mn_mme_new00
+
+// <0036> mn_mme_new00
+<0036> mn_mme_new00
+
+// <0037> mn_mmd_body00
+<0037> mn_mmd_body00
+
+// <0038> mn_mme_id_num00
+<0038> mn_mme_id_num00
+
+// <0039> mn_mme_new00
+<0039> mn_mme_new00
+
+// <0040> mn_mme_new00
+<0040> mn_mme_new00
+
+// <0041> mn_mme_arw_left00
+<0041> mn_mme_arw_left00
+
+// <0042> mn_mme_arw_right00
+<0042> mn_mme_arw_right00
+
+// <0043> mn_mme_page_num00
+<0043> mn_mme_page_num00
+
+// <0044> mn_mme_arw_left00
+<0044> mn_mme_arw_left00
+
+// <0045> mn_mme_arw_right00
+<0045> mn_mme_arw_right00
+
+// <0046> mn_mme_page_num00
+<0046> mn_mme_page_num00
+
+// <0047> mn_mme_arw_left00
+<0047> mn_mme_arw_left00
+
+// <0048> mn_mme_arw_right00
+<0048> mn_mme_arw_right00
+
+// <0049> mn_mme_page_num00
+<0049> mn_mme_page_num00
+
+// <0050> mn_mmb_info_id_num00
+<0050> mn_mmb_info_id_num00
+
+// <0051> sys10_sm00
+<0051> sys10_sm00
+
+// <0052> sys10_mm00
+<0052> sys10_mm00
+
+// <0053> sys10_sm00
+<0053> sys10_sm00
+
+// <0054> sys10_mm00
+<0054> sys10_mm00
+
+// <0055> sys10_sm00
+<0055> sys10_sm00
+
+// <0056> sys10_mm00
+<0056> sys10_mm00
+
+// <0057> sys10_sm00
+<0057> sys10_sm00
+
+// <0058> sys10_mm00
+<0058> sys10_mm00
+
+// <0059> sys10_sm00
+<0059> sys10_sm00
+
+// <0060> sys10_mm00
+<0060> sys10_mm00
+
+// <0061> sys10_sm00
+<0061> sys10_sm00
+
+// <0062> sys10_mm00
+<0062> sys10_mm00
+
+// <0063> sys10_sm00
+<0063> sys10_sm00
+
+// <0064> sys10_mm00
+<0064> sys10_mm00
+
+// <0065> sys10_tt01
+<0065> sys10_tt01
+
+// <0066> sys10_sm00
+<0066> sys10_sm00
+
+// <0067> sys10_mm00
+<0067> sys10_mm00
+
+// <0068> sys10_sm00
+<0068> sys10_sm00
+
+// <0069> sys10_mm00
+<0069> sys10_mm00
+
+// <0070> sys10_sm00
+<0070> sys10_sm00
+
+// <0071> sys10_mm00
+<0071> sys10_mm00
+
+// <0072> sys10_sm00
+<0072> sys10_sm00
+
+// <0073> sys10_mm00
+<0073> sys10_mm00

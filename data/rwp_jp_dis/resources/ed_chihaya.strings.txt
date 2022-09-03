@@ -1,0 +1,77 @@
+// <0000> ちはやED
+<0000> ちはやED
+
+// <0001> _ik_ed_slc
+<0001> _ik_ed_slc
+
+// <0002> _ik_ed_ch_bg00
+<0002> _ik_ed_ch_bg00
+
+// <0003> _ik_ed_ch_bg00
+<0003> _ik_ed_ch_bg00
+
+// <0004> ik_ed_ch_bg18
+<0004> ik_ed_ch_bg18
+
+// <0005> ik_ed_ch_bg18
+<0005> ik_ed_ch_bg18
+
+// <0006> ik_ed_ch_pe00
+<0006> ik_ed_ch_pe00
+
+// <0007> ik_ed_ch_pe01
+<0007> ik_ed_ch_pe01
+
+// <0008> ik_ed_ch_pe03
+<0008> ik_ed_ch_pe03
+
+// <0009> ik_ed_ch_pe02
+<0009> ik_ed_ch_pe02
+
+// <0010> ik_ed_ch_pe00
+<0010> ik_ed_ch_pe00
+
+// <0011> ik_ed_ch_pe03
+<0011> ik_ed_ch_pe03
+
+// <0012> ik_ed_ch_pe00
+<0012> ik_ed_ch_pe00
+
+// <0013> ik_ed_ch_pe01
+<0013> ik_ed_ch_pe01
+
+// <0014> ik_ed_ch_pe02
+<0014> ik_ed_ch_pe02
+
+// <0015> ik_ed_ch_pe03
+<0015> ik_ed_ch_pe03
+
+// <0016> ik_ed_ch_pe02
+<0016> ik_ed_ch_pe02
+
+// <0017> ik_ed_ch_pe01
+<0017> ik_ed_ch_pe01
+
+// <0018> siro
+<0018> siro
+
+// <0019> kuro
+<0019> kuro
+
+// <0020> _ik_ed_slc
+<0020> _ik_ed_slc
+
+// <0021> dummy
+<0021> dummy
+
+// <0022> ed_common
+<0022> ed_common
+
+// <0023> bgm048
+<0023> bgm048
+
+// <0024> ed_common
+<0024> ed_common
+
+// <0025> ed_common
+<0025> ed_common

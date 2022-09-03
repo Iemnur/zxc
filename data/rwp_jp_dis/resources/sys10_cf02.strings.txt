@@ -1,0 +1,761 @@
+// <0000> 
+<0000> 
+
+// <0001> テキストの表示サンプルです。
+<0001> テキストの表示サンプルです。
+
+// <0002> dummy
+<0002> dummy
+
+// <0003> sys10_sm00
+<0003> sys10_sm00
+
+// <0004> sys10_cf00
+<0004> sys10_cf00
+
+// <0005> sys10_sm00
+<0005> sys10_sm00
+
+// <0006> sys10_cf00
+<0006> sys10_cf00
+
+// <0007> sys10_sm00
+<0007> sys10_sm00
+
+// <0008> sys10_cf00
+<0008> sys10_cf00
+
+// <0009> sys10_sm00
+<0009> sys10_sm00
+
+// <0010> sys10_sm00
+<0010> sys10_sm00
+
+// <0011> sys10_cf00
+<0011> sys10_cf00
+
+// <0012> sys10_cf00
+<0012> sys10_cf00
+
+// <0013> sys01_tool00
+<0013> sys01_tool00
+
+// <0014> sys01_tool00
+<0014> sys01_tool00
+
+// <0015> sys01_tool00
+<0015> sys01_tool00
+
+// <0016> sys01_tool00
+<0016> sys01_tool00
+
+// <0017> sys01_tool00
+<0017> sys01_tool00
+
+// <0018> sys01_tool00
+<0018> sys01_tool00
+
+// <0019> sys01_tool00
+<0019> sys01_tool00
+
+// <0020> sys01_tool00
+<0020> sys01_tool00
+
+// <0021> sys01_tool00
+<0021> sys01_tool00
+
+// <0022> sys01_tool00
+<0022> sys01_tool00
+
+// <0023> sys10_sm00
+<0023> sys10_sm00
+
+// <0024> sys10_cf00
+<0024> sys10_cf00
+
+// <0025> sys10_sm00
+<0025> sys10_sm00
+
+// <0026> sys10_cf00
+<0026> sys10_cf00
+
+// <0027> mn_cfe_bg00
+<0027> mn_cfe_bg00
+
+// <0028> mn_cfe_bg01
+<0028> mn_cfe_bg01
+
+// <0029> mn_cfc_bg02
+<0029> mn_cfc_bg02
+
+// <0030> mn_cfe_com_sbar01a
+<0030> mn_cfe_com_sbar01a
+
+// <0031> mn_cfe_com_sbar00b
+<0031> mn_cfe_com_sbar00b
+
+// <0032> mn_cfe_com_sbar00c
+<0032> mn_cfe_com_sbar00c
+
+// <0033> mn_cfe_com_sbar00d
+<0033> mn_cfe_com_sbar00d
+
+// <0034> mn_cfe_com_sbar00d
+<0034> mn_cfe_com_sbar00d
+
+// <0035> mn_cfe_com_sbar00d
+<0035> mn_cfe_com_sbar00d
+
+// <0036> mn_cfe_com_sbar00e
+<0036> mn_cfe_com_sbar00e
+
+// <0037> mn_cfe_com_cbox00
+<0037> mn_cfe_com_cbox00
+
+// <0038> mn_cfc_mspd_moji00
+<0038> mn_cfc_mspd_moji00
+
+// <0039> mn_cfc_mspd_pbtn00
+<0039> mn_cfc_mspd_pbtn00
+
+// <0040> mn_cfe_com_pbtn00
+<0040> mn_cfe_com_pbtn00
+
+// <0041> sys01_tool00
+<0041> sys01_tool00
+
+// <0042> sys01_tool00
+<0042> sys01_tool00
+
+// <0043> sys01_tool00
+<0043> sys01_tool00
+
+// <0044> sys01_tool00
+<0044> sys01_tool00
+
+// <0045> sys01_tool00
+<0045> sys01_tool00
+
+// <0046> sys01_tool00
+<0046> sys01_tool00
+
+// <0047> sys01_tool00
+<0047> sys01_tool00
+
+// <0048> sys01_tool00
+<0048> sys01_tool00
+
+// <0049> sys01_tool00
+<0049> sys01_tool00
+
+// <0050> sys01_tool00
+<0050> sys01_tool00
+
+// <0051> sys01_tool00
+<0051> sys01_tool00
+
+// <0052> sys01_tool00
+<0052> sys01_tool00
+
+// <0053> sys01_tool00
+<0053> sys01_tool00
+
+// <0054> sys01_tool00
+<0054> sys01_tool00
+
+// <0055> sys01_tool00
+<0055> sys01_tool00
+
+// <0056> sys01_tool00
+<0056> sys01_tool00
+
+// <0057> sys01_tool00
+<0057> sys01_tool00
+
+// <0058> sys01_tool00
+<0058> sys01_tool00
+
+// <0059> sys01_tool00
+<0059> sys01_tool00
+
+// <0060> mn_cfe_com_sbar03a
+<0060> mn_cfe_com_sbar03a
+
+// <0061> mn_cfe_com_sbar00b
+<0061> mn_cfe_com_sbar00b
+
+// <0062> mn_cfe_com_sbar00c
+<0062> mn_cfe_com_sbar00c
+
+// <0063> mn_cfe_com_sbar01d
+<0063> mn_cfe_com_sbar01d
+
+// <0064> mn_cfe_com_sbar01d
+<0064> mn_cfe_com_sbar01d
+
+// <0065> mn_cfe_com_sbar01d
+<0065> mn_cfe_com_sbar01d
+
+// <0066> mn_cfe_com_sbar00e
+<0066> mn_cfe_com_sbar00e
+
+// <0067> mn_cfe_com_sbar00b
+<0067> mn_cfe_com_sbar00b
+
+// <0068> mn_cfe_com_sbar00c
+<0068> mn_cfe_com_sbar00c
+
+// <0069> mn_cfe_com_sbar02d
+<0069> mn_cfe_com_sbar02d
+
+// <0070> mn_cfe_com_sbar02d
+<0070> mn_cfe_com_sbar02d
+
+// <0071> mn_cfe_com_sbar02d
+<0071> mn_cfe_com_sbar02d
+
+// <0072> mn_cfe_com_sbar00e
+<0072> mn_cfe_com_sbar00e
+
+// <0073> mn_cfe_com_sbar00b
+<0073> mn_cfe_com_sbar00b
+
+// <0074> mn_cfe_com_sbar00c
+<0074> mn_cfe_com_sbar00c
+
+// <0075> mn_cfe_com_sbar03d
+<0075> mn_cfe_com_sbar03d
+
+// <0076> mn_cfe_com_sbar03d
+<0076> mn_cfe_com_sbar03d
+
+// <0077> mn_cfe_com_sbar03d
+<0077> mn_cfe_com_sbar03d
+
+// <0078> mn_cfe_com_sbar00e
+<0078> mn_cfe_com_sbar00e
+
+// <0079> mn_cfe_com_sbar00b
+<0079> mn_cfe_com_sbar00b
+
+// <0080> mn_cfe_com_sbar00c
+<0080> mn_cfe_com_sbar00c
+
+// <0081> mn_cfe_com_sbar04d
+<0081> mn_cfe_com_sbar04d
+
+// <0082> mn_cfe_com_sbar04d
+<0082> mn_cfe_com_sbar04d
+
+// <0083> mn_cfe_com_sbar04d
+<0083> mn_cfe_com_sbar04d
+
+// <0084> mn_cfe_com_sbar00e
+<0084> mn_cfe_com_sbar00e
+
+// <0085> mn_cfe_com_pbtn00
+<0085> mn_cfe_com_pbtn00
+
+// <0086> mn_cfc_wbg_filter00
+<0086> mn_cfc_wbg_filter00
+
+// <0087> mn_cfc_wbg_filter01
+<0087> mn_cfc_wbg_filter01
+
+// <0088> sys01_tool00
+<0088> sys01_tool00
+
+// <0089> sys01_tool00
+<0089> sys01_tool00
+
+// <0090> sys01_tool00
+<0090> sys01_tool00
+
+// <0091> sys01_tool00
+<0091> sys01_tool00
+
+// <0092> sys01_tool00
+<0092> sys01_tool00
+
+// <0093> sys01_tool00
+<0093> sys01_tool00
+
+// <0094> sys01_tool00
+<0094> sys01_tool00
+
+// <0095> sys01_tool00
+<0095> sys01_tool00
+
+// <0096> sys01_tool00
+<0096> sys01_tool00
+
+// <0097> sys01_tool00
+<0097> sys01_tool00
+
+// <0098> sys01_tool00
+<0098> sys01_tool00
+
+// <0099> sys01_tool00
+<0099> sys01_tool00
+
+// <0100> sys01_tool00
+<0100> sys01_tool00
+
+// <0101> sys01_tool00
+<0101> sys01_tool00
+
+// <0102> sys01_tool00
+<0102> sys01_tool00
+
+// <0103> sys01_tool00
+<0103> sys01_tool00
+
+// <0104> sys01_tool00
+<0104> sys01_tool00
+
+// <0105> sys01_tool00
+<0105> sys01_tool00
+
+// <0106> sys01_tool00
+<0106> sys01_tool00
+
+// <0107> sys01_tool00
+<0107> sys01_tool00
+
+// <0108> sys01_tool00
+<0108> sys01_tool00
+
+// <0109> sys01_tool00
+<0109> sys01_tool00
+
+// <0110> sys01_tool00
+<0110> sys01_tool00
+
+// <0111> sys01_tool00
+<0111> sys01_tool00
+
+// <0112> sys01_tool00
+<0112> sys01_tool00
+
+// <0113> sys01_tool00
+<0113> sys01_tool00
+
+// <0114> sys01_tool00
+<0114> sys01_tool00
+
+// <0115> sys01_tool00
+<0115> sys01_tool00
+
+// <0116> sys01_tool00
+<0116> sys01_tool00
+
+// <0117> sys01_tool00
+<0117> sys01_tool00
+
+// <0118> sys01_tool00
+<0118> sys01_tool00
+
+// <0119> sys01_tool00
+<0119> sys01_tool00
+
+// <0120> sys01_tool00
+<0120> sys01_tool00
+
+// <0121> sys01_tool00
+<0121> sys01_tool00
+
+// <0122> sys01_tool00
+<0122> sys01_tool00
+
+// <0123> sys01_tool00
+<0123> sys01_tool00
+
+// <0124> sys01_tool00
+<0124> sys01_tool00
+
+// <0125> sys01_tool00
+<0125> sys01_tool00
+
+// <0126> sys01_tool00
+<0126> sys01_tool00
+
+// <0127> sys01_tool00
+<0127> sys01_tool00
+
+// <0128> sys01_tool00
+<0128> sys01_tool00
+
+// <0129> sys01_tool00
+<0129> sys01_tool00
+
+// <0130> sys01_tool00
+<0130> sys01_tool00
+
+// <0131> sys01_tool00
+<0131> sys01_tool00
+
+// <0132> sys01_tool00
+<0132> sys01_tool00
+
+// <0133> sys01_tool00
+<0133> sys01_tool00
+
+// <0134> sys01_tool00
+<0134> sys01_tool00
+
+// <0135> sys01_tool00
+<0135> sys01_tool00
+
+// <0136> mn_cfe_com_sbar11a
+<0136> mn_cfe_com_sbar11a
+
+// <0137> mn_cfe_com_sbar00b
+<0137> mn_cfe_com_sbar00b
+
+// <0138> mn_cfe_com_sbar00c
+<0138> mn_cfe_com_sbar00c
+
+// <0139> mn_cfe_com_sbar10d
+<0139> mn_cfe_com_sbar10d
+
+// <0140> mn_cfe_com_sbar10d
+<0140> mn_cfe_com_sbar10d
+
+// <0141> mn_cfe_com_sbar10d
+<0141> mn_cfe_com_sbar10d
+
+// <0142> mn_cfe_com_sbar00e
+<0142> mn_cfe_com_sbar00e
+
+// <0143> mn_cfe_com_sbar11a
+<0143> mn_cfe_com_sbar11a
+
+// <0144> mn_cfe_com_sbar00b
+<0144> mn_cfe_com_sbar00b
+
+// <0145> mn_cfe_com_sbar00c
+<0145> mn_cfe_com_sbar00c
+
+// <0146> mn_cfe_com_sbar10d
+<0146> mn_cfe_com_sbar10d
+
+// <0147> mn_cfe_com_sbar10d
+<0147> mn_cfe_com_sbar10d
+
+// <0148> mn_cfe_com_sbar10d
+<0148> mn_cfe_com_sbar10d
+
+// <0149> mn_cfe_com_sbar00e
+<0149> mn_cfe_com_sbar00e
+
+// <0150> mn_cfc_auto_num00
+<0150> mn_cfc_auto_num00
+
+// <0151> mn_cfc_auto_num00
+<0151> mn_cfc_auto_num00
+
+// <0152> mn_cfc_auto_num00
+<0152> mn_cfc_auto_num00
+
+// <0153> mn_cfc_auto_num00
+<0153> mn_cfc_auto_num00
+
+// <0154> mn_cfc_auto_num00
+<0154> mn_cfc_auto_num00
+
+// <0155> mn_cfc_auto_num01
+<0155> mn_cfc_auto_num01
+
+// <0156> mn_cfc_auto_num01
+<0156> mn_cfc_auto_num01
+
+// <0157> mn_cfc_auto_num01
+<0157> mn_cfc_auto_num01
+
+// <0158> mn_cfc_auto_num01
+<0158> mn_cfc_auto_num01
+
+// <0159> mn_cfe_com_cbox00
+<0159> mn_cfe_com_cbox00
+
+// <0160> mn_cfc_auto_moji00
+<0160> mn_cfc_auto_moji00
+
+// <0161> mn_cfe_com_pbtn00
+<0161> mn_cfe_com_pbtn00
+
+// <0162> sys01_tool00
+<0162> sys01_tool00
+
+// <0163> sys01_tool00
+<0163> sys01_tool00
+
+// <0164> sys01_tool00
+<0164> sys01_tool00
+
+// <0165> sys01_tool00
+<0165> sys01_tool00
+
+// <0166> sys01_tool00
+<0166> sys01_tool00
+
+// <0167> sys01_tool00
+<0167> sys01_tool00
+
+// <0168> sys01_tool00
+<0168> sys01_tool00
+
+// <0169> sys01_tool00
+<0169> sys01_tool00
+
+// <0170> sys01_tool00
+<0170> sys01_tool00
+
+// <0171> sys01_tool00
+<0171> sys01_tool00
+
+// <0172> sys01_tool00
+<0172> sys01_tool00
+
+// <0173> sys01_tool00
+<0173> sys01_tool00
+
+// <0174> sys01_tool00
+<0174> sys01_tool00
+
+// <0175> sys01_tool00
+<0175> sys01_tool00
+
+// <0176> sys01_tool00
+<0176> sys01_tool00
+
+// <0177> sys01_tool00
+<0177> sys01_tool00
+
+// <0178> sys01_tool00
+<0178> sys01_tool00
+
+// <0179> sys01_tool00
+<0179> sys01_tool00
+
+// <0180> sys01_tool00
+<0180> sys01_tool00
+
+// <0181> sys01_tool00
+<0181> sys01_tool00
+
+// <0182> sys01_tool00
+<0182> sys01_tool00
+
+// <0183> sys01_tool00
+<0183> sys01_tool00
+
+// <0184> sys01_tool00
+<0184> sys01_tool00
+
+// <0185> sys01_tool00
+<0185> sys01_tool00
+
+// <0186> sys10_sm00
+<0186> sys10_sm00
+
+// <0187> sys10_cf00
+<0187> sys10_cf00
+
+// <0188> sys10_sm00
+<0188> sys10_sm00
+
+// <0189> sys10_cf00
+<0189> sys10_cf00
+
+// <0190> sys01_tool00
+<0190> sys01_tool00
+
+// <0191> sys01_tool00
+<0191> sys01_tool00
+
+// <0192> sys01_tool00
+<0192> sys01_tool00
+
+// <0193> sys01_tool00
+<0193> sys01_tool00
+
+// <0194> sys01_tool00
+<0194> sys01_tool00
+
+// <0195> sys01_tool00
+<0195> sys01_tool00
+
+// <0196> sys01_tool00
+<0196> sys01_tool00
+
+// <0197> sys01_tool00
+<0197> sys01_tool00
+
+// <0198> sys01_tool00
+<0198> sys01_tool00
+
+// <0199> sys01_tool00
+<0199> sys01_tool00
+
+// <0200> sys01_tool00
+<0200> sys01_tool00
+
+// <0201> sys01_tool00
+<0201> sys01_tool00
+
+// <0202> sys01_tool00
+<0202> sys01_tool00
+
+// <0203> sys01_tool00
+<0203> sys01_tool00
+
+// <0204> sys01_tool00
+<0204> sys01_tool00
+
+// <0205> sys01_tool00
+<0205> sys01_tool00
+
+// <0206> sys01_tool00
+<0206> sys01_tool00
+
+// <0207> sys01_tool00
+<0207> sys01_tool00
+
+// <0208> sys01_tool00
+<0208> sys01_tool00
+
+// <0209> sys01_tool00
+<0209> sys01_tool00
+
+// <0210> sys01_tool00
+<0210> sys01_tool00
+
+// <0211> sys01_tool00
+<0211> sys01_tool00
+
+// <0212> sys01_tool00
+<0212> sys01_tool00
+
+// <0213> sys01_tool00
+<0213> sys01_tool00
+
+// <0214> sys01_tool00
+<0214> sys01_tool00
+
+// <0215> sys01_tool00
+<0215> sys01_tool00
+
+// <0216> sys01_tool00
+<0216> sys01_tool00
+
+// <0217> sys01_tool00
+<0217> sys01_tool00
+
+// <0218> sys01_tool00
+<0218> sys01_tool00
+
+// <0219> sys01_tool00
+<0219> sys01_tool00
+
+// <0220> sys01_tool00
+<0220> sys01_tool00
+
+// <0221> sys01_tool00
+<0221> sys01_tool00
+
+// <0222> sys01_tool00
+<0222> sys01_tool00
+
+// <0223> sys01_tool00
+<0223> sys01_tool00
+
+// <0224> sys01_tool00
+<0224> sys01_tool00
+
+// <0225> sys01_tool00
+<0225> sys01_tool00
+
+// <0226> sys01_tool00
+<0226> sys01_tool00
+
+// <0227> sys01_tool00
+<0227> sys01_tool00
+
+// <0228> sys01_tool00
+<0228> sys01_tool00
+
+// <0229> sys01_tool00
+<0229> sys01_tool00
+
+// <0230> sys01_tool00
+<0230> sys01_tool00
+
+// <0231> sys01_tool00
+<0231> sys01_tool00
+
+// <0232> sys01_tool00
+<0232> sys01_tool00
+
+// <0233> sys01_tool00
+<0233> sys01_tool00
+
+// <0234> sys01_tool00
+<0234> sys01_tool00
+
+// <0235> sys10_sm00
+<0235> sys10_sm00
+
+// <0236> sys10_cf00
+<0236> sys10_cf00
+
+// <0237> sys10_sm00
+<0237> sys10_sm00
+
+// <0238> sys10_cf00
+<0238> sys10_cf00
+
+// <0239> sys10_sm00
+<0239> sys10_sm00
+
+// <0240> sys10_cf00
+<0240> sys10_cf00
+
+// <0241> sys10_sm00
+<0241> sys10_sm00
+
+// <0242> sys10_cf00
+<0242> sys10_cf00
+
+// <0243> sys10_sm00
+<0243> sys10_sm00
+
+// <0244> sys10_cf00
+<0244> sys10_cf00
+
+// <0245> sys10_tt01
+<0245> sys10_tt01
+
+// <0246> sys10_sm00
+<0246> sys10_sm00
+
+// <0247> sys10_cf00
+<0247> sys10_cf00
+
+// <0248> sys10_sm00
+<0248> sys10_sm00
+
+// <0249> sys10_cf00
+<0249> sys10_cf00
+
+// <0250> sys10_sm00
+<0250> sys10_sm00
+
+// <0251> sys10_cf00
+<0251> sys10_cf00
+
+// <0252> sys10_sm00
+<0252> sys10_sm00
+
+// <0253> sys10_cf00
+<0253> sys10_cf00

@@ -1,0 +1,26 @@
+include ini "resources/sys50_ef00_ginit00.ini"
+include strings "resources/sys50_ef00_ginit00.strings.txt"
+
+; Start:
+0x00000000   LINE 16
+
+#Z00:
+LABEL_0:
+0x00000005   LINE 19
+0x0000000A   PUSH Int 1
+0x00000013   JZ LABEL_2
+0x00000018   LINE 21
+0x0000001D   OPEN
+0x0000001E   PUSH Int 5
+0x00000027   PUSH Str 1 ; sys50_ef00_ys11
+0x00000030   PUSH Int 0
+0x00000039   CALL farcall 1 (Str, Int) ():Int
+0x00000052   POP Int
+0x00000057   JMP LABEL_1
+LABEL_1:
+LABEL_2:
+0x0000005C   LINE 24
+0x00000061   RET ()
+
+0x00000066   LINE 25
+0x0000006B   END

@@ -1,0 +1,134 @@
+// <0000> $FaBg
+<0000> $FaBg
+
+// <0001> dummy
+<0001> dummy
+
+// <0002> mn_tt_bgb_bg00
+<0002> mn_tt_bgb_bg00
+
+// <0003> ef_ev_wd_bgb00
+<0003> ef_ev_wd_bgb00
+
+// <0004> mn_tt_bga_bg00
+<0004> mn_tt_bga_bg00
+
+// <0005> ef_ev_wd_bga00
+<0005> ef_ev_wd_bga00
+
+// <0006> ef_ev_wd_kk00
+<0006> ef_ev_wd_kk00
+
+// <0007> ef_ev_wd_kk01
+<0007> ef_ev_wd_kk01
+
+// <0008> ef_ev_wd_mh00
+<0008> ef_ev_wd_mh00
+
+// <0009> _ik_ed_sz_sphere3
+<0009> _ik_ed_sz_sphere3
+
+// <0010> siro
+<0010> siro
+
+// <0011> kuro
+<0011> kuro
+
+// <0012> sys00_sys00
+<0012> sys00_sys00
+
+// <0013> mn_ss_se31
+<0013> mn_ss_se31
+
+// <0014> fgkg11b
+<0014> fgkg11b
+
+// <0015> siro
+<0015> siro
+
+// <0016> fgkg13b
+<0016> fgkg13b
+
+// <0017> fgkg05a
+<0017> fgkg05a
+
+// <0018> fgkg06a
+<0018> fgkg06a
+
+// <0019> fgkg03a
+<0019> fgkg03a
+
+// <0020> fgkg02c
+<0020> fgkg02c
+
+// <0021> fgkg09
+<0021> fgkg09
+
+// <0022> fgkg10d
+<0022> fgkg10d
+
+// <0023> siro
+<0023> siro
+
+// <0024> mn_tt_bgb_bg00
+<0024> mn_tt_bgb_bg00
+
+// <0025> ef_ev_wd_bgb00
+<0025> ef_ev_wd_bgb00
+
+// <0026> mn_tt_bga_bg00
+<0026> mn_tt_bga_bg00
+
+// <0027> ef_ev_wd_bga00
+<0027> ef_ev_wd_bga00
+
+// <0028> ef_ev_wd_kk00
+<0028> ef_ev_wd_kk00
+
+// <0029> ef_ev_wd_kk01
+<0029> ef_ev_wd_kk01
+
+// <0030> ef_ev_wd_mh00
+<0030> ef_ev_wd_mh00
+
+// <0031> ef_ev_wd_mh00
+<0031> ef_ev_wd_mh00
+
+// <0032> ef_ev_wd_mh00
+<0032> ef_ev_wd_mh00
+
+// <0033> ef_ev_wd_mh00
+<0033> ef_ev_wd_mh00
+
+// <0034> ef_ev_wd_mh00
+<0034> ef_ev_wd_mh00
+
+// <0035> _ik_ed_sz_sphere3
+<0035> _ik_ed_sz_sphere3
+
+// <0036> siro
+<0036> siro
+
+// <0037> siro
+<0037> siro
+
+// <0038> kuro
+<0038> kuro
+
+// <0039> sys00_sys00
+<0039> sys00_sys00
+
+// <0040> sys00_sys00
+<0040> sys00_sys00
+
+// <0041> mn_ss_se31
+<0041> mn_ss_se31
+
+// <0042> sys20_adv00
+<0042> sys20_adv00
+
+// <0043> kuro
+<0043> kuro
+
+// <0044> siro
+<0044> siro

@@ -1,0 +1,41 @@
+// <0000> dummy
+<0000> dummy
+
+// <0001> mn_mw_sel10a01
+<0001> mn_mw_sel10a01
+
+// <0002> mn_mw_sel11a01
+<0002> mn_mw_sel11a01
+
+// <0003> mn_mw_sel12a01
+<0003> mn_mw_sel12a01
+
+// <0004> mn_mw_sel10a01
+<0004> mn_mw_sel10a01
+
+// <0005> mn_mw_sel10a00
+<0005> mn_mw_sel10a00
+
+// <0006> mn_mw_sel11a00
+<0006> mn_mw_sel11a00
+
+// <0007> mn_mw_sel12a00
+<0007> mn_mw_sel12a00
+
+// <0008> mn_mw_sel10a00
+<0008> mn_mw_sel10a00
+
+// <0009> ef_ev_kgsel_fire00
+<0009> ef_ev_kgsel_fire00
+
+// <0010> ef_ev_kgsel_fire00
+<0010> ef_ev_kgsel_fire00
+
+// <0011> sys00_sys00
+<0011> sys00_sys00
+
+// <0012> mn_ss_se31
+<0012> mn_ss_se31
+
+// <0013> sys00_sys00
+<0013> sys00_sys00

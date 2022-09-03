@@ -1,0 +1,347 @@
+// <0000> 
+<0000> 
+
+// <0001> 
+<0001> 
+
+// <0002> 　　　　　　　　　～ヨシノボタン～　　　　　　　　　吉野の声を録音した！　気がすむまでクリックとテンキーで楽しめ！
+<0002> 　　　　　　　　　～ヨシノボタン～　　　　　　　　　吉野の声を録音した！　気がすむまでクリックとテンキーで楽しめ！
+
+// <0003> 　　　　　～ヨシノボタン　the armageddon～　　　　　吉野の声を大量に録音した！　気がすむまでクリックとテンキーで楽しめ！　何がアルマゲドンかは謎だ！
+<0003> 　　　　　～ヨシノボタン　the armageddon～　　　　　吉野の声を大量に録音した！　気がすむまでクリックとテンキーで楽しめ！　何がアルマゲドンかは謎だ！
+
+// <0004> 　　　　　　　　　～ヨシノボタン～　
+<0004> 　　　　　　　　　～ヨシノボタン～　
+
+// <0005> 吉野の声を録音した！　気がすむまでクリックとテンキーで楽しめ！
+<0005> 吉野の声を録音した！　気がすむまでクリックとテンキーで楽しめ！
+
+// <0006> 　　　　　～ヨシノボタン　the armageddon～　
+<0006> 　　　　　～ヨシノボタン　the armageddon～　
+
+// <0007> 吉野の声を大量に録音した！　気がすむまでクリックとテンキーで楽しめ！　何がアルマゲドンかは謎だ！
+<0007> 吉野の声を大量に録音した！　気がすむまでクリックとテンキーで楽しめ！　何がアルマゲドンかは謎だ！
+
+// <0008> 
+<0008> 
+
+// <0009> 『ざけんなぁーッ！！』（スロー）
+<0009> 『ざけんなぁーッ！！』（スロー）
+
+// <0010> 『ざけんなぁーッ！！』（普通）
+<0010> 『ざけんなぁーッ！！』（普通）
+
+// <0011> 『ざけんなぁーッ！！』（倍速）
+<0011> 『ざけんなぁーッ！！』（倍速）
+
+// <0012> 『天王寺、オレとデュエルしろ』
+<0012> 『天王寺、オレとデュエルしろ』
+
+// <0013> 『なにしてんだよテメエ！！』
+<0013> 『なにしてんだよテメエ！！』
+
+// <0014> 『誰がホモだテメェ！』
+<0014> 『誰がホモだテメェ！』
+
+// <0015> 『こういう感じに！！』
+<0015> 『こういう感じに！！』
+
+// <0016> 『すっぽかしていい約束じゃなかった！』
+<0016> 『すっぽかしていい約束じゃなかった！』
+
+// <0017> 『冗談じゃねぇ。誰がこんな野郎と…』
+<0017> 『冗談じゃねぇ。誰がこんな野郎と…』
+
+// <0018> 『セェイシュンッテェェーッッ！！！　ナンヤァァアァァ　ーーッ！！！！』
+<0018> 『セェイシュンッテェェーッッ！！！　ナンヤァァアァァ　ーーッ！！！！』
+
+// <0019> 『…デッドエンド…』
+<0019> 『…デッドエンド…』
+
+// <0020> 『スピードキングはオレのものだ！』
+<0020> 『スピードキングはオレのものだ！』
+
+// <0021> 『Ｔａｋｅ　ｔｈｉｓ！！』
+<0021> 『Ｔａｋｅ　ｔｈｉｓ！！』
+
+// <0022> 『うわーはははははっ、たっのしーい！』
+<0022> 『うわーはははははっ、たっのしーい！』
+
+// <0023> 『…殺すぞ』
+<0023> 『…殺すぞ』
+
+// <0024> 『テメェが離ぷげっ！』
+<0024> 『テメェが離ぷげっ！』
+
+// <0025> 『全てをなくした、そこが始まり…』
+<0025> 『全てをなくした、そこが始まり…』
+
+// <0026> 『モロキュウを煮るぞコラァ！』
+<0026> 『モロキュウを煮るぞコラァ！』
+
+// <0027> 『どんな革ジャンだった？』
+<0027> 『どんな革ジャンだった？』
+
+// <0028> 『うまいおかずを食わせるって意味じゃねぇ！』
+<0028> 『うまいおかずを食わせるって意味じゃねぇ！』
+
+// <0029> 『ぶっ殺されてえか、ああぁーッ！？』
+<0029> 『ぶっ殺されてえか、ああぁーッ！？』
+
+// <0030> 『戦闘服だからだ』
+<0030> 『戦闘服だからだ』
+
+// <0031> 『ジェットばすぞテメェーッ！！』
+<0031> 『ジェットばすぞテメェーッ！！』
+
+// <0032> 『あばよ』
+<0032> 『あばよ』
+
+// <0033> 『そんな奇天烈な呼ばれ方、されたことねぇ！』
+<0033> 『そんな奇天烈な呼ばれ方、されたことねぇ！』
+
+// <0034> 『あの牛丼屋はオレの家じゃねぇ！』
+<0034> 『あの牛丼屋はオレの家じゃねぇ！』
+
+// <0035> dummy
+<0035> dummy
+
+// <0036> sys00_sys00
+<0036> sys00_sys00
+
+// <0037> ef_ys_zbtn_no00
+<0037> ef_ys_zbtn_no00
+
+// <0038> ef_ys_zbtn_no00
+<0038> ef_ys_zbtn_no00
+
+// <0039> ef_ys_zbtn_no00
+<0039> ef_ys_zbtn_no00
+
+// <0040> ef_ys_zbtn_no00
+<0040> ef_ys_zbtn_no00
+
+// <0041> ef_ys_zbtn_no00
+<0041> ef_ys_zbtn_no00
+
+// <0042> ef_ys_zbtn_no00
+<0042> ef_ys_zbtn_no00
+
+// <0043> ef_ys_zbtn_no00
+<0043> ef_ys_zbtn_no00
+
+// <0044> ef_ys_zbtn_no00
+<0044> ef_ys_zbtn_no00
+
+// <0045> ef_ys_zbtn_no00
+<0045> ef_ys_zbtn_no00
+
+// <0046> ef_ys_zbtn_no00
+<0046> ef_ys_zbtn_no00
+
+// <0047> ef_ys_zbtn_no00
+<0047> ef_ys_zbtn_no00
+
+// <0048> ef_ys_zbtn_no00
+<0048> ef_ys_zbtn_no00
+
+// <0049> ef_ys_zbtn_play_pbtn00
+<0049> ef_ys_zbtn_play_pbtn00
+
+// <0050> ef_ys_zbtn_play_pbtn01
+<0050> ef_ys_zbtn_play_pbtn01
+
+// <0051> ef_ys_zbtn_play_pbtn02
+<0051> ef_ys_zbtn_play_pbtn02
+
+// <0052> ef_ys_zbtn_play_pbtn00
+<0052> ef_ys_zbtn_play_pbtn00
+
+// <0053> ef_ys_zbtn_play_pbtn01
+<0053> ef_ys_zbtn_play_pbtn01
+
+// <0054> ef_ys_zbtn_play_pbtn02
+<0054> ef_ys_zbtn_play_pbtn02
+
+// <0055> ef_ys_zbtn_play_pbtn00
+<0055> ef_ys_zbtn_play_pbtn00
+
+// <0056> ef_ys_zbtn_play_pbtn01
+<0056> ef_ys_zbtn_play_pbtn01
+
+// <0057> ef_ys_zbtn_play_pbtn02
+<0057> ef_ys_zbtn_play_pbtn02
+
+// <0058> ef_ys_zbtn_play_pbtn00
+<0058> ef_ys_zbtn_play_pbtn00
+
+// <0059> ef_ys_zbtn_play_pbtn01
+<0059> ef_ys_zbtn_play_pbtn01
+
+// <0060> ef_ys_zbtn_play_pbtn02
+<0060> ef_ys_zbtn_play_pbtn02
+
+// <0061> ef_ys_zbtn_id00
+<0061> ef_ys_zbtn_id00
+
+// <0062> ef_ys_zbtn_id00
+<0062> ef_ys_zbtn_id00
+
+// <0063> ef_ys_zbtn_id00
+<0063> ef_ys_zbtn_id00
+
+// <0064> ef_ys_zbtn_id00
+<0064> ef_ys_zbtn_id00
+
+// <0065> ef_ys_zbtn_id00
+<0065> ef_ys_zbtn_id00
+
+// <0066> ef_ys_zbtn_id00
+<0066> ef_ys_zbtn_id00
+
+// <0067> ef_ys_zbtn_id00
+<0067> ef_ys_zbtn_id00
+
+// <0068> ef_ys_zbtn_id00
+<0068> ef_ys_zbtn_id00
+
+// <0069> ef_ys_zbtn_id00
+<0069> ef_ys_zbtn_id00
+
+// <0070> ef_ys_zbtn_arw_left00
+<0070> ef_ys_zbtn_arw_left00
+
+// <0071> ef_ys_zbtn_arw_left00
+<0071> ef_ys_zbtn_arw_left00
+
+// <0072> ef_ys_zbtn_arw_left00
+<0072> ef_ys_zbtn_arw_left00
+
+// <0073> ef_ys_zbtn_arw_left00
+<0073> ef_ys_zbtn_arw_left00
+
+// <0074> ef_ys_zbtn_arw_left00
+<0074> ef_ys_zbtn_arw_left00
+
+// <0075> ef_ys_zbtn_arw_left00
+<0075> ef_ys_zbtn_arw_left00
+
+// <0076> ef_ys_zbtn_arw_left00
+<0076> ef_ys_zbtn_arw_left00
+
+// <0077> ef_ys_zbtn_arw_left00
+<0077> ef_ys_zbtn_arw_left00
+
+// <0078> ef_ys_zbtn_arw_left00
+<0078> ef_ys_zbtn_arw_left00
+
+// <0079> ef_ys_zbtn_arw_right00
+<0079> ef_ys_zbtn_arw_right00
+
+// <0080> ef_ys_zbtn_arw_right00
+<0080> ef_ys_zbtn_arw_right00
+
+// <0081> ef_ys_zbtn_arw_right00
+<0081> ef_ys_zbtn_arw_right00
+
+// <0082> ef_ys_zbtn_arw_right00
+<0082> ef_ys_zbtn_arw_right00
+
+// <0083> ef_ys_zbtn_arw_right00
+<0083> ef_ys_zbtn_arw_right00
+
+// <0084> ef_ys_zbtn_arw_right00
+<0084> ef_ys_zbtn_arw_right00
+
+// <0085> ef_ys_zbtn_arw_right00
+<0085> ef_ys_zbtn_arw_right00
+
+// <0086> ef_ys_zbtn_arw_right00
+<0086> ef_ys_zbtn_arw_right00
+
+// <0087> ef_ys_zbtn_arw_right00
+<0087> ef_ys_zbtn_arw_right00
+
+// <0088> ef_ys_zbtn_exit_pbtn00
+<0088> ef_ys_zbtn_exit_pbtn00
+
+// <0089> ef_ys_zbtn_exit_pbtn00
+<0089> ef_ys_zbtn_exit_pbtn00
+
+// <0090> ef_ys_zbtn_efc_ys16
+<0090> ef_ys_zbtn_efc_ys16
+
+// <0091> ef_ys_zbtn_efc_ys16
+<0091> ef_ys_zbtn_efc_ys16
+
+// <0092> ef_ys_zbtn_efc_ys16
+<0092> ef_ys_zbtn_efc_ys16
+
+// <0093> ef_ys_zbtn_efc_ys19
+<0093> ef_ys_zbtn_efc_ys19
+
+// <0094> ef_ys_zbtn_efc_ys16
+<0094> ef_ys_zbtn_efc_ys16
+
+// <0095> ef_ys_zbtn_efc_ys20
+<0095> ef_ys_zbtn_efc_ys20
+
+// <0096> ef_ys_zbtn_efc_ys20
+<0096> ef_ys_zbtn_efc_ys20
+
+// <0097> ef_ys_zbtn_efc_ys20
+<0097> ef_ys_zbtn_efc_ys20
+
+// <0098> ef_ys_zbtn_efc_ys18
+<0098> ef_ys_zbtn_efc_ys18
+
+// <0099> ef_ys_zbtn_efc_ys16
+<0099> ef_ys_zbtn_efc_ys16
+
+// <0100> ef_ys_zbtn_efc_ys15
+<0100> ef_ys_zbtn_efc_ys15
+
+// <0101> ef_ys_zbtn_efc_ys20
+<0101> ef_ys_zbtn_efc_ys20
+
+// <0102> ef_ys_zbtn_efc_ys20
+<0102> ef_ys_zbtn_efc_ys20
+
+// <0103> ef_ys_zbtn_efc_ys11
+<0103> ef_ys_zbtn_efc_ys11
+
+// <0104> ef_ys_zbtn_efc_ys19
+<0104> ef_ys_zbtn_efc_ys19
+
+// <0105> ef_ys_zbtn_efc_ys16
+<0105> ef_ys_zbtn_efc_ys16
+
+// <0106> ef_ys_zbtn_efc_ys12
+<0106> ef_ys_zbtn_efc_ys12
+
+// <0107> ef_ys_zbtn_efc_ys16
+<0107> ef_ys_zbtn_efc_ys16
+
+// <0108> ef_ys_zbtn_efc_ys10
+<0108> ef_ys_zbtn_efc_ys10
+
+// <0109> ef_ys_zbtn_efc_ys16
+<0109> ef_ys_zbtn_efc_ys16
+
+// <0110> ef_ys_zbtn_efc_ys16
+<0110> ef_ys_zbtn_efc_ys16
+
+// <0111> ef_ys_zbtn_efc_ys10
+<0111> ef_ys_zbtn_efc_ys10
+
+// <0112> ef_ys_zbtn_efc_ys16
+<0112> ef_ys_zbtn_efc_ys16
+
+// <0113> ef_ys_zbtn_efc_ys17
+<0113> ef_ys_zbtn_efc_ys17
+
+// <0114> ef_ys_zbtn_efc_ys16
+<0114> ef_ys_zbtn_efc_ys16
+
+// <0115> ef_ys_zbtn_efc_ys16
+<0115> ef_ys_zbtn_efc_ys16

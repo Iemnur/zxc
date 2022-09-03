@@ -1,0 +1,29 @@
+// <0000> dummy
+<0000> dummy
+
+// <0001> bgm028
+<0001> bgm028
+
+// <0002> sys20_adv00
+<0002> sys20_adv00
+
+// <0003> bg051
+<0003> bg051
+
+// <0004> ef_sz_nik_title00
+<0004> ef_sz_nik_title00
+
+// <0005> false
+<0005> false
+
+// <0006> false
+<0006> false
+
+// <0007> sys20_adv00
+<0007> sys20_adv00
+
+// <0008> kuro
+<0008> kuro
+
+// <0009> ef_sz_nik_moji
+<0009> ef_sz_nik_moji

@@ -1,0 +1,80 @@
+// <0000> 朱音ED
+<0000> 朱音ED
+
+// <0001> _ik_ed_ak_shadow
+<0001> _ik_ed_ak_shadow
+
+// <0002> _ik_ed_ak_shadow
+<0002> _ik_ed_ak_shadow
+
+// <0003> _ik_ed_ak_shadow
+<0003> _ik_ed_ak_shadow
+
+// <0004> _ik_ed_ak_shadow
+<0004> _ik_ed_ak_shadow
+
+// <0005> _ik_ed_ak_shadow
+<0005> _ik_ed_ak_shadow
+
+// <0006> _ik_ed_ak_shadow
+<0006> _ik_ed_ak_shadow
+
+// <0007> _ik_ed_sla
+<0007> _ik_ed_sla
+
+// <0008> _ik_ed_ch_bg00
+<0008> _ik_ed_ch_bg00
+
+// <0009> siro
+<0009> siro
+
+// <0010> kuro
+<0010> kuro
+
+// <0011> BG038
+<0011> BG038
+
+// <0012> _ik_ed_ak_cloud
+<0012> _ik_ed_ak_cloud
+
+// <0013> $fa_loop_scroll_object
+<0013> $fa_loop_scroll_object
+
+// <0014> $fa_loop_scroll_object
+<0014> $fa_loop_scroll_object
+
+// <0015> _ik_ed_ak_shadow
+<0015> _ik_ed_ak_shadow
+
+// <0016> $fa_loop_scroll_object
+<0016> $fa_loop_scroll_object
+
+// <0017> $fa_loop_scroll_object
+<0017> $fa_loop_scroll_object
+
+// <0018> _ik_ed_sla
+<0018> _ik_ed_sla
+
+// <0019> _ik_ed_sla
+<0019> _ik_ed_sla
+
+// <0020> dummy
+<0020> dummy
+
+// <0021> ed_common
+<0021> ed_common
+
+// <0022> bgm051
+<0022> bgm051
+
+// <0023> ed_common
+<0023> ed_common
+
+// <0024> ed_common
+<0024> ed_common
+
+// <0025> fgak11b
+<0025> fgak11b
+
+// <0026> siro
+<0026> siro

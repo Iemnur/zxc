@@ -1,0 +1,146 @@
+// <0000> mn_mh_circle00
+<0000> mn_mh_circle00
+
+// <0001> mn_mh_circle03
+<0001> mn_mh_circle03
+
+// <0002> dummy
+<0002> dummy
+
+// <0003> sys10_mh00
+<0003> sys10_mh00
+
+// <0004> sys10_mh00
+<0004> sys10_mh00
+
+// <0005> mn_mh_dir00
+<0005> mn_mh_dir00
+
+// <0006> mn_mh_rotate00
+<0006> mn_mh_rotate00
+
+// <0007> mn_mh_kururi00
+<0007> mn_mh_kururi00
+
+// <0008> mn_mh_kururi00
+<0008> mn_mh_kururi00
+
+// <0009> mn_mh_gururu00
+<0009> mn_mh_gururu00
+
+// <0010> mn_mh_gururu00
+<0010> mn_mh_gururu00
+
+// <0011> mn_mh_circle00
+<0011> mn_mh_circle00
+
+// <0012> mn_mh_circle00
+<0012> mn_mh_circle00
+
+// <0013> mn_mh_circle00
+<0013> mn_mh_circle00
+
+// <0014> mn_mh_circle00
+<0014> mn_mh_circle00
+
+// <0015> mn_mh_circle00
+<0015> mn_mh_circle00
+
+// <0016> mn_mh_circle00
+<0016> mn_mh_circle00
+
+// <0017> mn_mh_circle00
+<0017> mn_mh_circle00
+
+// <0018> mn_mh_circle00
+<0018> mn_mh_circle00
+
+// <0019> mn_mh_circle00
+<0019> mn_mh_circle00
+
+// <0020> mn_mh_circle00
+<0020> mn_mh_circle00
+
+// <0021> mn_mh_circle01
+<0021> mn_mh_circle01
+
+// <0022> mn_mh_circle01
+<0022> mn_mh_circle01
+
+// <0023> mn_mh_circle01
+<0023> mn_mh_circle01
+
+// <0024> mn_mh_circle01
+<0024> mn_mh_circle01
+
+// <0025> mn_mh_circle01
+<0025> mn_mh_circle01
+
+// <0026> mn_mh_circle01
+<0026> mn_mh_circle01
+
+// <0027> mn_mh_circle01
+<0027> mn_mh_circle01
+
+// <0028> mn_mh_circle01
+<0028> mn_mh_circle01
+
+// <0029> mn_mh_circle01
+<0029> mn_mh_circle01
+
+// <0030> mn_mh_circle01
+<0030> mn_mh_circle01
+
+// <0031> mn_mh_cha00
+<0031> mn_mh_cha00
+
+// <0032> mn_mh_circle02
+<0032> mn_mh_circle02
+
+// <0033> mn_mh_circle02
+<0033> mn_mh_circle02
+
+// <0034> mn_mh_circle02
+<0034> mn_mh_circle02
+
+// <0035> mn_mh_circle02
+<0035> mn_mh_circle02
+
+// <0036> mn_mh_circle02
+<0036> mn_mh_circle02
+
+// <0037> mn_mh_circle02
+<0037> mn_mh_circle02
+
+// <0038> mn_mh_circle02
+<0038> mn_mh_circle02
+
+// <0039> mn_mh_circle02
+<0039> mn_mh_circle02
+
+// <0040> mn_mh_circle02
+<0040> mn_mh_circle02
+
+// <0041> mn_mh_circle02
+<0041> mn_mh_circle02
+
+// <0042> mn_mh_cha00
+<0042> mn_mh_cha00
+
+// <0043> mn_mh_view01
+<0043> mn_mh_view01
+
+// <0044> mn_mh_view02
+<0044> mn_mh_view02
+
+// <0045> mn_mh_view03
+<0045> mn_mh_view03
+
+// <0046> mn_mh_view04
+<0046> mn_mh_view04
+
+// <0047> mn_mh_view05
+<0047> mn_mh_view05
+
+// <0048> mn_mh_kururi00
+<0048> mn_mh_kururi00

@@ -1,0 +1,89 @@
+// <0000> ポップアップ／ポップアップの実行 : 文字数オーバーです。
+<0000> ポップアップ／ポップアップの実行 : 文字数オーバーです。
+
+// <0001> ポップアップ／ポップアップの実行 : 文字数オーバーです。
+<0001> ポップアップ／ポップアップの実行 : 文字数オーバーです。
+
+// <0002> dummy
+<0002> dummy
+
+// <0003> bs_pop_bg00
+<0003> bs_pop_bg00
+
+// <0004> bs_pop_bg00
+<0004> bs_pop_bg00
+
+// <0005> bs_pop_bg01
+<0005> bs_pop_bg01
+
+// <0006> bs_pop_bg01
+<0006> bs_pop_bg01
+
+// <0007> bs_pop_bg02
+<0007> bs_pop_bg02
+
+// <0008> bs_pop_bg02
+<0008> bs_pop_bg02
+
+// <0009> bs_pop_bg03
+<0009> bs_pop_bg03
+
+// <0010> bs_pop_bg03
+<0010> bs_pop_bg03
+
+// <0011> bs_pop_bg10
+<0011> bs_pop_bg10
+
+// <0012> bs_pop_bg10
+<0012> bs_pop_bg10
+
+// <0013> bs_pop_bg11
+<0013> bs_pop_bg11
+
+// <0014> bs_pop_bg11
+<0014> bs_pop_bg11
+
+// <0015> bs_pop_bg12
+<0015> bs_pop_bg12
+
+// <0016> bs_pop_bg12
+<0016> bs_pop_bg12
+
+// <0017> bs_pop_bg13
+<0017> bs_pop_bg13
+
+// <0018> bs_pop_bg13
+<0018> bs_pop_bg13
+
+// <0019> bs_pop_bg20
+<0019> bs_pop_bg20
+
+// <0020> bs_pop_bg21
+<0020> bs_pop_bg21
+
+// <0021> bs_pop_bg22
+<0021> bs_pop_bg22
+
+// <0022> bs_pop_bg23
+<0022> bs_pop_bg23
+
+// <0023> sys00_sys00
+<0023> sys00_sys00
+
+// <0024> bs_pop_jin00
+<0024> bs_pop_jin00
+
+// <0025> sys00_sys00
+<0025> sys00_sys00
+
+// <0026> bs_pop_jin10
+<0026> bs_pop_jin10
+
+// <0027> sys00_sys00
+<0027> sys00_sys00
+
+// <0028> bs_pop_jin20
+<0028> bs_pop_jin20
+
+// <0029> sys00_sys00
+<0029> sys00_sys00

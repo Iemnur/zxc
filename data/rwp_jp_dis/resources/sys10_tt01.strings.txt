@@ -1,0 +1,494 @@
+// <0000> －－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+<0000> －－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+
+// <0001> ≪見たいタイトル画面を選択して下さい≫
+<0001> ≪見たいタイトル画面を選択して下さい≫
+
+// <0002> －－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+<0002> －－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+
+// <0003> 【０人クリア】　…　初期状態です。
+<0003> 【０人クリア】　…　初期状態です。
+
+// <0004> 【１人クリア】　…　篝が追加。鑑賞モードが追加。
+<0004> 【１人クリア】　…　篝が追加。鑑賞モードが追加。
+
+// <0005> 【月編】　　　　…　瑚太朗ぼっち。Ｍｏｏｎが追加（文字の下に光）
+<0005> 【月編】　　　　…　瑚太朗ぼっち。Ｍｏｏｎが追加（文字の下に光）
+
+// <0006> 【地球編】　　　…　暗い空間。Ｔｅｒｒａが追加（選ぶと月→地球へ）。
+<0006> 【地球編】　　　…　暗い空間。Ｔｅｒｒａが追加（選ぶと月→地球へ）。
+
+// <0007> 【オールクリア】…　全員集合。
+<0007> 【オールクリア】…　全員集合。
+
+// <0008> －－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+<0008> －－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+
+// <0009> ※選択後は「Ｆ１」キーを押すことで、この画面に戻って来られます。
+<0009> ※選択後は「Ｆ１」キーを押すことで、この画面に戻って来られます。
+
+// <0010> －－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+<0010> －－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+
+// <0011> review\rewrite_rev.htm
+<0011> review\rewrite_rev.htm
+
+// <0012> dummy
+<0012> dummy
+
+// <0013> sys10_fa00
+<0013> sys10_fa00
+
+// <0014> sys10_mm02
+<0014> sys10_mm02
+
+// <0015> sys10_mm02
+<0015> sys10_mm02
+
+// <0016> sys10_sm00
+<0016> sys10_sm00
+
+// <0017> sys10_ex00
+<0017> sys10_ex00
+
+// <0018> sys10_sm00
+<0018> sys10_sm00
+
+// <0019> seen01000
+<0019> seen01000
+
+// <0020> seen07000
+<0020> seen07000
+
+// <0021> seen08000
+<0021> seen08000
+
+// <0022> mn_tt_war00
+<0022> mn_tt_war00
+
+// <0023> mn_tt_klogo00
+<0023> mn_tt_klogo00
+
+// <0024> mn_tt_bga_bg00
+<0024> mn_tt_bga_bg00
+
+// <0025> mn_tt_bga_bg00
+<0025> mn_tt_bga_bg00
+
+// <0026> mn_tt_bgb_bg00
+<0026> mn_tt_bgb_bg00
+
+// <0027> mn_tt_bgc_bg00
+<0027> mn_tt_bgc_bg00
+
+// <0028> mn_tt_bga_bg00
+<0028> mn_tt_bga_bg00
+
+// <0029> mn_tt_wta_sz00
+<0029> mn_tt_wta_sz00
+
+// <0030> mn_tt_wta_sz00
+<0030> mn_tt_wta_sz00
+
+// <0031> mn_tt_cga_ch00
+<0031> mn_tt_cga_ch00
+
+// <0032> mn_tt_cga_kt00
+<0032> mn_tt_cga_kt00
+
+// <0033> mn_tt_cga_lc00
+<0033> mn_tt_cga_lc00
+
+// <0034> mn_tt_cga_ak00
+<0034> mn_tt_cga_ak00
+
+// <0035> mn_tt_cga_sz00
+<0035> mn_tt_cga_sz00
+
+// <0036> mn_tt_cga_ch00
+<0036> mn_tt_cga_ch00
+
+// <0037> mn_tt_cga_kt00
+<0037> mn_tt_cga_kt00
+
+// <0038> mn_tt_cga_lc00
+<0038> mn_tt_cga_lc00
+
+// <0039> mn_tt_cga_ak00
+<0039> mn_tt_cga_ak00
+
+// <0040> mn_tt_cga_sz00
+<0040> mn_tt_cga_sz00
+
+// <0041> mn_tt_cga_kg00
+<0041> mn_tt_cga_kg00
+
+// <0042> mn_tt_cgb_ko00
+<0042> mn_tt_cgb_ko00
+
+// <0043> mn_tt_cga_ch00
+<0043> mn_tt_cga_ch00
+
+// <0044> mn_tt_cga_kt00
+<0044> mn_tt_cga_kt00
+
+// <0045> mn_tt_cga_lc00
+<0045> mn_tt_cga_lc00
+
+// <0046> mn_tt_cga_ak00
+<0046> mn_tt_cga_ak00
+
+// <0047> mn_tt_cga_sz00
+<0047> mn_tt_cga_sz00
+
+// <0048> mn_tt_cga_kg00
+<0048> mn_tt_cga_kg00
+
+// <0049> mn_tt_cga_ko00
+<0049> mn_tt_cga_ko00
+
+// <0050> mn_tt_rlogo00
+<0050> mn_tt_rlogo00
+
+// <0051> mn_tt_deco00
+<0051> mn_tt_deco00
+
+// <0052> mn_tt_deco00
+<0052> mn_tt_deco00
+
+// <0053> mn_tt_deco00
+<0053> mn_tt_deco00
+
+// <0054> mn_tt_deco00
+<0054> mn_tt_deco00
+
+// <0055> mn_tt_deco00
+<0055> mn_tt_deco00
+
+// <0056> mn_tt_deco00
+<0056> mn_tt_deco00
+
+// <0057> mn_tt_deco00
+<0057> mn_tt_deco00
+
+// <0058> mn_tt_deco00
+<0058> mn_tt_deco00
+
+// <0059> mn_tt_deco00
+<0059> mn_tt_deco00
+
+// <0060> mn_tt_deco00
+<0060> mn_tt_deco00
+
+// <0061> mn_tt_deco00
+<0061> mn_tt_deco00
+
+// <0062> mn_tt_deco00
+<0062> mn_tt_deco00
+
+// <0063> mn_tt_deco00
+<0063> mn_tt_deco00
+
+// <0064> mn_tt_deco00
+<0064> mn_tt_deco00
+
+// <0065> mn_tt_deco00
+<0065> mn_tt_deco00
+
+// <0066> mn_tt_deco00
+<0066> mn_tt_deco00
+
+// <0067> mn_tt_deco00
+<0067> mn_tt_deco00
+
+// <0068> mn_tt_deco00
+<0068> mn_tt_deco00
+
+// <0069> mn_tt_deco00
+<0069> mn_tt_deco00
+
+// <0070> mn_tt_deco00
+<0070> mn_tt_deco00
+
+// <0071> mn_tt_deco00
+<0071> mn_tt_deco00
+
+// <0072> mn_tt_deco00
+<0072> mn_tt_deco00
+
+// <0073> mn_tt_deco00
+<0073> mn_tt_deco00
+
+// <0074> mn_tt_deco00
+<0074> mn_tt_deco00
+
+// <0075> mn_tt_deco00
+<0075> mn_tt_deco00
+
+// <0076> mn_tt_deco00
+<0076> mn_tt_deco00
+
+// <0077> mn_tt_deco00
+<0077> mn_tt_deco00
+
+// <0078> mn_tt_deco00
+<0078> mn_tt_deco00
+
+// <0079> mn_tt_deco00
+<0079> mn_tt_deco00
+
+// <0080> mn_tt_deco00
+<0080> mn_tt_deco00
+
+// <0081> mn_tt_deco00
+<0081> mn_tt_deco00
+
+// <0082> mn_tt_deco00
+<0082> mn_tt_deco00
+
+// <0083> mn_tt_deco00
+<0083> mn_tt_deco00
+
+// <0084> mn_tt_deco00
+<0084> mn_tt_deco00
+
+// <0085> mn_tt_menu00
+<0085> mn_tt_menu00
+
+// <0086> mn_tt_menu03
+<0086> mn_tt_menu03
+
+// <0087> mn_tt_menu05
+<0087> mn_tt_menu05
+
+// <0088> mn_tt_menu06
+<0088> mn_tt_menu06
+
+// <0089> mn_tt_menu00
+<0089> mn_tt_menu00
+
+// <0090> mn_tt_menu03
+<0090> mn_tt_menu03
+
+// <0091> mn_tt_menu04
+<0091> mn_tt_menu04
+
+// <0092> mn_tt_menu05
+<0092> mn_tt_menu05
+
+// <0093> mn_tt_menu06
+<0093> mn_tt_menu06
+
+// <0094> mn_tt_menu00
+<0094> mn_tt_menu00
+
+// <0095> mn_tt_menu01
+<0095> mn_tt_menu01
+
+// <0096> mn_tt_menu03
+<0096> mn_tt_menu03
+
+// <0097> mn_tt_menu04
+<0097> mn_tt_menu04
+
+// <0098> mn_tt_menu05
+<0098> mn_tt_menu05
+
+// <0099> mn_tt_menu06
+<0099> mn_tt_menu06
+
+// <0100> mn_tt_menu00
+<0100> mn_tt_menu00
+
+// <0101> mn_tt_menu01
+<0101> mn_tt_menu01
+
+// <0102> mn_tt_menu02
+<0102> mn_tt_menu02
+
+// <0103> mn_tt_menu03
+<0103> mn_tt_menu03
+
+// <0104> mn_tt_menu04
+<0104> mn_tt_menu04
+
+// <0105> mn_tt_menu05
+<0105> mn_tt_menu05
+
+// <0106> mn_tt_menu06
+<0106> mn_tt_menu06
+
+// <0107> mn_tt_menu00
+<0107> mn_tt_menu00
+
+// <0108> mn_tt_menu01
+<0108> mn_tt_menu01
+
+// <0109> mn_tt_menu02
+<0109> mn_tt_menu02
+
+// <0110> mn_tt_menu03
+<0110> mn_tt_menu03
+
+// <0111> mn_tt_menu04
+<0111> mn_tt_menu04
+
+// <0112> mn_tt_menu05
+<0112> mn_tt_menu05
+
+// <0113> mn_tt_menu06
+<0113> mn_tt_menu06
+
+// <0114> mn_tt_copy00
+<0114> mn_tt_copy00
+
+// <0115> kuro
+<0115> kuro
+
+// <0116> siro
+<0116> siro
+
+// <0117> siro
+<0117> siro
+
+// <0118> mn_tt_mn00
+<0118> mn_tt_mn00
+
+// <0119> mn_tt_tr00
+<0119> mn_tt_tr00
+
+// <0120> mn_tt_tr00
+<0120> mn_tt_tr00
+
+// <0121> mn_tt_klogo00
+<0121> mn_tt_klogo00
+
+// <0122> mn_tt_rpa_sz00
+<0122> mn_tt_rpa_sz00
+
+// <0123> mn_tt_rpa_sz00
+<0123> mn_tt_rpa_sz00
+
+// <0124> mn_tt_rpb_ko00
+<0124> mn_tt_rpb_ko00
+
+// <0125> mn_tt_rpc_nc00
+<0125> mn_tt_rpc_nc00
+
+// <0126> mn_tt_rpa_ko00
+<0126> mn_tt_rpa_ko00
+
+// <0127> mn_tt_rlogo00
+<0127> mn_tt_rlogo00
+
+// <0128> mn_tt_rpa_sz01
+<0128> mn_tt_rpa_sz01
+
+// <0129> mn_tt_rpa_kg01
+<0129> mn_tt_rpa_kg01
+
+// <0130> mn_tt_rpb_ko01
+<0130> mn_tt_rpb_ko01
+
+// <0131> mn_tt_rpc_nc01
+<0131> mn_tt_rpc_nc01
+
+// <0132> mn_tt_rpa_ko01
+<0132> mn_tt_rpa_ko01
+
+// <0133> mn_tt_nvb_ko00
+<0133> mn_tt_nvb_ko00
+
+// <0134> mn_tt_nvc_nc00
+<0134> mn_tt_nvc_nc00
+
+// <0135> mn_tt_lb00
+<0135> mn_tt_lb00
+
+// <0136> mn_tt_mh00
+<0136> mn_tt_mh00
+
+// <0137> mn_tt_tr00
+<0137> mn_tt_tr00
+
+// <0138> mn_ss_se31
+<0138> mn_ss_se31
+
+// <0139> mn_ss_se32
+<0139> mn_ss_se32
+
+// <0140> bgm016
+<0140> bgm016
+
+// <0141> siro
+<0141> siro
+
+// <0142> siro
+<0142> siro
+
+// <0143> siro
+<0143> siro
+
+// <0144> kuro
+<0144> kuro
+
+// <0145> siro
+<0145> siro
+
+// <0146> siro
+<0146> siro
+
+// <0147> kuro
+<0147> kuro
+
+// <0148> sys00_sys00
+<0148> sys00_sys00
+
+// <0149> sys00_sys00
+<0149> sys00_sys00
+
+// <0150> sys00_sys00
+<0150> sys00_sys00
+
+// <0151> sys00_sys00
+<0151> sys00_sys00
+
+// <0152> kuro
+<0152> kuro
+
+// <0153> mn_ss_se32
+<0153> mn_ss_se32
+
+// <0154> sys00_sys00
+<0154> sys00_sys00
+
+// <0155> siro
+<0155> siro
+
+// <0156> siro
+<0156> siro
+
+// <0157> sys00_sys00
+<0157> sys00_sys00
+
+// <0158> sys00_sys00
+<0158> sys00_sys00
+
+// <0159> sys00_sys00
+<0159> sys00_sys00
+
+// <0160> kuro
+<0160> kuro
+
+// <0161> bgm016
+<0161> bgm016
+
+// <0162> mn_ss_se31
+<0162> mn_ss_se31
+
+// <0163> mn_ss_se32
+<0163> mn_ss_se32
+
+// <0164> kuro
+<0164> kuro

@@ -1,0 +1,3029 @@
+// <0000> _ny_ef_lc_001
+<0000> _ny_ef_lc_001
+
+// <0001> $g_fa_update_particle_advance_time
+<0001> $g_fa_update_particle_advance_time
+
+// <0002> _ny_ef_lc_001
+<0002> _ny_ef_lc_001
+
+// <0003> $g_fa_update_particle_advance_time
+<0003> $g_fa_update_particle_advance_time
+
+// <0004> _ny_ef_lc_001
+<0004> _ny_ef_lc_001
+
+// <0005> $g_fa_update_particle_advance_time
+<0005> $g_fa_update_particle_advance_time
+
+// <0006> あの日。
+<0006> あの日。
+
+// <0007> 紛れもなくルチアは“鍵”だった。
+<0007> 紛れもなくルチアは“鍵”だった。
+
+// <0008> ならば、本当の“鍵”という少女は、……一体、どんな存在なんだろう。
+<0008> ならば、本当の“鍵”という少女は、……一体、どんな存在なんだろう。
+
+// <0009> 二十万の人命を奪った“鍵”のルチアは、その重みに今も苦しんでいる。
+<0009> 二十万の人命を奪った“鍵”のルチアは、その重みに今も苦しんでいる。
+
+// <0010> もし世界が滅べば、二十万など比べ物にもならない、何十億もの人命が奪われる。
+<0010> もし世界が滅べば、二十万など比べ物にもならない、何十億もの人命が奪われる。
+
+// <0011> 本当の“鍵”は、その重みに、……耐える覚悟があって、この世界へ訪れているの
+<0011> 本当の“鍵”は、その重みに、……耐える覚悟があって、この世界へ訪れているの
+
+// <0012> だろうか。
+<0012> だろうか。
+
+// <0013> 
+<0013> 
+
+// <0014> ……わからない。
+<0014> ……わからない。
+
+// <0015> ただ一つ言えることは、……“鍵”はやがて再び、地上のどこかに現れること。
+<0015> ただ一つ言えることは、……“鍵”はやがて再び、地上のどこかに現れること。
+
+// <0016> そして、悲壮な決意によって、……この世界が存続する意味があるか否かを決断し、
+<0016> そして、悲壮な決意によって、……この世界が存続する意味があるか否かを決断し、
+
+// <0017> その責任を負うということだ。
+<0017> その責任を負うということだ。
+
+// <0018> 
+<0018> 
+
+// <0019> 我々人類には、千年後の世界を担う資格は、あるのだろうか。
+<0019> 我々人類には、千年後の世界を担う資格は、あるのだろうか。
+
+// <0020> その世界へ至ろうとして生み出された、人類の罪が、ルチアなのだ。
+<0020> その世界へ至ろうとして生み出された、人類の罪が、ルチアなのだ。
+
+// <0021> 彼女だけにその十字架を背負わせるのは、あまりに酷だ。
+<0021> 彼女だけにその十字架を背負わせるのは、あまりに酷だ。
+
+// <0022> そして、それを背負うことになるだろう“鍵”にも、同情をせざるを得ない。
+<0022> そして、それを背負うことになるだろう“鍵”にも、同情をせざるを得ない。
+
+// <0023> だから俺は、……再び現れる“鍵”が、その決断をすることのない世界になってく
+<0023> だから俺は、……再び現れる“鍵”が、その決断をすることのない世界になってく
+
+// <0024> れるよう、祈り続けている。
+<0024> れるよう、祈り続けている。
+
+// <0025> 
+<0025> 
+
+// <0026> 　　　　　　　　　　　　　　――南米教区、第７シェルター「Girasol-7」にて。
+<0026> 　　　　　　　　　　　　　　――南米教区、第７シェルター「Girasol-7」にて。
+
+// <0027> 　　　　　　　　　　　　　　　　　　　２０１１年１１月２０日　天王寺瑚太朗
+<0027> 　　　　　　　　　　　　　　　　　　　２０１１年１１月２０日　天王寺瑚太朗
+
+// <0028> 　
+<0028> 　
+
+// <0029> _ny_ef_ot_006
+<0029> _ny_ef_ot_006
+
+// <0030> _ny_ef_ot_014
+<0030> _ny_ef_ot_014
+
+// <0031> $g_fa_update_particle
+<0031> $g_fa_update_particle
+
+// <0032> _ny_ef_sz_002
+<0032> _ny_ef_sz_002
+
+// <0033> $g_fa_update_particle
+<0033> $g_fa_update_particle
+
+// <0034> ハズレ
+<0034> ハズレ
+
+// <0035> 
+<0035> 
+
+// <0036> _ny_ef_sz_003
+<0036> _ny_ef_sz_003
+
+// <0037> _ny_ef_sz_003
+<0037> _ny_ef_sz_003
+
+// <0038> _ny_ef_sz_003
+<0038> _ny_ef_sz_003
+
+// <0039> _ny_ef_sz_003
+<0039> _ny_ef_sz_003
+
+// <0040> _ny_ef_sz_003
+<0040> _ny_ef_sz_003
+
+// <0041> _ny_ef_sz_003
+<0041> _ny_ef_sz_003
+
+// <0042> _ny_ef_sz_003
+<0042> _ny_ef_sz_003
+
+// <0043> $g_fa_update_particle_oneshot
+<0043> $g_fa_update_particle_oneshot
+
+// <0044> $g_fa_update_particle_oneshot
+<0044> $g_fa_update_particle_oneshot
+
+// <0045> $g_fa_update_particle_oneshot
+<0045> $g_fa_update_particle_oneshot
+
+// <0046> $g_fa_update_particle_oneshot
+<0046> $g_fa_update_particle_oneshot
+
+// <0047> $g_fa_update_particle_oneshot
+<0047> $g_fa_update_particle_oneshot
+
+// <0048> $g_fa_update_particle_oneshot
+<0048> $g_fa_update_particle_oneshot
+
+// <0049> $g_fa_update_particle_oneshot
+<0049> $g_fa_update_particle_oneshot
+
+// <0050> 
+<0050> 
+
+// <0051> 
+<0051> 
+
+// <0052> 
+<0052> 
+
+// <0053> ハズレ
+<0053> ハズレ
+
+// <0054> _ny_ef_sz_003
+<0054> _ny_ef_sz_003
+
+// <0055> $g_fa_update_particle_oneshot
+<0055> $g_fa_update_particle_oneshot
+
+// <0056> _ny_ef_sk_001
+<0056> _ny_ef_sk_001
+
+// <0057> $g_fa_update_particle_advance_time
+<0057> $g_fa_update_particle_advance_time
+
+// <0058> _ny_ef_sz_003
+<0058> _ny_ef_sz_003
+
+// <0059> $g_fa_update_particle_oneshot
+<0059> $g_fa_update_particle_oneshot
+
+// <0060> _ny_ef_sz_003
+<0060> _ny_ef_sz_003
+
+// <0061> $g_fa_update_particle_oneshot
+<0061> $g_fa_update_particle_oneshot
+
+// <0062> _ny_ef_lc_004
+<0062> _ny_ef_lc_004
+
+// <0063> $g_fa_update_particle
+<0063> $g_fa_update_particle
+
+// <0064> _ny_ef_lc_005
+<0064> _ny_ef_lc_005
+
+// <0065> $g_fa_update_particle
+<0065> $g_fa_update_particle
+
+// <0066> ny_mv_glass_broken
+<0066> ny_mv_glass_broken
+
+// <0067> _ny_ef_lc_004
+<0067> _ny_ef_lc_004
+
+// <0068> $g_fa_update_particle
+<0068> $g_fa_update_particle
+
+// <0069> _ny_ef_ot_005
+<0069> _ny_ef_ot_005
+
+// <0070> $g_fa_update_particle
+<0070> $g_fa_update_particle
+
+// <0071> $ny_fa_patolight
+<0071> $ny_fa_patolight
+
+// <0072> fglc04a
+<0072> fglc04a
+
+// <0073> fglc04b
+<0073> fglc04b
+
+// <0074> fglc04c
+<0074> fglc04c
+
+// <0075> １０番
+<0075> １０番
+
+// <0076> 顔カットイン左上
+<0076> 顔カットイン左上
+
+// <0077> １１番
+<0077> １１番
+
+// <0078> 顔カットイン右下
+<0078> 顔カットイン右下
+
+// <0079> ny_mv_muzzle_rain
+<0079> ny_mv_muzzle_rain
+
+// <0080> _ny_ef_ot_006
+<0080> _ny_ef_ot_006
+
+// <0081> $g_fa_update_particle_advance_time
+<0081> $g_fa_update_particle_advance_time
+
+// <0082> ny_mv_handgun_rain
+<0082> ny_mv_handgun_rain
+
+// <0083> ny_mv_mg_rain
+<0083> ny_mv_mg_rain
+
+// <0084> ny_mv_handgun_rain
+<0084> ny_mv_handgun_rain
+
+// <0085> ny_mv_mg_rain
+<0085> ny_mv_mg_rain
+
+// <0086> ny_mv_slash_rain
+<0086> ny_mv_slash_rain
+
+// <0087> ny_mv_guard
+<0087> ny_mv_guard
+
+// <0088> 
+<0088> 
+
+// <0089> BG042Lnb
+<0089> BG042Lnb
+
+// <0090> 『
+<0090> 『
+
+// <0091> ざ・
+<0091> ざ・
+
+// <0092> ざ・
+<0092> ざ・
+
+// <0093> ざざ・
+<0093> ざざ・
+
+// <0094> ざけんなぁーッ！！
+<0094> ざけんなぁーッ！！
+
+// <0095> 　
+<0095> 　
+
+// <0096> 』
+<0096> 』
+
+// <0097> 『
+<0097> 『
+
+// <0098> ざけ・
+<0098> ざけ・
+
+// <0099> ざけざけ・
+<0099> ざけざけ・
+
+// <0100> ざけ・
+<0100> ざけ・
+
+// <0101> ざけんなぁーッ！！　
+<0101> ざけんなぁーッ！！　
+
+// <0102> ざざ・
+<0102> ざざ・
+
+// <0103> ざざけ・
+<0103> ざざけ・
+
+// <0104> ざけ
+<0104> ざけ
+
+// <0105> んなぁーッ！！』
+<0105> んなぁーッ！！』
+
+// <0106> fgch07a
+<0106> fgch07a
+
+// <0107> fgch07b
+<0107> fgch07b
+
+// <0108> BG042LN
+<0108> BG042LN
+
+// <0109> $ny_fa_eyeofdogs
+<0109> $ny_fa_eyeofdogs
+
+// <0110> _ny_ef_ot_008
+<0110> _ny_ef_ot_008
+
+// <0111> $g_fa_update_particle_oneshot
+<0111> $g_fa_update_particle_oneshot
+
+// <0112> _NY_EF_OT_009
+<0112> _NY_EF_OT_009
+
+// <0113> $g_fa_update_particle
+<0113> $g_fa_update_particle
+
+// <0114> ny_mv_real_fire
+<0114> ny_mv_real_fire
+
+// <0115> ny_mv_real_fire_half
+<0115> ny_mv_real_fire_half
+
+// <0116> $ny_fa_kurakura
+<0116> $ny_fa_kurakura
+
+// <0117> _ny_ef_ot_010
+<0117> _ny_ef_ot_010
+
+// <0118> _ny_ef_ot_010
+<0118> _ny_ef_ot_010
+
+// <0119> _ny_ef_ot_011
+<0119> _ny_ef_ot_011
+
+// <0120> _ny_ef_ot_011
+<0120> _ny_ef_ot_011
+
+// <0121> $g_fa_update_particle_oneshot
+<0121> $g_fa_update_particle_oneshot
+
+// <0122> $g_fa_update_particle_oneshot
+<0122> $g_fa_update_particle_oneshot
+
+// <0123> _ny_ef_ot_006
+<0123> _ny_ef_ot_006
+
+// <0124> $g_fa_update_particle_advance_time
+<0124> $g_fa_update_particle_advance_time
+
+// <0125> _ny_ef_ot_012
+<0125> _ny_ef_ot_012
+
+// <0126> $g_fa_update_particle_oneshot
+<0126> $g_fa_update_particle_oneshot
+
+// <0127> _ny_ef_ot_012
+<0127> _ny_ef_ot_012
+
+// <0128> $g_fa_update_particle_oneshot
+<0128> $g_fa_update_particle_oneshot
+
+// <0129> _ny_ef_ot_012
+<0129> _ny_ef_ot_012
+
+// <0130> $g_fa_update_particle
+<0130> $g_fa_update_particle
+
+// <0131> _ny_ef_ot_012
+<0131> _ny_ef_ot_012
+
+// <0132> $g_fa_update_particle
+<0132> $g_fa_update_particle
+
+// <0133> _ny_ef_ot_013
+<0133> _ny_ef_ot_013
+
+// <0134> $g_fa_update_particle_advance_time
+<0134> $g_fa_update_particle_advance_time
+
+// <0135> ef_ys_ibt_line00
+<0135> ef_ys_ibt_line00
+
+// <0136> $g_fa_update_particle_advance_time
+<0136> $g_fa_update_particle_advance_time
+
+// <0137> メッセージウィンドウアニメはすでに変更されています！
+<0137> メッセージウィンドウアニメはすでに変更されています！
+
+// <0138> メッセージウィンドウアニメはすでに変更されています！
+<0138> メッセージウィンドウアニメはすでに変更されています！
+
+// <0139> メッセージウィンドウアニメはまだ変更されていません！
+<0139> メッセージウィンドウアニメはまだ変更されていません！
+
+// <0140> SIRO
+<0140> SIRO
+
+// <0141> KURO
+<0141> KURO
+
+// <0142> AKA
+<0142> AKA
+
+// <0143> ny_mv_aurora_start
+<0143> ny_mv_aurora_start
+
+// <0144> ny_mv_aurora_loop
+<0144> ny_mv_aurora_loop
+
+// <0145> ny_mv_beast_bite
+<0145> ny_mv_beast_bite
+
+// <0146> ny_mv_javelin_throw_w
+<0146> ny_mv_javelin_throw_w
+
+// <0147> ny_mv_javelin_throw
+<0147> ny_mv_javelin_throw
+
+// <0148> ny_mv_rolling_pole
+<0148> ny_mv_rolling_pole
+
+// <0149> ny_mv_lucia11b
+<0149> ny_mv_lucia11b
+
+// <0150> $ny_fa_fglc11_spark_b
+<0150> $ny_fa_fglc11_spark_b
+
+// <0151> ny_mv_lucia11y
+<0151> ny_mv_lucia11y
+
+// <0152> $ny_fa_fglc11_spark_y
+<0152> $ny_fa_fglc11_spark_y
+
+// <0153> ny_mv_lucia12o
+<0153> ny_mv_lucia12o
+
+// <0154> ny_mv_lucia12w
+<0154> ny_mv_lucia12w
+
+// <0155> ef_ch_sks_mh00
+<0155> ef_ch_sks_mh00
+
+// <0156> ny_mv_FGSZ10_b
+<0156> ny_mv_FGSZ10_b
+
+// <0157> 
+<0157> 
+
+// <0158> ムービーエフェクト準備しすぎです。１０個がＭＡＸ
+<0158> ムービーエフェクト準備しすぎです。１０個がＭＡＸ
+
+// <0159> ムービーエフェクトが準備されてません。
+<0159> ムービーエフェクトが準備されてません。
+
+// <0160> ny_mv_f_katana_down
+<0160> ny_mv_f_katana_down
+
+// <0161> ny_mv_f_katana_border
+<0161> ny_mv_f_katana_border
+
+// <0162> ny_mv_f_katana_slash
+<0162> ny_mv_f_katana_slash
+
+// <0163> ny_mv_f_katana_upper
+<0163> ny_mv_f_katana_upper
+
+// <0164> ny_mv_f_katana_strike
+<0164> ny_mv_f_katana_strike
+
+// <0165> ny_mv_o_katana_down
+<0165> ny_mv_o_katana_down
+
+// <0166> ny_mv_o_katana_border
+<0166> ny_mv_o_katana_border
+
+// <0167> ny_mv_o_katana_slash
+<0167> ny_mv_o_katana_slash
+
+// <0168> ny_mv_o_katana_upper
+<0168> ny_mv_o_katana_upper
+
+// <0169> ny_mv_o_katana_strike
+<0169> ny_mv_o_katana_strike
+
+// <0170> ny_mv_btflash
+<0170> ny_mv_btflash
+
+// <0171> ny_mv_btflash
+<0171> ny_mv_btflash
+
+// <0172> ny_mv_btflash
+<0172> ny_mv_btflash
+
+// <0173> ny_mv_f_knife_border_r
+<0173> ny_mv_f_knife_border_r
+
+// <0174> ny_mv_f_knife_slash_r
+<0174> ny_mv_f_knife_slash_r
+
+// <0175> ny_mv_f_knife_strike_r
+<0175> ny_mv_f_knife_strike_r
+
+// <0176> ny_mv_o_knife_border_r
+<0176> ny_mv_o_knife_border_r
+
+// <0177> ny_mv_o_knife_slash_r
+<0177> ny_mv_o_knife_slash_r
+
+// <0178> ny_mv_o_knife_strike_r
+<0178> ny_mv_o_knife_strike_r
+
+// <0179> ny_mv_f_knife_border_l
+<0179> ny_mv_f_knife_border_l
+
+// <0180> ny_mv_f_knife_slash_l
+<0180> ny_mv_f_knife_slash_l
+
+// <0181> ny_mv_f_knife_strike_l
+<0181> ny_mv_f_knife_strike_l
+
+// <0182> ny_mv_o_knife_border_l
+<0182> ny_mv_o_knife_border_l
+
+// <0183> ny_mv_o_knife_slash_l
+<0183> ny_mv_o_knife_slash_l
+
+// <0184> ny_mv_o_knife_strike_l
+<0184> ny_mv_o_knife_strike_l
+
+// <0185> ny_mv_laser_border1
+<0185> ny_mv_laser_border1
+
+// <0186> ny_mv_laser_border2
+<0186> ny_mv_laser_border2
+
+// <0187> ny_mv_laser_border3
+<0187> ny_mv_laser_border3
+
+// <0188> ny_mv_laser_knife1
+<0188> ny_mv_laser_knife1
+
+// <0189> ny_mv_laser_knife2
+<0189> ny_mv_laser_knife2
+
+// <0190> ny_mv_laser_knife3
+<0190> ny_mv_laser_knife3
+
+// <0191> ny_mv_laser_knife4
+<0191> ny_mv_laser_knife4
+
+// <0192> ny_mv_laser_knife5
+<0192> ny_mv_laser_knife5
+
+// <0193> ny_mv_aura1_down
+<0193> ny_mv_aura1_down
+
+// <0194> ny_mv_aura1_border
+<0194> ny_mv_aura1_border
+
+// <0195> ny_mv_aura1_slash
+<0195> ny_mv_aura1_slash
+
+// <0196> ny_mv_aura1_upper
+<0196> ny_mv_aura1_upper
+
+// <0197> ny_mv_aura1_strike
+<0197> ny_mv_aura1_strike
+
+// <0198> ny_mv_aura3_down
+<0198> ny_mv_aura3_down
+
+// <0199> ny_mv_aura3_border
+<0199> ny_mv_aura3_border
+
+// <0200> ny_mv_aura3_slash
+<0200> ny_mv_aura3_slash
+
+// <0201> ny_mv_aura3_upper
+<0201> ny_mv_aura3_upper
+
+// <0202> ny_mv_aura3_strike
+<0202> ny_mv_aura3_strike
+
+// <0203> ny_mv_f_fist_down
+<0203> ny_mv_f_fist_down
+
+// <0204> ny_mv_f_fist_border
+<0204> ny_mv_f_fist_border
+
+// <0205> ny_mv_f_fist_slash
+<0205> ny_mv_f_fist_slash
+
+// <0206> ny_mv_f_fist_upper
+<0206> ny_mv_f_fist_upper
+
+// <0207> ny_mv_fist_down
+<0207> ny_mv_fist_down
+
+// <0208> ny_mv_fist_border
+<0208> ny_mv_fist_border
+
+// <0209> ny_mv_fist_slash
+<0209> ny_mv_fist_slash
+
+// <0210> ny_mv_fist_upper
+<0210> ny_mv_fist_upper
+
+// <0211> ny_mv_f_spear_strike
+<0211> ny_mv_f_spear_strike
+
+// <0212> ny_mv_o_spear_side
+<0212> ny_mv_o_spear_side
+
+// <0213> ny_mv_o_spear_strike
+<0213> ny_mv_o_spear_strike
+
+// <0214> ny_mv_fireball_lu
+<0214> ny_mv_fireball_lu
+
+// <0215> ny_mv_fireball_ld
+<0215> ny_mv_fireball_ld
+
+// <0216> ny_mv_fireball_ru
+<0216> ny_mv_fireball_ru
+
+// <0217> ny_mv_fireball_rd
+<0217> ny_mv_fireball_rd
+
+// <0218> ny_mv_ribbon_down
+<0218> ny_mv_ribbon_down
+
+// <0219> ny_mv_ribbon_upper
+<0219> ny_mv_ribbon_upper
+
+// <0220> ny_mv_ribbon_border
+<0220> ny_mv_ribbon_border
+
+// <0221> ny_mv_ribbon_defence
+<0221> ny_mv_ribbon_defence
+
+// <0222> ny_mv_ribbon_ready
+<0222> ny_mv_ribbon_ready
+
+// <0223> ny_mv_ribbon_ready_short
+<0223> ny_mv_ribbon_ready_short
+
+// <0224> ny_mv_ribbon_ready_short2
+<0224> ny_mv_ribbon_ready_short2
+
+// <0225> ny_mv_ribbon_def_front
+<0225> ny_mv_ribbon_def_front
+
+// <0226> ny_mv_ribbon_def_back
+<0226> ny_mv_ribbon_def_back
+
+// <0227> ny_mv_ribbon_ready_short
+<0227> ny_mv_ribbon_ready_short
+
+// <0228> ny_mv_ribbon_blind
+<0228> ny_mv_ribbon_blind
+
+// <0229> ny_mv_handgun_front1
+<0229> ny_mv_handgun_front1
+
+// <0230> ny_mv_handgun_front2
+<0230> ny_mv_handgun_front2
+
+// <0231> ny_mv_handgun_front3
+<0231> ny_mv_handgun_front3
+
+// <0232> ny_mv_handgun_side1
+<0232> ny_mv_handgun_side1
+
+// <0233> ny_mv_handgun_side2
+<0233> ny_mv_handgun_side2
+
+// <0234> ny_mv_handgun_side3
+<0234> ny_mv_handgun_side3
+
+// <0235> ny_mv_aura_slash_ex
+<0235> ny_mv_aura_slash_ex
+
+// <0236> ny_mv_aurora
+<0236> ny_mv_aurora
+
+// <0237> ny_mv_aurora_black
+<0237> ny_mv_aurora_black
+
+// <0238> ny_mv_aurora_easy
+<0238> ny_mv_aurora_easy
+
+// <0239> ny_mv_aurora_ignition
+<0239> ny_mv_aurora_ignition
+
+// <0240> ny_mv_fire_pillar_ss
+<0240> ny_mv_fire_pillar_ss
+
+// <0241> ny_mv_fire_pillar_ls
+<0241> ny_mv_fire_pillar_ls
+
+// <0242> ny_mv_aura_pillar_s
+<0242> ny_mv_aura_pillar_s
+
+// <0243> ny_mv_aura_pillar_l
+<0243> ny_mv_aura_pillar_l
+
+// <0244> ny_mv_explosion
+<0244> ny_mv_explosion
+
+// <0245> ny_mv_exexplosion
+<0245> ny_mv_exexplosion
+
+// <0246> ny_mv_explosion_aurora
+<0246> ny_mv_explosion_aurora
+
+// <0247> ny_mv_explosion_aurora
+<0247> ny_mv_explosion_aurora
+
+// <0248> ny_mv_explosion_aurora
+<0248> ny_mv_explosion_aurora
+
+// <0249> _ny_ef_FGSZ10
+<0249> _ny_ef_FGSZ10
+
+// <0250> ny_mv_FGSZ10_b
+<0250> ny_mv_FGSZ10_b
+
+// <0251> _ny_ef_FGSZ10
+<0251> _ny_ef_FGSZ10
+
+// <0252> ny_mv_FGSZ10_f
+<0252> ny_mv_FGSZ10_f
+
+// <0253> ny_mv_kabe_crash
+<0253> ny_mv_kabe_crash
+
+// <0254> ny_mv_kabe_crash_n
+<0254> ny_mv_kabe_crash_n
+
+// <0255> ny_mv_yuka_crash
+<0255> ny_mv_yuka_crash
+
+// <0256> ny_mv_yuka_crash_n
+<0256> ny_mv_yuka_crash_n
+
+// <0257> ny_mv_rouka_crash
+<0257> ny_mv_rouka_crash
+
+// <0258> ny_mv_ground
+<0258> ny_mv_ground
+
+// <0259> _ny_ef_ot_013
+<0259> _ny_ef_ot_013
+
+// <0260> $g_fa_update_particle
+<0260> $g_fa_update_particle
+
+// <0261> ny_mv_crystal_crash
+<0261> ny_mv_crystal_crash
+
+// <0262> ny_mv_crystal_collision
+<0262> ny_mv_crystal_collision
+
+// <0263> ny_mv_battle_effect
+<0263> ny_mv_battle_effect
+
+// <0264> _ny_ef_ch_002
+<0264> _ny_ef_ch_002
+
+// <0265> $g_fa_update_particle
+<0265> $g_fa_update_particle
+
+// <0266> fgmo07b
+<0266> fgmo07b
+
+// <0267> kuro
+<0267> kuro
+
+// <0268> _ny_ef_FGMO09
+<0268> _ny_ef_FGMO09
+
+// <0269> FGMO09
+<0269> FGMO09
+
+// <0270> fgmo07
+<0270> fgmo07
+
+// <0271> fgmo07
+<0271> fgmo07
+
+// <0272> mn_tt_mh00
+<0272> mn_tt_mh00
+
+// <0273> ny_mv_fist_border
+<0273> ny_mv_fist_border
+
+// <0274> ny_mv_watari
+<0274> ny_mv_watari
+
+// <0275> _ny_ef_dm_001
+<0275> _ny_ef_dm_001
+
+// <0276> _ny_ef_dm_002
+<0276> _ny_ef_dm_002
+
+// <0277> _ny_ef_dm_002
+<0277> _ny_ef_dm_002
+
+// <0278> 樹形図開始
+<0278> 樹形図開始
+
+// <0279> 樹形図自分
+<0279> 樹形図自分
+
+// <0280> 樹形図選べない
+<0280> 樹形図選べない
+
+// <0281> 樹形図世界
+<0281> 樹形図世界
+
+// <0282> 樹形図ルチア
+<0282> 樹形図ルチア
+
+// <0283> 樹形図静流
+<0283> 樹形図静流
+
+// <0284> 樹形図小鳥
+<0284> 樹形図小鳥
+
+// <0285> 樹形図朱音
+<0285> 樹形図朱音
+
+// <0286> 樹形図ちはや
+<0286> 樹形図ちはや
+
+// <0287> ＭＯＯＮ開始
+<0287> ＭＯＯＮ開始
+
+// <0288> ＭＯＯＮ１
+<0288> ＭＯＯＮ１
+
+// <0289> ＴＥＲＲＡ１
+<0289> ＴＥＲＲＡ１
+
+// <0290> ＴＥＲＲＡ２
+<0290> ＴＥＲＲＡ２
+
+// <0291> ＴＥＲＲＡ３
+<0291> ＴＥＲＲＡ３
+
+// <0292> ＴＥＲＲＡ４
+<0292> ＴＥＲＲＡ４
+
+// <0293> ＴＥＲＲＡ５
+<0293> ＴＥＲＲＡ５
+
+// <0294> ＴＥＲＲＡ６
+<0294> ＴＥＲＲＡ６
+
+// <0295> ＴＥＲＲＡ７
+<0295> ＴＥＲＲＡ７
+
+// <0296> ＴＥＲＲＡ８
+<0296> ＴＥＲＲＡ８
+
+// <0297> 終わり
+<0297> 終わり
+
+// <0298> 戻る
+<0298> 戻る
+
+// <0299> 
+<0299> 
+
+// <0300> dummy
+<0300> dummy
+
+// <0301> kuro
+<0301> kuro
+
+// <0302> sys20_adv02
+<0302> sys20_adv02
+
+// <0303> sys20_adv02
+<0303> sys20_adv02
+
+// <0304> sys00_sys00
+<0304> sys00_sys00
+
+// <0305> crash
+<0305> crash
+
+// <0306> fglc07a
+<0306> fglc07a
+
+// <0307> kuro
+<0307> kuro
+
+// <0308> bg035l
+<0308> bg035l
+
+// <0309> _ny_ef_sz_001
+<0309> _ny_ef_sz_001
+
+// <0310> _ny_ef_ot_005
+<0310> _ny_ef_ot_005
+
+// <0311> _ny_ef_sz_004
+<0311> _ny_ef_sz_004
+
+// <0312> mn_mw_mw00a01
+<0312> mn_mw_mw00a01
+
+// <0313> mn_mw_mw00a00
+<0313> mn_mw_mw00a00
+
+// <0314> mn_mw_mw00c00
+<0314> mn_mw_mw00c00
+
+// <0315> mn_mw_mw00c01
+<0315> mn_mw_mw00c01
+
+// <0316> mn_mw_mw00c02
+<0316> mn_mw_mw00c02
+
+// <0317> mn_mw_mw00c03
+<0317> mn_mw_mw00c03
+
+// <0318> mn_mw_mw00c04
+<0318> mn_mw_mw00c04
+
+// <0319> mn_mw_mw00c05
+<0319> mn_mw_mw00c05
+
+// <0320> mn_mw_mw00c06
+<0320> mn_mw_mw00c06
+
+// <0321> mn_mw_mw00c07
+<0321> mn_mw_mw00c07
+
+// <0322> mn_mw_mw00c08
+<0322> mn_mw_mw00c08
+
+// <0323> mn_mw_mw00c09
+<0323> mn_mw_mw00c09
+
+// <0324> mn_mw_mw00c10
+<0324> mn_mw_mw00c10
+
+// <0325> mn_mw_mw00c11
+<0325> mn_mw_mw00c11
+
+// <0326> mn_mw_mw00c12
+<0326> mn_mw_mw00c12
+
+// <0327> mn_mw_mw00c13
+<0327> mn_mw_mw00c13
+
+// <0328> mn_mw_mw00c14
+<0328> mn_mw_mw00c14
+
+// <0329> mn_mw_mw00c15
+<0329> mn_mw_mw00c15
+
+// <0330> mn_mh_circle00
+<0330> mn_mh_circle00
+
+// <0331> mn_mh_circle00
+<0331> mn_mh_circle00
+
+// <0332> mn_mh_circle00
+<0332> mn_mh_circle00
+
+// <0333> mn_mh_circle00
+<0333> mn_mh_circle00
+
+// <0334> mn_mh_circle00
+<0334> mn_mh_circle00
+
+// <0335> mn_mh_circle00
+<0335> mn_mh_circle00
+
+// <0336> mn_mh_circle00
+<0336> mn_mh_circle00
+
+// <0337> mn_mh_circle00
+<0337> mn_mh_circle00
+
+// <0338> mn_mh_circle00
+<0338> mn_mh_circle00
+
+// <0339> mn_mh_circle00
+<0339> mn_mh_circle00
+
+// <0340> mn_mh_dir00
+<0340> mn_mh_dir00
+
+// <0341> cgm_ch1
+<0341> cgm_ch1
+
+// <0342> mn_mh_circle01
+<0342> mn_mh_circle01
+
+// <0343> mn_mh_circle01
+<0343> mn_mh_circle01
+
+// <0344> mn_mh_circle01
+<0344> mn_mh_circle01
+
+// <0345> mn_mh_circle01
+<0345> mn_mh_circle01
+
+// <0346> mn_mh_circle01
+<0346> mn_mh_circle01
+
+// <0347> mn_mh_circle01
+<0347> mn_mh_circle01
+
+// <0348> mn_mh_circle01
+<0348> mn_mh_circle01
+
+// <0349> mn_mh_circle01
+<0349> mn_mh_circle01
+
+// <0350> mn_mh_circle01
+<0350> mn_mh_circle01
+
+// <0351> mn_mh_circle01
+<0351> mn_mh_circle01
+
+// <0352> mn_mh_cha00
+<0352> mn_mh_cha00
+
+// <0353> cgm_ak3
+<0353> cgm_ak3
+
+// <0354> mn_mh_circle01
+<0354> mn_mh_circle01
+
+// <0355> mn_mh_circle01
+<0355> mn_mh_circle01
+
+// <0356> mn_mh_circle01
+<0356> mn_mh_circle01
+
+// <0357> mn_mh_circle01
+<0357> mn_mh_circle01
+
+// <0358> mn_mh_circle01
+<0358> mn_mh_circle01
+
+// <0359> mn_mh_circle01
+<0359> mn_mh_circle01
+
+// <0360> mn_mh_circle01
+<0360> mn_mh_circle01
+
+// <0361> mn_mh_circle01
+<0361> mn_mh_circle01
+
+// <0362> mn_mh_circle01
+<0362> mn_mh_circle01
+
+// <0363> mn_mh_circle01
+<0363> mn_mh_circle01
+
+// <0364> mn_mh_cha00
+<0364> mn_mh_cha00
+
+// <0365> cgm_lc2
+<0365> cgm_lc2
+
+// <0366> mn_mh_circle01
+<0366> mn_mh_circle01
+
+// <0367> mn_mh_circle01
+<0367> mn_mh_circle01
+
+// <0368> mn_mh_circle01
+<0368> mn_mh_circle01
+
+// <0369> mn_mh_circle01
+<0369> mn_mh_circle01
+
+// <0370> mn_mh_circle01
+<0370> mn_mh_circle01
+
+// <0371> mn_mh_circle01
+<0371> mn_mh_circle01
+
+// <0372> mn_mh_circle01
+<0372> mn_mh_circle01
+
+// <0373> mn_mh_circle01
+<0373> mn_mh_circle01
+
+// <0374> mn_mh_circle01
+<0374> mn_mh_circle01
+
+// <0375> mn_mh_circle01
+<0375> mn_mh_circle01
+
+// <0376> mn_mh_cha00
+<0376> mn_mh_cha00
+
+// <0377> cgm_ys1
+<0377> cgm_ys1
+
+// <0378> mn_mh_circle02
+<0378> mn_mh_circle02
+
+// <0379> mn_mh_circle02
+<0379> mn_mh_circle02
+
+// <0380> mn_mh_circle02
+<0380> mn_mh_circle02
+
+// <0381> mn_mh_circle02
+<0381> mn_mh_circle02
+
+// <0382> mn_mh_circle02
+<0382> mn_mh_circle02
+
+// <0383> mn_mh_circle02
+<0383> mn_mh_circle02
+
+// <0384> mn_mh_circle02
+<0384> mn_mh_circle02
+
+// <0385> mn_mh_circle02
+<0385> mn_mh_circle02
+
+// <0386> mn_mh_circle02
+<0386> mn_mh_circle02
+
+// <0387> mn_mh_circle02
+<0387> mn_mh_circle02
+
+// <0388> mn_mh_cha00
+<0388> mn_mh_cha00
+
+// <0389> _ny_ef_sz_003
+<0389> _ny_ef_sz_003
+
+// <0390> _ny_ef_sz_003
+<0390> _ny_ef_sz_003
+
+// <0391> cgm_ch1
+<0391> cgm_ch1
+
+// <0392> _ny_ef_sz_005
+<0392> _ny_ef_sz_005
+
+// <0393> cgm_ak3
+<0393> cgm_ak3
+
+// <0394> _ny_ef_sz_005
+<0394> _ny_ef_sz_005
+
+// <0395> cgm_lc2
+<0395> cgm_lc2
+
+// <0396> _ny_ef_sz_005
+<0396> _ny_ef_sz_005
+
+// <0397> cgm_ys1
+<0397> cgm_ys1
+
+// <0398> _ny_ef_sz_005
+<0398> _ny_ef_sz_005
+
+// <0399> sys00_sys00
+<0399> sys00_sys00
+
+// <0400> bt_kiri_laser
+<0400> bt_kiri_laser
+
+// <0401> sys00_sys00
+<0401> sys00_sys00
+
+// <0402> sys20_adv02
+<0402> sys20_adv02
+
+// <0403> _ny_ef_ch_001
+<0403> _ny_ef_ch_001
+
+// <0404> sys20_adv02
+<0404> sys20_adv02
+
+// <0405> sys00_sys00
+<0405> sys00_sys00
+
+// <0406> bt_kiri_laser
+<0406> bt_kiri_laser
+
+// <0407> sys00_sys00
+<0407> sys00_sys00
+
+// <0408> sys20_adv02
+<0408> sys20_adv02
+
+// <0409> _ny_ef_ch_001
+<0409> _ny_ef_ch_001
+
+// <0410> sys20_adv02
+<0410> sys20_adv02
+
+// <0411> _ny_ef_lc_003
+<0411> _ny_ef_lc_003
+
+// <0412> _ny_ef_lc_003
+<0412> _ny_ef_lc_003
+
+// <0413> sys00_sys00
+<0413> sys00_sys00
+
+// <0414> crash_glass
+<0414> crash_glass
+
+// <0415> sys00_sys00
+<0415> sys00_sys00
+
+// <0416> _ny_ef_ot_003
+<0416> _ny_ef_ot_003
+
+// <0417> _ny_ef_ot_002
+<0417> _ny_ef_ot_002
+
+// <0418> _ny_ef_ot_002
+<0418> _ny_ef_ot_002
+
+// <0419> aka
+<0419> aka
+
+// <0420> _ny_ef_lc_002
+<0420> _ny_ef_lc_002
+
+// <0421> _ny_ef_lc_002
+<0421> _ny_ef_lc_002
+
+// <0422> _ny_ef_ot_001
+<0422> _ny_ef_ot_001
+
+// <0423> _ny_ef_ot_001
+<0423> _ny_ef_ot_001
+
+// <0424> _ny_ef_ot_001
+<0424> _ny_ef_ot_001
+
+// <0425> _ny_ef_ot_001
+<0425> _ny_ef_ot_001
+
+// <0426> _ny_ef_ot_001
+<0426> _ny_ef_ot_001
+
+// <0427> _ny_ef_ot_001
+<0427> _ny_ef_ot_001
+
+// <0428> _ny_ef_lc_006
+<0428> _ny_ef_lc_006
+
+// <0429> _ny_ef_lc_006
+<0429> _ny_ef_lc_006
+
+// <0430> _ny_ef_lc_006
+<0430> _ny_ef_lc_006
+
+// <0431> _ny_ef_lc_006
+<0431> _ny_ef_lc_006
+
+// <0432> _ny_ef_ot_002
+<0432> _ny_ef_ot_002
+
+// <0433> _ny_ef_ot_002
+<0433> _ny_ef_ot_002
+
+// <0434> _ny_ef_ot_003
+<0434> _ny_ef_ot_003
+
+// <0435> sys20_adv02
+<0435> sys20_adv02
+
+// <0436> bg030n1
+<0436> bg030n1
+
+// <0437> sys20_adv02
+<0437> sys20_adv02
+
+// <0438> sys20_adv02
+<0438> sys20_adv02
+
+// <0439> sys00_sys00
+<0439> sys00_sys00
+
+// <0440> handgun
+<0440> handgun
+
+// <0441> sys00_sys00
+<0441> sys00_sys00
+
+// <0442> unzyu
+<0442> unzyu
+
+// <0443> sys00_sys00
+<0443> sys00_sys00
+
+// <0444> bt_raifuru1
+<0444> bt_raifuru1
+
+// <0445> sys00_sys00
+<0445> sys00_sys00
+
+// <0446> ak47l
+<0446> ak47l
+
+// <0447> sys00_sys00
+<0447> sys00_sys00
+
+// <0448> bt_raifuru2
+<0448> bt_raifuru2
+
+// <0449> handgun
+<0449> handgun
+
+// <0450> unzyu
+<0450> unzyu
+
+// <0451> bt_raifuru1
+<0451> bt_raifuru1
+
+// <0452> ak47l
+<0452> ak47l
+
+// <0453> bt_raifuru2
+<0453> bt_raifuru2
+
+// <0454> handgun
+<0454> handgun
+
+// <0455> unzyu
+<0455> unzyu
+
+// <0456> bt_raifuru1
+<0456> bt_raifuru1
+
+// <0457> ak47l
+<0457> ak47l
+
+// <0458> bt_raifuru2
+<0458> bt_raifuru2
+
+// <0459> handgun
+<0459> handgun
+
+// <0460> unzyu
+<0460> unzyu
+
+// <0461> bt_raifuru1
+<0461> bt_raifuru1
+
+// <0462> ak47l
+<0462> ak47l
+
+// <0463> bt_raifuru2
+<0463> bt_raifuru2
+
+// <0464> handgun
+<0464> handgun
+
+// <0465> unzyu
+<0465> unzyu
+
+// <0466> bt_raifuru1
+<0466> bt_raifuru1
+
+// <0467> ak47l
+<0467> ak47l
+
+// <0468> bt_raifuru2
+<0468> bt_raifuru2
+
+// <0469> handgun
+<0469> handgun
+
+// <0470> unzyu
+<0470> unzyu
+
+// <0471> bt_raifuru1
+<0471> bt_raifuru1
+
+// <0472> ak47l
+<0472> ak47l
+
+// <0473> bt_raifuru2
+<0473> bt_raifuru2
+
+// <0474> cgm_sz14bn
+<0474> cgm_sz14bn
+
+// <0475> cgm_sz14bn
+<0475> cgm_sz14bn
+
+// <0476> cgm_sz14bn
+<0476> cgm_sz14bn
+
+// <0477> cgm_sz14bn
+<0477> cgm_sz14bn
+
+// <0478> _ny_ef_ot_002
+<0478> _ny_ef_ot_002
+
+// <0479> _ny_ef_ot_002
+<0479> _ny_ef_ot_002
+
+// <0480> sys20_adv02
+<0480> sys20_adv02
+
+// <0481> sys00_sys00
+<0481> sys00_sys00
+
+// <0482> gakon
+<0482> gakon
+
+// <0483> sys20_adv02
+<0483> sys20_adv02
+
+// <0484> sys00_sys00
+<0484> sys00_sys00
+
+// <0485> dosa
+<0485> dosa
+
+// <0486> sys20_adv02
+<0486> sys20_adv02
+
+// <0487> sys00_sys00
+<0487> sys00_sys00
+
+// <0488> handgun
+<0488> handgun
+
+// <0489> sys00_sys00
+<0489> sys00_sys00
+
+// <0490> handgun
+<0490> handgun
+
+// <0491> handgun
+<0491> handgun
+
+// <0492> handgun
+<0492> handgun
+
+// <0493> handgun
+<0493> handgun
+
+// <0494> handgun
+<0494> handgun
+
+// <0495> handgun
+<0495> handgun
+
+// <0496> muon
+<0496> muon
+
+// <0497> handgun
+<0497> handgun
+
+// <0498> handgun
+<0498> handgun
+
+// <0499> handgun
+<0499> handgun
+
+// <0500> handgun
+<0500> handgun
+
+// <0501> handgun
+<0501> handgun
+
+// <0502> ak47l
+<0502> ak47l
+
+// <0503> muon
+<0503> muon
+
+// <0504> ak47l
+<0504> ak47l
+
+// <0505> sys00_sys00
+<0505> sys00_sys00
+
+// <0506> bt_knife
+<0506> bt_knife
+
+// <0507> sys00_sys00
+<0507> sys00_sys00
+
+// <0508> bt_knuckle
+<0508> bt_knuckle
+
+// <0509> sys00_sys00
+<0509> sys00_sys00
+
+// <0510> hita
+<0510> hita
+
+// <0511> sys00_sys00
+<0511> sys00_sys00
+
+// <0512> bt_cross
+<0512> bt_cross
+
+// <0513> sys00_sys00
+<0513> sys00_sys00
+
+// <0514> bt_attack2
+<0514> bt_attack2
+
+// <0515> bt_knife
+<0515> bt_knife
+
+// <0516> bt_knuckle
+<0516> bt_knuckle
+
+// <0517> hita
+<0517> hita
+
+// <0518> bt_cross
+<0518> bt_cross
+
+// <0519> bt_attack2
+<0519> bt_attack2
+
+// <0520> bt_knife
+<0520> bt_knife
+
+// <0521> bt_knuckle
+<0521> bt_knuckle
+
+// <0522> hita
+<0522> hita
+
+// <0523> bt_cross
+<0523> bt_cross
+
+// <0524> bt_attack2
+<0524> bt_attack2
+
+// <0525> bt_knife
+<0525> bt_knife
+
+// <0526> bt_knuckle
+<0526> bt_knuckle
+
+// <0527> hita
+<0527> hita
+
+// <0528> bt_cross
+<0528> bt_cross
+
+// <0529> bt_attack2
+<0529> bt_attack2
+
+// <0530> bt_knife
+<0530> bt_knife
+
+// <0531> bt_knuckle
+<0531> bt_knuckle
+
+// <0532> hita
+<0532> hita
+
+// <0533> bt_cross
+<0533> bt_cross
+
+// <0534> bt_attack2
+<0534> bt_attack2
+
+// <0535> bt_knife
+<0535> bt_knife
+
+// <0536> bt_knuckle
+<0536> bt_knuckle
+
+// <0537> hita
+<0537> hita
+
+// <0538> bt_cross
+<0538> bt_cross
+
+// <0539> bt_attack2
+<0539> bt_attack2
+
+// <0540> sys00_sys00
+<0540> sys00_sys00
+
+// <0541> bt_knife
+<0541> bt_knife
+
+// <0542> sys00_sys00
+<0542> sys00_sys00
+
+// <0543> bt_knuckle
+<0543> bt_knuckle
+
+// <0544> sys00_sys00
+<0544> sys00_sys00
+
+// <0545> hita
+<0545> hita
+
+// <0546> sys00_sys00
+<0546> sys00_sys00
+
+// <0547> bt_cross
+<0547> bt_cross
+
+// <0548> sys00_sys00
+<0548> sys00_sys00
+
+// <0549> bt_attack2
+<0549> bt_attack2
+
+// <0550> bt_knife
+<0550> bt_knife
+
+// <0551> bt_knuckle
+<0551> bt_knuckle
+
+// <0552> hita
+<0552> hita
+
+// <0553> bt_cross
+<0553> bt_cross
+
+// <0554> bt_attack2
+<0554> bt_attack2
+
+// <0555> bt_knife
+<0555> bt_knife
+
+// <0556> bt_knuckle
+<0556> bt_knuckle
+
+// <0557> hita
+<0557> hita
+
+// <0558> bt_cross
+<0558> bt_cross
+
+// <0559> bt_attack2
+<0559> bt_attack2
+
+// <0560> bt_knife
+<0560> bt_knife
+
+// <0561> bt_knuckle
+<0561> bt_knuckle
+
+// <0562> hita
+<0562> hita
+
+// <0563> bt_cross
+<0563> bt_cross
+
+// <0564> bt_attack2
+<0564> bt_attack2
+
+// <0565> bt_knife
+<0565> bt_knife
+
+// <0566> bt_knuckle
+<0566> bt_knuckle
+
+// <0567> hita
+<0567> hita
+
+// <0568> bt_cross
+<0568> bt_cross
+
+// <0569> bt_attack2
+<0569> bt_attack2
+
+// <0570> bt_knife
+<0570> bt_knife
+
+// <0571> bt_knuckle
+<0571> bt_knuckle
+
+// <0572> hita
+<0572> hita
+
+// <0573> bt_cross
+<0573> bt_cross
+
+// <0574> bt_attack2
+<0574> bt_attack2
+
+// <0575> _ny_ef_ot_007
+<0575> _ny_ef_ot_007
+
+// <0576> _ny_ef_ot_007
+<0576> _ny_ef_ot_007
+
+// <0577> _ny_ef_ot_007
+<0577> _ny_ef_ot_007
+
+// <0578> _ny_ef_ot_007
+<0578> _ny_ef_ot_007
+
+// <0579> _ny_ef_ot_002
+<0579> _ny_ef_ot_002
+
+// <0580> _ny_ef_ot_002
+<0580> _ny_ef_ot_002
+
+// <0581> fgmo03
+<0581> fgmo03
+
+// <0582> _ny_ef_ot_012
+<0582> _ny_ef_ot_012
+
+// <0583> sys00_sys00
+<0583> sys00_sys00
+
+// <0584> mamonotouzyou
+<0584> mamonotouzyou
+
+// <0585> _ny_ef_ot_002
+<0585> _ny_ef_ot_002
+
+// <0586> _ny_ef_ot_002
+<0586> _ny_ef_ot_002
+
+// <0587> cgm_mo40
+<0587> cgm_mo40
+
+// <0588> sys00_sys00
+<0588> sys00_sys00
+
+// <0589> bt_wall_glass1
+<0589> bt_wall_glass1
+
+// <0590> sys00_sys00
+<0590> sys00_sys00
+
+// <0591> bt_wall_glass2
+<0591> bt_wall_glass2
+
+// <0592> sys00_sys00
+<0592> sys00_sys00
+
+// <0593> bt_wall_glass3
+<0593> bt_wall_glass3
+
+// <0594> sys00_sys00
+<0594> sys00_sys00
+
+// <0595> sys00_sys00
+<0595> sys00_sys00
+
+// <0596> sys00_sys00
+<0596> sys00_sys00
+
+// <0597> kuro
+<0597> kuro
+
+// <0598> siro
+<0598> siro
+
+// <0599> sys20_adv00
+<0599> sys20_adv00
+
+// <0600> kuro
+<0600> kuro
+
+// <0601> sys00_sys00
+<0601> sys00_sys00
+
+// <0602> monster_bite
+<0602> monster_bite
+
+// <0603> muon
+<0603> muon
+
+// <0604> monster_bite
+<0604> monster_bite
+
+// <0605> sys00_sys00
+<0605> sys00_sys00
+
+// <0606> murasame
+<0606> murasame
+
+// <0607> sys00_sys00
+<0607> sys00_sys00
+
+// <0608> sys00_sys00
+<0608> sys00_sys00
+
+// <0609> murasame
+<0609> murasame
+
+// <0610> sys00_sys00
+<0610> sys00_sys00
+
+// <0611> sys00_sys00
+<0611> sys00_sys00
+
+// <0612> bt_laser_knife
+<0612> bt_laser_knife
+
+// <0613> bt_laser_knife
+<0613> bt_laser_knife
+
+// <0614> bt_laser_knife
+<0614> bt_laser_knife
+
+// <0615> bt_laser_knife
+<0615> bt_laser_knife
+
+// <0616> bt_laser_knife
+<0616> bt_laser_knife
+
+// <0617> bt_laser_knife
+<0617> bt_laser_knife
+
+// <0618> bt_laser_knife
+<0618> bt_laser_knife
+
+// <0619> ny_mv_f_katana_down
+<0619> ny_mv_f_katana_down
+
+// <0620> katana
+<0620> katana
+
+// <0621> ny_mv_f_katana_border
+<0621> ny_mv_f_katana_border
+
+// <0622> muon
+<0622> muon
+
+// <0623> katana
+<0623> katana
+
+// <0624> ny_mv_f_katana_slash
+<0624> ny_mv_f_katana_slash
+
+// <0625> muon
+<0625> muon
+
+// <0626> katana
+<0626> katana
+
+// <0627> ny_mv_f_katana_upper
+<0627> ny_mv_f_katana_upper
+
+// <0628> muon
+<0628> muon
+
+// <0629> katana
+<0629> katana
+
+// <0630> ny_mv_f_katana_strike
+<0630> ny_mv_f_katana_strike
+
+// <0631> muon
+<0631> muon
+
+// <0632> katana
+<0632> katana
+
+// <0633> ny_mv_o_katana_down
+<0633> ny_mv_o_katana_down
+
+// <0634> muon
+<0634> muon
+
+// <0635> katana
+<0635> katana
+
+// <0636> ny_mv_o_katana_border
+<0636> ny_mv_o_katana_border
+
+// <0637> muon
+<0637> muon
+
+// <0638> katana
+<0638> katana
+
+// <0639> ny_mv_o_katana_slash
+<0639> ny_mv_o_katana_slash
+
+// <0640> muon
+<0640> muon
+
+// <0641> katana
+<0641> katana
+
+// <0642> ny_mv_o_katana_upper
+<0642> ny_mv_o_katana_upper
+
+// <0643> muon
+<0643> muon
+
+// <0644> katana
+<0644> katana
+
+// <0645> ny_mv_o_katana_strike
+<0645> ny_mv_o_katana_strike
+
+// <0646> muon
+<0646> muon
+
+// <0647> katana
+<0647> katana
+
+// <0648> ny_mv_btflash
+<0648> ny_mv_btflash
+
+// <0649> bt_cross
+<0649> bt_cross
+
+// <0650> ny_mv_aura1_border
+<0650> ny_mv_aura1_border
+
+// <0651> bt_aura_blade
+<0651> bt_aura_blade
+
+// <0652> ny_mv_aura1_down
+<0652> ny_mv_aura1_down
+
+// <0653> bt_aura_blade
+<0653> bt_aura_blade
+
+// <0654> ny_mv_aura1_slash
+<0654> ny_mv_aura1_slash
+
+// <0655> bt_aura_blade
+<0655> bt_aura_blade
+
+// <0656> ny_mv_aura1_strike
+<0656> ny_mv_aura1_strike
+
+// <0657> bt_aura_blade
+<0657> bt_aura_blade
+
+// <0658> ny_mv_aura1_upper
+<0658> ny_mv_aura1_upper
+
+// <0659> bt_aura_blade
+<0659> bt_aura_blade
+
+// <0660> ny_mv_aura3_border
+<0660> ny_mv_aura3_border
+
+// <0661> bt_aura_3blade
+<0661> bt_aura_3blade
+
+// <0662> ny_mv_aura3_down
+<0662> ny_mv_aura3_down
+
+// <0663> bt_aura_3blade
+<0663> bt_aura_3blade
+
+// <0664> ny_mv_aura3_slash
+<0664> ny_mv_aura3_slash
+
+// <0665> bt_aura_3blade
+<0665> bt_aura_3blade
+
+// <0666> ny_mv_aura3_strike
+<0666> ny_mv_aura3_strike
+
+// <0667> bt_aura_3blade
+<0667> bt_aura_3blade
+
+// <0668> ny_mv_aura3_upper
+<0668> ny_mv_aura3_upper
+
+// <0669> bt_aura_3blade
+<0669> bt_aura_3blade
+
+// <0670> ny_mv_fireball_ld
+<0670> ny_mv_fireball_ld
+
+// <0671> bt_fireball
+<0671> bt_fireball
+
+// <0672> ny_mv_fireball_lu
+<0672> ny_mv_fireball_lu
+
+// <0673> bt_fireball
+<0673> bt_fireball
+
+// <0674> ny_mv_fireball_rd
+<0674> ny_mv_fireball_rd
+
+// <0675> bt_fireball
+<0675> bt_fireball
+
+// <0676> ny_mv_fireball_ru
+<0676> ny_mv_fireball_ru
+
+// <0677> bt_fireball
+<0677> bt_fireball
+
+// <0678> ny_mv_fist_border
+<0678> ny_mv_fist_border
+
+// <0679> bt_knuckle
+<0679> bt_knuckle
+
+// <0680> ny_mv_fist_down
+<0680> ny_mv_fist_down
+
+// <0681> bt_knuckle
+<0681> bt_knuckle
+
+// <0682> ny_mv_fist_slash
+<0682> ny_mv_fist_slash
+
+// <0683> bt_knuckle
+<0683> bt_knuckle
+
+// <0684> ny_mv_fist_upper
+<0684> ny_mv_fist_upper
+
+// <0685> bt_knuckle
+<0685> bt_knuckle
+
+// <0686> ny_mv_f_fist_border
+<0686> ny_mv_f_fist_border
+
+// <0687> bt_knuckle
+<0687> bt_knuckle
+
+// <0688> ny_mv_f_fist_down
+<0688> ny_mv_f_fist_down
+
+// <0689> bt_knuckle
+<0689> bt_knuckle
+
+// <0690> ny_mv_f_fist_slash
+<0690> ny_mv_f_fist_slash
+
+// <0691> bt_knuckle
+<0691> bt_knuckle
+
+// <0692> ny_mv_f_fist_upper
+<0692> ny_mv_f_fist_upper
+
+// <0693> bt_knuckle
+<0693> bt_knuckle
+
+// <0694> ny_mv_f_knife_border_l
+<0694> ny_mv_f_knife_border_l
+
+// <0695> bt_knife
+<0695> bt_knife
+
+// <0696> ny_mv_f_knife_border_r
+<0696> ny_mv_f_knife_border_r
+
+// <0697> bt_knife
+<0697> bt_knife
+
+// <0698> ny_mv_f_knife_slash_l
+<0698> ny_mv_f_knife_slash_l
+
+// <0699> bt_knife
+<0699> bt_knife
+
+// <0700> ny_mv_f_knife_slash_r
+<0700> ny_mv_f_knife_slash_r
+
+// <0701> bt_knife
+<0701> bt_knife
+
+// <0702> ny_mv_f_knife_strike_l
+<0702> ny_mv_f_knife_strike_l
+
+// <0703> bt_knife
+<0703> bt_knife
+
+// <0704> ny_mv_f_knife_strike_r
+<0704> ny_mv_f_knife_strike_r
+
+// <0705> bt_knife
+<0705> bt_knife
+
+// <0706> ny_mv_o_knife_border_l
+<0706> ny_mv_o_knife_border_l
+
+// <0707> bt_knife
+<0707> bt_knife
+
+// <0708> ny_mv_o_knife_border_r
+<0708> ny_mv_o_knife_border_r
+
+// <0709> bt_knife
+<0709> bt_knife
+
+// <0710> ny_mv_o_knife_slash_l
+<0710> ny_mv_o_knife_slash_l
+
+// <0711> bt_knife
+<0711> bt_knife
+
+// <0712> ny_mv_o_knife_slash_r
+<0712> ny_mv_o_knife_slash_r
+
+// <0713> bt_knife
+<0713> bt_knife
+
+// <0714> ny_mv_o_knife_strike_l
+<0714> ny_mv_o_knife_strike_l
+
+// <0715> bt_knife
+<0715> bt_knife
+
+// <0716> ny_mv_o_knife_strike_r
+<0716> ny_mv_o_knife_strike_r
+
+// <0717> bt_knife
+<0717> bt_knife
+
+// <0718> ny_mv_o_spear_side
+<0718> ny_mv_o_spear_side
+
+// <0719> bt_spear
+<0719> bt_spear
+
+// <0720> ny_mv_o_spear_strike
+<0720> ny_mv_o_spear_strike
+
+// <0721> muon
+<0721> muon
+
+// <0722> bt_spear
+<0722> bt_spear
+
+// <0723> ny_mv_f_spear_strike
+<0723> ny_mv_f_spear_strike
+
+// <0724> bt_spear
+<0724> bt_spear
+
+// <0725> ny_mv_laser_border1
+<0725> ny_mv_laser_border1
+
+// <0726> bt_laser_knife
+<0726> bt_laser_knife
+
+// <0727> ny_mv_laser_border2
+<0727> ny_mv_laser_border2
+
+// <0728> bt_laser_knife
+<0728> bt_laser_knife
+
+// <0729> ny_mv_laser_border3
+<0729> ny_mv_laser_border3
+
+// <0730> bt_laser_knife
+<0730> bt_laser_knife
+
+// <0731> ny_mv_laser_knife1
+<0731> ny_mv_laser_knife1
+
+// <0732> bt_laser_knife
+<0732> bt_laser_knife
+
+// <0733> ny_mv_laser_knife2
+<0733> ny_mv_laser_knife2
+
+// <0734> bt_laser_knife
+<0734> bt_laser_knife
+
+// <0735> ny_mv_laser_knife3
+<0735> ny_mv_laser_knife3
+
+// <0736> bt_laser_knife
+<0736> bt_laser_knife
+
+// <0737> ny_mv_laser_knife4
+<0737> ny_mv_laser_knife4
+
+// <0738> bt_laser_knife
+<0738> bt_laser_knife
+
+// <0739> ny_mv_laser_knife5
+<0739> ny_mv_laser_knife5
+
+// <0740> bt_laser_knife
+<0740> bt_laser_knife
+
+// <0741> ny_mv_ribbon_border
+<0741> ny_mv_ribbon_border
+
+// <0742> muon
+<0742> muon
+
+// <0743> bassari
+<0743> bassari
+
+// <0744> ny_mv_ribbon_defence
+<0744> ny_mv_ribbon_defence
+
+// <0745> bt_ribbon
+<0745> bt_ribbon
+
+// <0746> ny_mv_ribbon_def_back
+<0746> ny_mv_ribbon_def_back
+
+// <0747> ny_mv_ribbon_def_front
+<0747> ny_mv_ribbon_def_front
+
+// <0748> bt_ribbon
+<0748> bt_ribbon
+
+// <0749> ny_mv_ribbon_down
+<0749> ny_mv_ribbon_down
+
+// <0750> muon
+<0750> muon
+
+// <0751> bassari
+<0751> bassari
+
+// <0752> ny_mv_ribbon_ready
+<0752> ny_mv_ribbon_ready
+
+// <0753> bt_ribbon
+<0753> bt_ribbon
+
+// <0754> ny_mv_ribbon_ready_short
+<0754> ny_mv_ribbon_ready_short
+
+// <0755> bt_ribbon
+<0755> bt_ribbon
+
+// <0756> ny_mv_ribbon_ready_short2
+<0756> ny_mv_ribbon_ready_short2
+
+// <0757> bt_ribbon
+<0757> bt_ribbon
+
+// <0758> ny_mv_ribbon_upper
+<0758> ny_mv_ribbon_upper
+
+// <0759> muon
+<0759> muon
+
+// <0760> bassari
+<0760> bassari
+
+// <0761> ny_mv_handgun_front1
+<0761> ny_mv_handgun_front1
+
+// <0762> handgun
+<0762> handgun
+
+// <0763> ny_mv_handgun_front2
+<0763> ny_mv_handgun_front2
+
+// <0764> handgun
+<0764> handgun
+
+// <0765> ny_mv_handgun_front3
+<0765> ny_mv_handgun_front3
+
+// <0766> handgun
+<0766> handgun
+
+// <0767> ny_mv_handgun_side1
+<0767> ny_mv_handgun_side1
+
+// <0768> handgun
+<0768> handgun
+
+// <0769> ny_mv_handgun_side2
+<0769> ny_mv_handgun_side2
+
+// <0770> handgun
+<0770> handgun
+
+// <0771> ny_mv_handgun_side3
+<0771> ny_mv_handgun_side3
+
+// <0772> handgun
+<0772> handgun
+
+// <0773> sys00_sys00
+<0773> sys00_sys00
+
+// <0774> katana
+<0774> katana
+
+// <0775> sys00_sys00
+<0775> sys00_sys00
+
+// <0776> handgun
+<0776> handgun
+
+// <0777> sys00_sys00
+<0777> sys00_sys00
+
+// <0778> murasame
+<0778> murasame
+
+// <0779> sys00_sys00
+<0779> sys00_sys00
+
+// <0780> sys00_sys00
+<0780> sys00_sys00
+
+// <0781> bt_aurora_ignition
+<0781> bt_aurora_ignition
+
+// <0782> sys00_sys00
+<0782> sys00_sys00
+
+// <0783> sys00_sys00
+<0783> sys00_sys00
+
+// <0784> sys00_sys00
+<0784> sys00_sys00
+
+// <0785> bt_aurora_ignition
+<0785> bt_aurora_ignition
+
+// <0786> sys00_sys00
+<0786> sys00_sys00
+
+// <0787> sys00_sys00
+<0787> sys00_sys00
+
+// <0788> bt_fireball
+<0788> bt_fireball
+
+// <0789> sys00_sys00
+<0789> sys00_sys00
+
+// <0790> sys00_sys00
+<0790> sys00_sys00
+
+// <0791> bt_fireball
+<0791> bt_fireball
+
+// <0792> sys00_sys00
+<0792> sys00_sys00
+
+// <0793> sys00_sys00
+<0793> sys00_sys00
+
+// <0794> explosion
+<0794> explosion
+
+// <0795> sys00_sys00
+<0795> sys00_sys00
+
+// <0796> sys00_sys00
+<0796> sys00_sys00
+
+// <0797> explosion
+<0797> explosion
+
+// <0798> sys00_sys00
+<0798> sys00_sys00
+
+// <0799> sys00_sys00
+<0799> sys00_sys00
+
+// <0800> explosion
+<0800> explosion
+
+// <0801> sys00_sys00
+<0801> sys00_sys00
+
+// <0802> explosion
+<0802> explosion
+
+// <0803> sys00_sys00
+<0803> sys00_sys00
+
+// <0804> explosion
+<0804> explosion
+
+// <0805> sys00_sys00
+<0805> sys00_sys00
+
+// <0806> sys00_sys00
+<0806> sys00_sys00
+
+// <0807> sys00_sys00
+<0807> sys00_sys00
+
+// <0808> sys00_sys00
+<0808> sys00_sys00
+
+// <0809> tatemonohakai
+<0809> tatemonohakai
+
+// <0810> sys00_sys00
+<0810> sys00_sys00
+
+// <0811> sys00_sys00
+<0811> sys00_sys00
+
+// <0812> tatemonohakai
+<0812> tatemonohakai
+
+// <0813> sys00_sys00
+<0813> sys00_sys00
+
+// <0814> sys00_sys00
+<0814> sys00_sys00
+
+// <0815> tatemonohakai
+<0815> tatemonohakai
+
+// <0816> sys00_sys00
+<0816> sys00_sys00
+
+// <0817> sys00_sys00
+<0817> sys00_sys00
+
+// <0818> bt_wall_ground
+<0818> bt_wall_ground
+
+// <0819> sys00_sys00
+<0819> sys00_sys00
+
+// <0820> sys00_sys00
+<0820> sys00_sys00
+
+// <0821> bt_crystal_crash
+<0821> bt_crystal_crash
+
+// <0822> sys00_sys00
+<0822> sys00_sys00
+
+// <0823> sys00_sys00
+<0823> sys00_sys00
+
+// <0824> midowbaria
+<0824> midowbaria
+
+// <0825> sys00_sys00
+<0825> sys00_sys00
+
+// <0826> bt_knife
+<0826> bt_knife
+
+// <0827> bt_knuckle
+<0827> bt_knuckle
+
+// <0828> hita
+<0828> hita
+
+// <0829> bt_cross
+<0829> bt_cross
+
+// <0830> bt_attack2
+<0830> bt_attack2
+
+// <0831> bt_knife
+<0831> bt_knife
+
+// <0832> bt_knuckle
+<0832> bt_knuckle
+
+// <0833> hita
+<0833> hita
+
+// <0834> bt_cross
+<0834> bt_cross
+
+// <0835> bt_attack2
+<0835> bt_attack2
+
+// <0836> bt_knife
+<0836> bt_knife
+
+// <0837> bt_knuckle
+<0837> bt_knuckle
+
+// <0838> hita
+<0838> hita
+
+// <0839> bt_cross
+<0839> bt_cross
+
+// <0840> bt_attack2
+<0840> bt_attack2
+
+// <0841> bt_knife
+<0841> bt_knife
+
+// <0842> bt_knuckle
+<0842> bt_knuckle
+
+// <0843> hita
+<0843> hita
+
+// <0844> bt_cross
+<0844> bt_cross
+
+// <0845> bt_attack2
+<0845> bt_attack2
+
+// <0846> bt_knife
+<0846> bt_knife
+
+// <0847> bt_knuckle
+<0847> bt_knuckle
+
+// <0848> hita
+<0848> hita
+
+// <0849> bt_cross
+<0849> bt_cross
+
+// <0850> bt_attack2
+<0850> bt_attack2
+
+// <0851> bg015n
+<0851> bg015n
+
+// <0852> cgm_mo70
+<0852> cgm_mo70
+
+// <0853> cgm_mo72
+<0853> cgm_mo72
+
+// <0854> cgm_mo73
+<0854> cgm_mo73
+
+// <0855> cgm_lc60
+<0855> cgm_lc60
+
+// <0856> cgm_sz70
+<0856> cgm_sz70
+
+// <0857> bg014n2
+<0857> bg014n2
+
+// <0858> cgm_kt32
+<0858> cgm_kt32
+
+// <0859> bg015n
+<0859> bg015n
+
+// <0860> cgm_mo70
+<0860> cgm_mo70
+
+// <0861> cgm_mo72
+<0861> cgm_mo72
+
+// <0862> cgm_mo73
+<0862> cgm_mo73
+
+// <0863> cgm_mo73
+<0863> cgm_mo73
+
+// <0864> cgm_mo73
+<0864> cgm_mo73
+
+// <0865> cgm_lc60
+<0865> cgm_lc60
+
+// <0866> cgm_sz70
+<0866> cgm_sz70
+
+// <0867> bg014n2
+<0867> bg014n2
+
+// <0868> cgm_kt32
+<0868> cgm_kt32
+
+// <0869> bg016n
+<0869> bg016n
+
+// <0870> _ny_ef_ot_007
+<0870> _ny_ef_ot_007
+
+// <0871> cgm_ch40a
+<0871> cgm_ch40a
+
+// <0872> cgm_sk40
+<0872> cgm_sk40
+
+// <0873> siro
+<0873> siro
+
+// <0874> cgm_ak16u
+<0874> cgm_ak16u
+
+// <0875> bg014n2
+<0875> bg014n2
+
+// <0876> cgm_mo30b
+<0876> cgm_mo30b
+
+// <0877> bg016n
+<0877> bg016n
+
+// <0878> _ny_ef_ot_007
+<0878> _ny_ef_ot_007
+
+// <0879> _ny_ef_ot_007
+<0879> _ny_ef_ot_007
+
+// <0880> _ny_ef_ot_007
+<0880> _ny_ef_ot_007
+
+// <0881> _ny_ef_ot_007
+<0881> _ny_ef_ot_007
+
+// <0882> _ny_ef_ot_007
+<0882> _ny_ef_ot_007
+
+// <0883> _ny_ef_ot_007
+<0883> _ny_ef_ot_007
+
+// <0884> _ny_ef_ot_007
+<0884> _ny_ef_ot_007
+
+// <0885> _ny_ef_ot_007
+<0885> _ny_ef_ot_007
+
+// <0886> _ny_ef_ot_007
+<0886> _ny_ef_ot_007
+
+// <0887> _ny_ef_ot_007
+<0887> _ny_ef_ot_007
+
+// <0888> _ny_ef_ot_007
+<0888> _ny_ef_ot_007
+
+// <0889> _ny_ef_ot_007
+<0889> _ny_ef_ot_007
+
+// <0890> _ny_ef_ot_007
+<0890> _ny_ef_ot_007
+
+// <0891> _ny_ef_ot_007
+<0891> _ny_ef_ot_007
+
+// <0892> _ny_ef_ot_007
+<0892> _ny_ef_ot_007
+
+// <0893> _ny_ef_ot_007
+<0893> _ny_ef_ot_007
+
+// <0894> _ny_ef_ot_007
+<0894> _ny_ef_ot_007
+
+// <0895> _ny_ef_ot_007
+<0895> _ny_ef_ot_007
+
+// <0896> _ny_ef_ot_007
+<0896> _ny_ef_ot_007
+
+// <0897> _ny_ef_ot_007
+<0897> _ny_ef_ot_007
+
+// <0898> cgm_ch40a
+<0898> cgm_ch40a
+
+// <0899> cgm_sk40
+<0899> cgm_sk40
+
+// <0900> siro
+<0900> siro
+
+// <0901> bg014n2
+<0901> bg014n2
+
+// <0902> cgm_ak16u
+<0902> cgm_ak16u
+
+// <0903> cgm_mo30b
+<0903> cgm_mo30b
+
+// <0904> cgm_sz14n
+<0904> cgm_sz14n
+
+// <0905> cgm_sz43
+<0905> cgm_sz43
+
+// <0906> cgm_sz20n
+<0906> cgm_sz20n
+
+// <0907> cgm_sz70
+<0907> cgm_sz70
+
+// <0908> cgm_sz14n
+<0908> cgm_sz14n
+
+// <0909> cgm_sz43
+<0909> cgm_sz43
+
+// <0910> cgm_sz20n
+<0910> cgm_sz20n
+
+// <0911> cgm_sz70
+<0911> cgm_sz70
+
+// <0912> cgm_sz70
+<0912> cgm_sz70
+
+// <0913> fgmo07
+<0913> fgmo07
+
+// <0914> cgm_mo20
+<0914> cgm_mo20
+
+// <0915> cgm_mo21
+<0915> cgm_mo21
+
+// <0916> _ny_ef_fgmo07
+<0916> _ny_ef_fgmo07
+
+// <0917> fgmo07a
+<0917> fgmo07a
+
+// <0918> fgmo07
+<0918> fgmo07
+
+// <0919> _ny_ef_fgmo07
+<0919> _ny_ef_fgmo07
+
+// <0920> fgmo07
+<0920> fgmo07
+
+// <0921> fgmo07a
+<0921> fgmo07a
+
+// <0922> _ny_ef_fgmo07p1
+<0922> _ny_ef_fgmo07p1
+
+// <0923> _ny_ef_fgmo07p2
+<0923> _ny_ef_fgmo07p2
+
+// <0924> _ny_ef_fgmo07p1
+<0924> _ny_ef_fgmo07p1
+
+// <0925> _ny_ef_fgmo07p1
+<0925> _ny_ef_fgmo07p1
+
+// <0926> _ny_ef_fgmo07p1
+<0926> _ny_ef_fgmo07p1
+
+// <0927> _ny_ef_fgmo07p2
+<0927> _ny_ef_fgmo07p2
+
+// <0928> _ny_ef_fgmo07p2
+<0928> _ny_ef_fgmo07p2
+
+// <0929> _ny_ef_fgmo07p2
+<0929> _ny_ef_fgmo07p2
+
+// <0930> _ny_ef_fgmo07p2
+<0930> _ny_ef_fgmo07p2
+
+// <0931> _ny_ef_fgmo07p2
+<0931> _ny_ef_fgmo07p2
+
+// <0932> _ny_ef_fgmo07p2
+<0932> _ny_ef_fgmo07p2
+
+// <0933> _ny_ef_fgmo07p1
+<0933> _ny_ef_fgmo07p1
+
+// <0934> _ny_ef_fgmo07p1
+<0934> _ny_ef_fgmo07p1
+
+// <0935> _ny_ef_fgmo07p1
+<0935> _ny_ef_fgmo07p1
+
+// <0936> _ny_ef_fgmo07p2
+<0936> _ny_ef_fgmo07p2
+
+// <0937> _ny_ef_fgmo07p2
+<0937> _ny_ef_fgmo07p2
+
+// <0938> _ny_ef_fgmo07p2
+<0938> _ny_ef_fgmo07p2
+
+// <0939> _ny_ef_fgmo07p1
+<0939> _ny_ef_fgmo07p1
+
+// <0940> sys00_sys00
+<0940> sys00_sys00
+
+// <0941> syuwawa
+<0941> syuwawa
+
+// <0942> _ny_ef_fgmo07p1
+<0942> _ny_ef_fgmo07p1
+
+// <0943> _ny_ef_fgmo07p2
+<0943> _ny_ef_fgmo07p2
+
+// <0944> sys00_sys00
+<0944> sys00_sys00
+
+// <0945> syuwawa
+<0945> syuwawa
+
+// <0946> _ny_ef_fgmo07p2
+<0946> _ny_ef_fgmo07p2
+
+// <0947> bg124
+<0947> bg124
+
+// <0948> cgm_mo20
+<0948> cgm_mo20
+
+// <0949> cgm_mo21
+<0949> cgm_mo21
+
+// <0950> bg124
+<0950> bg124
+
+// <0951> cgm_mo20
+<0951> cgm_mo20
+
+// <0952> sys00_sys00
+<0952> sys00_sys00
+
+// <0953> murasame
+<0953> murasame
+
+// <0954> cgm_mo21
+<0954> cgm_mo21
+
+// <0955> sys00_sys00
+<0955> sys00_sys00
+
+// <0956> sys00_sys00
+<0956> sys00_sys00
+
+// <0957> bt_knife
+<0957> bt_knife
+
+// <0958> bt_knife
+<0958> bt_knife
+
+// <0959> bt_knife
+<0959> bt_knife
+
+// <0960> bt_knife
+<0960> bt_knife
+
+// <0961> bt_knife
+<0961> bt_knife
+
+// <0962> bt_knife
+<0962> bt_knife
+
+// <0963> sys20_adv02
+<0963> sys20_adv02
+
+// <0964> _ny_ef_ch_001r
+<0964> _ny_ef_ch_001r
+
+// <0965> sys20_adv02
+<0965> sys20_adv02
+
+// <0966> _ny_ef_dm_003
+<0966> _ny_ef_dm_003
+
+// <0967> _ny_ef_fgkg13c
+<0967> _ny_ef_fgkg13c
+
+// <0968> _ny_ef_fgkg13b
+<0968> _ny_ef_fgkg13b
+
+// <0969> _ny_ef_fgkg13a
+<0969> _ny_ef_fgkg13a
+
+// <0970> _ny_ef_fgkg13b
+<0970> _ny_ef_fgkg13b
+
+// <0971> sys20_adv01
+<0971> sys20_adv01
+
+// <0972> bgm052
+<0972> bgm052
+
+// <0973> sys20_adv00
+<0973> sys20_adv00
+
+// <0974> kuro
+<0974> kuro
+
+// <0975> sys20_adv00
+<0975> sys20_adv00
+
+// <0976> kuro
+<0976> kuro
+
+// <0977> sys20_adv00
+<0977> sys20_adv00
+
+// <0978> kuro
+<0978> kuro
+
+// <0979> sys20_adv00
+<0979> sys20_adv00
+
+// <0980> kuro
+<0980> kuro
+
+// <0981> ny_mv_tree01
+<0981> ny_mv_tree01
+
+// <0982> ny_mv_tree02_1
+<0982> ny_mv_tree02_1
+
+// <0983> ny_mv_tree02_2
+<0983> ny_mv_tree02_2
+
+// <0984> ny_mv_tree02_3
+<0984> ny_mv_tree02_3
+
+// <0985> ny_mv_tree03_1
+<0985> ny_mv_tree03_1
+
+// <0986> ny_mv_tree03_2
+<0986> ny_mv_tree03_2
+
+// <0987> ny_mv_tree03_3
+<0987> ny_mv_tree03_3
+
+// <0988> ny_mv_tree03_4
+<0988> ny_mv_tree03_4
+
+// <0989> ny_mv_tree03_5
+<0989> ny_mv_tree03_5
+
+// <0990> ny_mv_tree04_2
+<0990> ny_mv_tree04_2
+
+// <0991> ny_mv_tree04_1
+<0991> ny_mv_tree04_1
+
+// <0992> ny_mv_tree05_1
+<0992> ny_mv_tree05_1
+
+// <0993> ny_mv_tree05_2
+<0993> ny_mv_tree05_2
+
+// <0994> ny_mv_tree05_3
+<0994> ny_mv_tree05_3
+
+// <0995> ny_mv_tree05_4
+<0995> ny_mv_tree05_4
+
+// <0996> ny_mv_tree05_5
+<0996> ny_mv_tree05_5
+
+// <0997> ny_mv_tree05_6
+<0997> ny_mv_tree05_6
+
+// <0998> ny_mv_tree05_7
+<0998> ny_mv_tree05_7
+
+// <0999> ny_mv_tree05_8
+<0999> ny_mv_tree05_8
+
+// <1000> sys20_adv00
+<1000> sys20_adv00
+
+// <1001> kuro
+<1001> kuro
+
+// <1002> sys20_adv00
+<1002> sys20_adv00
+
+// <1003> kuro
+<1003> kuro
+
+// <1004> ef_ev_kgsel_fire00
+<1004> ef_ev_kgsel_fire00
+
+// <1005> cgm_mo30a
+<1005> cgm_mo30a
+
+// <1006> bg037b
+<1006> bg037b
+
+// <1007> _ny_ef_fgko04_base
+<1007> _ny_ef_fgko04_base
+
+// <1008> _ny_ef_fgko04
+<1008> _ny_ef_fgko04
+
+// <1009> _tweet_guide
+<1009> _tweet_guide

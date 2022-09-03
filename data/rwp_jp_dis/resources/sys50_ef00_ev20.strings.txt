@@ -1,0 +1,38 @@
+// <0000> 
+<0000> 
+
+// <0001> snull
+<0001> snull
+
+// <0002> dummy
+<0002> dummy
+
+// <0003> sys20_adv00
+<0003> sys20_adv00
+
+// <0004> sys20_adv01
+<0004> sys20_adv01
+
+// <0005> bgm010
+<0005> bgm010
+
+// <0006> ef_ev_tre_hl00
+<0006> ef_ev_tre_hl00
+
+// <0007> ef_ev_pra_arr00
+<0007> ef_ev_pra_arr00
+
+// <0008> ef_ev_tre_pi00
+<0008> ef_ev_tre_pi00
+
+// <0009> ef_ev_tre_pi01
+<0009> ef_ev_tre_pi01
+
+// <0010> ef_ev_tre_pi02
+<0010> ef_ev_tre_pi02
+
+// <0011> ef_ev_tre_moji00
+<0011> ef_ev_tre_moji00
+
+// <0012> ef_ev_tre_moji01
+<0012> ef_ev_tre_moji01

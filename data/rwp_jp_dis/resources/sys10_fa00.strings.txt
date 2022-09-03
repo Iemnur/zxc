@@ -1,0 +1,29 @@
+// <0000> $FaMain
+<0000> $FaMain
+
+// <0001> dummy
+<0001> dummy
+
+// <0002> sys10_mwh00
+<0002> sys10_mwh00
+
+// <0003> sys10_mwb00
+<0003> sys10_mwb00
+
+// <0004> sys10_mwa00
+<0004> sys10_mwa00
+
+// <0005> sys10_mh00
+<0005> sys10_mh00
+
+// <0006> sys10_mwh00
+<0006> sys10_mwh00
+
+// <0007> sys10_mwb00
+<0007> sys10_mwb00
+
+// <0008> sys10_mwa00
+<0008> sys10_mwa00
+
+// <0009> sys10_mh00
+<0009> sys10_mh00

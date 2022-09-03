@@ -1,0 +1,27 @@
+include ini "resources/sys40_mp00.ini"
+include strings "resources/sys40_mp00.strings.txt"
+
+; Start:
+0x00000000   LINE 16
+
+#Z00:
+LABEL_0:
+0x00000005   LINE 19
+0x0000000A   OPEN
+0x0000000B   PUSH Int 5
+0x00000014   PUSH Str 1 ; sys40_mp10
+0x0000001D   PUSH Int 0
+0x00000026   CALL farcall 1 (Str, Int) ():Int
+0x0000003F   POP Int
+0x00000044   LINE 21
+0x00000049   OPEN
+0x0000004A   PUSH Int 5
+0x00000053   PUSH Str 2 ; sys40_mp31
+0x0000005C   PUSH Int 31
+0x00000065   CALL farcall 1 (Str, Int) ():Int
+0x0000007E   POP Int
+0x00000083   LINE 23
+0x00000088   RET ()
+
+0x0000008D   LINE 24
+0x00000092   END

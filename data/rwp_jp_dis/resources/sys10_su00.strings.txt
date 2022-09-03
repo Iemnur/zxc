@@ -1,0 +1,23 @@
+// <0000> dummy
+<0000> dummy
+
+// <0001> R9n1QJLP
+<0001> R9n1QJLP
+
+// <0002> dummy
+<0002> dummy
+
+// <0003> sys10_ginit00
+<0003> sys10_ginit00
+
+// <0004> sys40_mp00
+<0004> sys40_mp00
+
+// <0005> sys50_ef00_ginit00
+<0005> sys50_ef00_ginit00
+
+// <0006> sys10_ginit00
+<0006> sys10_ginit00
+
+// <0007> sys10_tt00
+<0007> sys10_tt00

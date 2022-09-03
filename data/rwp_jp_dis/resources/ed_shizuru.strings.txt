@@ -1,0 +1,185 @@
+// <0000> …
+<0000> …
+
+// <0001> た
+<0001> た
+
+// <0002> だ
+<0002> だ
+
+// <0003> い
+<0003> い
+
+// <0004> ま
+<0004> ま
+
+// <0005> …。
+<0005> …。
+
+// <0006> 静流ED
+<0006> 静流ED
+
+// <0007> _ik_ed_sz_bbg
+<0007> _ik_ed_sz_bbg
+
+// <0008> _ik_ed_sls
+<0008> _ik_ed_sls
+
+// <0009> _ik_ed_sz_blink_w
+<0009> _ik_ed_sz_blink_w
+
+// <0010> _ny_ef_lc_007
+<0010> _ny_ef_lc_007
+
+// <0011> _ny_ef_ot_005
+<0011> _ny_ef_ot_005
+
+// <0012> _ik_ed_sz_sphere3
+<0012> _ik_ed_sz_sphere3
+
+// <0013> siro
+<0013> siro
+
+// <0014> FGSZ12
+<0014> FGSZ12
+
+// <0015> siro
+<0015> siro
+
+// <0016> kuro
+<0016> kuro
+
+// <0017> _ik_ed_sz_bbg
+<0017> _ik_ed_sz_bbg
+
+// <0018> $fa_bg_change
+<0018> $fa_bg_change
+
+// <0019> FGSZ13a
+<0019> FGSZ13a
+
+// <0020> FGSZ13b
+<0020> FGSZ13b
+
+// <0021> FGSZ13a
+<0021> FGSZ13a
+
+// <0022> _ik_ed_sz_blink_w
+<0022> _ik_ed_sz_blink_w
+
+// <0023> $g_fa_update_particle
+<0023> $g_fa_update_particle
+
+// <0024> _ny_ef_lc_007
+<0024> _ny_ef_lc_007
+
+// <0025> $g_fa_update_particle
+<0025> $g_fa_update_particle
+
+// <0026> $fa_y_scroll
+<0026> $fa_y_scroll
+
+// <0027> _ik_ed_sz_sphere3
+<0027> _ik_ed_sz_sphere3
+
+// <0028> _ny_ef_ot_005
+<0028> _ny_ef_ot_005
+
+// <0029> _ny_ef_ot_005
+<0029> _ny_ef_ot_005
+
+// <0030> _ik_ed_sz_blink_w
+<0030> _ik_ed_sz_blink_w
+
+// <0031> $g_fa_update_particle_oneshot
+<0031> $g_fa_update_particle_oneshot
+
+// <0032> _ik_ed_sz_blink_w
+<0032> _ik_ed_sz_blink_w
+
+// <0033> $g_fa_update_particle_oneshot
+<0033> $g_fa_update_particle_oneshot
+
+// <0034> siro
+<0034> siro
+
+// <0035> siro
+<0035> siro
+
+// <0036> _ik_ed_sz_bbg
+<0036> _ik_ed_sz_bbg
+
+// <0037> _ik_ed_sz_bbg
+<0037> _ik_ed_sz_bbg
+
+// <0038> _ik_ed_sz_bbg
+<0038> _ik_ed_sz_bbg
+
+// <0039> _ik_ed_sz_bbg
+<0039> _ik_ed_sz_bbg
+
+// <0040> FGSZ12
+<0040> FGSZ12
+
+// <0041> _ik_ed_sls
+<0041> _ik_ed_sls
+
+// <0042> _ik_ed_sls
+<0042> _ik_ed_sls
+
+// <0043> $frmact_start_scroll_staff_list
+<0043> $frmact_start_scroll_staff_list
+
+// <0044> _ik_ed_sz_ss
+<0044> _ik_ed_sz_ss
+
+// <0045> _ik_ed_sz_ss
+<0045> _ik_ed_sz_ss
+
+// <0046> $fa_shooting_star_oneshot_special_move
+<0046> $fa_shooting_star_oneshot_special_move
+
+// <0047> _ik_ed_sz_ts
+<0047> _ik_ed_sz_ts
+
+// <0048> $fa_shooting_star_oneshot_special_effect
+<0048> $fa_shooting_star_oneshot_special_effect
+
+// <0049> _ik_ed_sz_ts
+<0049> _ik_ed_sz_ts
+
+// <0050> $g_fa_update_particle_oneshot
+<0050> $g_fa_update_particle_oneshot
+
+// <0051> _ik_ed_sz_ts
+<0051> _ik_ed_sz_ts
+
+// <0052> $g_fa_update_particle_advance_time
+<0052> $g_fa_update_particle_advance_time
+
+// <0053> _ik_ed_sz_ss
+<0053> _ik_ed_sz_ss
+
+// <0054> _ik_ed_sz_ts
+<0054> _ik_ed_sz_ts
+
+// <0055> _ik_ed_sz_ts
+<0055> _ik_ed_sz_ts
+
+// <0056> dummy
+<0056> dummy
+
+// <0057> ed_common
+<0057> ed_common
+
+// <0058> bgm050
+<0058> bgm050
+
+// <0059> ed_common
+<0059> ed_common
+
+// <0060> ed_common
+<0060> ed_common
+
+// <0061> ed_common
+<0061> ed_common

@@ -1,0 +1,35 @@
+// <0000> Ｔｅｒｒａ
+<0000> Ｔｅｒｒａ
+
+// <0001> $FaKoePlay
+<0001> $FaKoePlay
+
+// <0002> dummy
+<0002> dummy
+
+// <0003> bg080b
+<0003> bg080b
+
+// <0004> sys00_sys00
+<0004> sys00_sys00
+
+// <0005> jeep
+<0005> jeep
+
+// <0006> sys00_sys00
+<0006> sys00_sys00
+
+// <0007> cargatan
+<0007> cargatan
+
+// <0008> sys00_sys00
+<0008> sys00_sys00
+
+// <0009> cargatan
+<0009> cargatan
+
+// <0010> sys00_sys00
+<0010> sys00_sys00
+
+// <0011> ef_ev_prc_moji00
+<0011> ef_ev_prc_moji00
